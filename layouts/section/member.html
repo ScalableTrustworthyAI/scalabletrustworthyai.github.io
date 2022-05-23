@@ -1,0 +1,24 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+<div class="container">
+    <h1>Team</h1>
+    {{ range (sort .Data.Pages ".Params.sort_position") }}
+            {{partial "member_li" .}}
+    {{ end }}
+</div>
+
+{{ $alumni_len := len (where .Site.RegularPages "Section" "alumni" ) }}
+{{ if gt $alumni_len 0 }}
+
+<div class="container">
+    <h1>Alumni</h1>
+    {{ range where .Site.RegularPages "Section" "alumni" }}
+        {{ partial "alumni_li" . }}
+    {{ end }}
+</div>
+
+{{ end }}
+
+{{ partial "footer_container.html" . }}
+{{ partial "footer.html" . }}

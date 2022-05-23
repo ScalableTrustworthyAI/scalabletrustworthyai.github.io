@@ -1,0 +1,62 @@
+{{ $vacancies_len := len (where .Site.RegularPages "Type" "open-projects") }}
+{{ if gt $vacancies_len 0 }}
+<section id="open-projects" class="home-section">
+    <div class="container">
+       <div class="row">
+            
+            <!-- Section heading -->
+            <div class="col-xs-12 col-md-4 section-heading">
+                <h1><a href="{{.Site.BaseURL}}/open-projects/{{if .Site.Params.uglyURLs}}index.html{{end}}">{{ with .Site.Params.open_projects.title }}{{ . | markdownify }}{{ end }}</a></h1>
+                {{ with .Site.Params.open_projects.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
+            </div>
+            
+            <!-- Vacancies -->
+            <div class="col-xs-12 col-md-8">
+                {{ range first .Site.Params.open_projects.count (where .Site.RegularPages "Type" "open-projects") }}
+                    <div class="article-list-item">
+                        {{ if .Content }}
+                            {{ .Scratch.Set "link" .Permalink}}
+                        {{ else if .Params.external_link }}
+                            {{ .Scratch.Set "link" .Params.external_link}}
+                        {{ end }}
+                        
+                        <h3 class="article-title" itemprop="name">
+                            <a href="{{ .Scratch.Get "link" }}" itemprop="url">{{ .Title }}</a>
+                        </h3>
+
+                        {{ with .Params.description }}
+                            <p class="article-style" itemprop="articleBody">
+                                {{ . | markdownify }}
+                            </p>
+                        {{ end }}
+
+                        <p class="read-more">
+                            {{ if .Params.external_link }}
+                            <a href="{{ .Params.external_link }}" class="btn btn-primary btn-outline">
+                                Go to external website
+                            </a>
+                            {{ end }}
+                            
+                            {{ if .Content }}
+                            <a href="{{ .Scratch.Get "link" }}" class="btn btn-primary btn-outline">
+                                {{ with .Site.Params.posts.str_read_more }}{{ . | markdownify }}{{ end }}
+                            </a>
+                            {{ end }}
+                        </p>
+                    </div>
+                {{ end }}
+            </div>
+        </div>
+        
+        <!-- Link to all vacancies -->
+        <div>
+            <p class="view-all">
+                <a href="{{ .Site.BaseURL }}/open-projects/{{if .Site.Params.uglyURLs}}index.html{{end}}">
+                    {{ with .Site.Params.open_projects.str_all }}{{ . }}{{ end }}
+                    <i class="fa fa-angle-double-right"></i>
+                </a>
+            </p>
+        </div>
+
+</section>
+{{ end }}

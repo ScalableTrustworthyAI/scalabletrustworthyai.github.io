@@ -1,0 +1,35 @@
+{{ $projects_len := len (where .Site.RegularPages "Type" "project") }}
+{{ if gt $projects_len 0 }}
+<section id="projects" class="home-section">
+    <div class="container">
+        
+        <!-- Section heading -->
+        <div class="row">
+            <div class="col-xs-12 col-md-12 section-heading">
+                <h1><a href="{{.Site.BaseURL}}/project/{{if .Site.Params.uglyURLs}}index.html{{end}}">{{ with .Site.Params.projects.title }}{{ . | markdownify }}{{ end }}</a></h1>
+                {{ with .Site.Params.projects.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
+            </div>
+        </div>
+        
+        <!-- Projects -->
+        
+        {{ range first .Site.Params.projects.count (sort (where .Site.RegularPages "Type" "project") ".Params.sort_position") }}
+            {{ partial "index/single_project" . }}
+        {{ end }}
+            
+        
+        <!-- Link to all projects -->
+        <div>
+            {{ if gt $projects_len .Site.Params.projects.count }}
+                <p class="view-all">
+                    <a href="{{ .Site.BaseURL }}/project/{{if .Site.Params.uglyURLs}}index.html{{end}}">
+                        {{ with .Site.Params.projects.str_all }}{{ . | markdownify }}{{ end }}
+                        <i class="fa fa-angle-double-right"></i>
+                    </a>
+                </p>
+            {{ end }}
+        </div>
+    
+    </div>
+</section>
+{{ end }}

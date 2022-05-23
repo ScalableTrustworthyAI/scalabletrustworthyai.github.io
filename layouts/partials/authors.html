@@ -1,0 +1,15 @@
+{{$authors_len := len . }}
+<div itemprop="author">
+        {{if gt $authors_len 1}}
+            {{ range first (sub $authors_len 1) . }}
+                {{partial "author.html" .}},
+            {{ end }}
+            {{ range last 1 . }}
+                 {{partial "author.html" .}}
+            {{end}}
+        {{else}}
+            {{range . }}
+                {{partial "author.html" .}}
+            {{end}}
+        {{end}}
+</div>
