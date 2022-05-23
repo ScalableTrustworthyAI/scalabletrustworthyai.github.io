@@ -4,7 +4,7 @@ builddrafts = false
 # Replace this with your website URL
 baseurl = "https://ScalableTrustworthyAI.github.io"
 canonifyurls = true
-title = "Group page"
+title = "Group page."
 math = true
 copyright = "&copy; Your Name, 2016 "
 
