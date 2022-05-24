@@ -2,16 +2,16 @@
     <div class="header-content">
         <div class="header-content-inner">
             <h1>
-                {{ with .Site.Params.slogan_icon }}
+                <!-- {{ with .Site.Params.slogan_icon }}
                     <i class="{{.}}"></i>
-                {{ end }}
+                {{ end }} -->
                 {{.Site.Params.slogan | safeHTML}}
             </h1>
             <!-- <hr> -->
             <p class="slogan-text">
                 {{.Site.Params.slogan_text}}
             </p>
-            <div class="container-fluid">
+            <!-- <div class="container-fluid">
                 <div class="row">
                     {{range .Site.Params.slogan_columns}}
                     <div class="col-xs-12 col-md-4">
@@ -27,7 +27,7 @@
                     </div>
                     {{end}}
                 </div>
-        </div>
+        </div> -->
         </div>
     </div>
 </header>
