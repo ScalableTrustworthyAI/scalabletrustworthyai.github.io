@@ -632,7 +632,7 @@ section#projects.home-section .project-tags {
 }
 
 @media screen and (max-width: 768px) {
-    .project-picture { 
+    .project-picture {
         display: block;
     }
 }
@@ -797,7 +797,7 @@ nav#navbar-main li {
 }
 
 .navbar-brand a img {
-    height: 60px;
+    height: 30px;
     display:inline;
     float:inherit;
     padding-right: 10px;
@@ -829,7 +829,7 @@ nav#navbar-main li {
     }
     .navbar-static-top {
         top: 0;
-        border-width: 0 0 1px;   
+        border-width: 0 0 1px;
     }
     .navbar-collapse.collapse {
         display: none!important;
@@ -851,6 +851,7 @@ nav#navbar-main li {
     }
     .navbar-brand {
         padding-top: 0px;
+        padding-bottom: 0px;
         display:inline;
     }
 
@@ -859,7 +860,7 @@ nav#navbar-main li {
     }
 
     .navbar-brand a img {
-        height: 40px;
+        height: 20px;
         display:inline;
     }
 }

@@ -13,13 +13,13 @@
 
             <div class="navbar-brand">
                 {{ if isset .Site.Params "logo"}}
-                    <a class="logo" href="{{.Site.Params.logo.link}}">
-                        <img src="/{{.Site.Params.logo.image}}" alt="University logo"></img>
+                    <a class="logo" href="{{ .Site.Params.baseurl }}">
+                        <img src="/{{.Site.Params.logo.image}}" alt="Research group logo"></img>
                     </a>
                 {{ end }}
                 {{ if isset .Site.Params "navbar_hierarchy" }}
-                {{ $hierarchy_len := len .Site.Params.navbar_hierarchy }} 
-                    {{if gt $hierarchy_len 1}} 
+                {{ $hierarchy_len := len .Site.Params.navbar_hierarchy }}
+                    {{if gt $hierarchy_len 1}}
                         {{ range first (sub $hierarchy_len 1) (sort .Site.Params.navbar_hierarchy ".position") }}
                             <a href="{{.link}}">{{.name}}</a>
                             /
@@ -28,7 +28,7 @@
                     {{ range last 1 (sort .Site.Params.navbar_hierarchy ".position") }}
                         <a href="{{.link}}">{{.name | safeHTML }}</a>
                     {{ end }}
-    
+
                 {{end}}
             </div>
         </div>
@@ -39,7 +39,7 @@
             <!-- Left Nav Bar -->
             <ul class="nav navbar-nav navbar-right">
                 {{ range .Site.Menus.main }}
-                    {{ if .HasChildren }}    
+                    {{ if .HasChildren }}
                         <!-- <li class="dropdown"><a data-scroll href="{{ $baseUrl }}{{ .URL }}"> test </a></li> -->
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{.Name}} <span class="caret"></span></a>
@@ -53,7 +53,7 @@
                         <li class="nav-item"><a data-scroll href="{{ .URL }}">{{ .Name }}</a></li>
                     {{ end }}
                 {{ end }}
-                
+
             </ul>
 
         </div><!-- /.navbar-collapse -->

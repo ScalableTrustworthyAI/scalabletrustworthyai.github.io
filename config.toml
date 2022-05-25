@@ -8,6 +8,7 @@ title = "Scalable Trustworthy AI"
 math = true
 copyright = "&copy; Seong Joon Oh, 2022"
 
+
 [taxonomies]
 category = "categories"
 tag = "tags"
@@ -20,8 +21,11 @@ tag = "tags"
   address = "Maria-von-Linden-Straße 6, 72076 Tübingen, Germany"
 
   slogan = "Scalable Trustworthy AI"
-  slogan_text = "Make AI as trustworthy as humans"
+  slogan_text = "Building trustworthy models with stronger human guidance"
 
+  [params.logo]
+    image = "img/stai_logo.png"
+    link = "img/stai_logo.png"
   # [[params.slogan_columns]]
   #   title = "About"
   #   text =  "Lorem markdownum potest utinam stabat nostris circinat sui intus eminus sanguis: narres gratata hastae dissimulant erat Trinacris! Et caput mandata gravitate atque, caeloque Oleniae austrum! Haemonio ex neque in suas iste, quem hastam alis conquerar altae, arce tutaeque est sincera [fores](http://illo.com/). Et *Aetnaea in spectat* mutarent. Prospexit longaeque adest fatidicamque dicemur habet, nec cognitus me Trachinia sperat."

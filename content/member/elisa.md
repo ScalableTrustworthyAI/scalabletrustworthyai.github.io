@@ -1,13 +1,13 @@
 +++
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
-id = "member2"
+id = "elisa"
 interests = ["Deep Learning", "Pattern Recognition", "Computer Science"]
-name = "Member Member"
+name = "Elisa Nguyen"
 portrait = "/portraits/portrait.jpg"
 short_bio = "My short bio. I am Member Member."
 short_name = ""
-title = "Member 2"
+title = "PhD Student"
 
 [[social]]
     icon = "envelope"
