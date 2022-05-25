@@ -1,0 +1,19 @@
+<section id="members" class="home-section">
+    <div class="container">
+
+        <!-- Section heading -->
+        <div class="row">
+            <div class="col-xs-12 col-md-4 section-heading">
+                <h1 class="section-heading"> Overview </h1>
+            </div>
+        </div>
+
+        <!-- Members -->
+        <p>
+          {{ range (where .Site.RegularPages "Type" "overview")}}
+              {{ .Content }}
+          {{ end }}
+        </p>
+
+    </div>
+</section>

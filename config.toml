@@ -99,30 +99,29 @@ tag = "tags"
       weight = 1
 
   [[menu.main]]
-      name = "Research"
-      url = "/research"
+      name = "Overview"
+      url = "/#overview"
       weight = 2
-
-  [[menu.main]]
-      name = "Publications"
-      url = "/#publications"
-      weight = 3
-
-    [[menu.main]]
-      name = "Projects"
-      url = "/#projects"
-      weight = 4
 
   [[menu.main]]
       name = "Members"
       url = "/#members"
+      weight = 3
+
+  [[menu.main]]
+      name = "Publications"
+      url = "/#publications"
+      weight = 4
+
+  [[menu.main]]
+      name = "Projects"
+      url = "/#projects"
       weight = 5
 
   [[menu.main]]
       name = "Blog"
       url = "/#posts"
       weight = 6
-
 
   [[menu.main]]
       name = "Contact"
