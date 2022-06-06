@@ -13,7 +13,7 @@
 
             <div class="navbar-brand">
                 {{ if isset .Site.Params "logo"}}
-                    <a class="logo" href="{{ .Site.Params.baseurl }}">
+                    <a class="logo" href="/{{ .Site.Params.baseurl }}">
                         <img src="/{{.Site.Params.logo.image}}" alt="Research group logo"></img>
                     </a>
                 {{ end }}
