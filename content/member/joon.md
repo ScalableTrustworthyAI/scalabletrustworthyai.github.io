@@ -8,6 +8,7 @@ portrait = "/portraits/joon.png"
 short_bio = "I am Seong Joon Oh."
 short_name = "Joon"
 title = "Group Leader"
+sort_position = 1
 
 [[social]]
     icon = "envelope"

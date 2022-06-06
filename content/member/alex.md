@@ -8,6 +8,7 @@ portrait = "/portraits/portrait.jpg"
 short_bio = "My short bio. I am Member Member."
 short_name = ""
 title = "PhD Student"
+sort_position = 3
 
 [[social]]
     icon = "envelope"
