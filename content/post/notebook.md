@@ -1,6 +1,6 @@
 +++
 date = "2016-07-12T15:50:58+02:00"
-short_text = "Example of Jupyter notebook conversion"
+short_text = "Example of Jupyter notebook conversionExample of Jupyter notebook conversionExample of Jupyter notebook conversionExample of Jupyter notebook conversionExample of Jupyter notebook conversionExample of Jupyter notebook conversionExample of Jupyter notebook conversionExample of Jupyter notebook conversion"
 title = "Jupyter Notebook"
 [[authors]]
     name = "member1"

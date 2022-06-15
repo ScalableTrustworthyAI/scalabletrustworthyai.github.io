@@ -9,7 +9,7 @@
       {{ .Params.short_text }}
   </p>
   <p class="read-more">
-      <a href="{{ .Permalink }}" class="btn btn-primary btn-outline">
+      <a href="{{ .Permalink }}" class="btn btn-primary btn-outline btn-xs">
           {{ with .Site.Params.posts.str_read_more }}{{ . | markdownify }}{{ end }}
       </a>
   </p>
