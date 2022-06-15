@@ -36,20 +36,16 @@ header{
 .header-content .header-content-inner h1 {
     margin-top: 0;
     margin-bottom: 0;
-    font-weight: 700;
-}
-
-.header-content .header-content-inner hr {
-    margin: 30px auto;
+    font-weight: 400;
 }
 
 .header-content .header-content-inner p.slogan-text {
     font-size: 30px;
-    padding: 25px 0px 0px 0px;
+    padding: 20px 0px 0px 0px;
 }
 
 .header-content .header-content-inner p {
-    margin-bottom: 50px;
+    margin-bottom: 10px;
     font-size: 16px;
     font-weight: 300;
     color: rgba(255,255,255,.7);
@@ -123,7 +119,8 @@ h1 {
 }
 
 h3 {
-    margin-bottom: 11px;
+    margin-top: 0px;
+    margin-bottom: 10px;
     font-weight: 700;
 }
 
@@ -559,7 +556,7 @@ img.in-text {
 }
 
 .pub-banner {
-    max-width: 30%;
+    max-width: 100%;
     height: auto;
     margin-left: auto;
     margin-right: auto;
@@ -580,7 +577,7 @@ img.in-text {
 }
 
 .pub-list-item {
-    margin-bottom: 0px;
+    margin-bottom: 50px;
 }
 
 .pub-list-item .pub-abstract {

@@ -11,17 +11,15 @@
                 {{ range first .Site.Params.publications.count (where .Site.RegularPages "Type" "publication") }}
                     {{ partial "publication_li_detailed" . }}
                 {{ end }}
+                {{ if gt $pubs_len .Site.Params.publications.count }}
+                <p class="view-all">
+                    <a href="{{ .Site.BaseURL }}/publication/{{if .Site.Params.uglyURLs}}index.html{{end}}">
+                        {{ with .Site.Params.publications.str_all }}{{ . | markdownify }}{{ end }}
+                        <i class="fa fa-angle-double-right"></i>
+                    </a>
+                </p>
+                {{ end }}
             </div>
-        </div>
-        <div>
-            {{ if gt $pubs_len .Site.Params.publications.count }}
-            <p class="view-all">
-                <a href="{{ .Site.BaseURL }}/publication/{{if .Site.Params.uglyURLs}}index.html{{end}}">
-                    {{ with .Site.Params.publications.str_all }}{{ . | markdownify }}{{ end }}
-                    <i class="fa fa-angle-double-right"></i>
-                </a>
-            </p>
-            {{ end }}
         </div>
     </div>
 </section>
