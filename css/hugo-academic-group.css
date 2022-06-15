@@ -36,23 +36,19 @@ header{
 .header-content .header-content-inner h1 {
     margin-top: 0;
     margin-bottom: 0;
-    font-weight: 700;
-}
-
-.header-content .header-content-inner hr {
-    margin: 30px auto;
+    font-weight: 400;
 }
 
 .header-content .header-content-inner p.slogan-text {
     font-size: 30px;
-    padding: 25px 0px 0px 0px;
+    padding: 20px 0px 0px 0px;
 }
 
 .header-content .header-content-inner p {
-    margin-bottom: 50px;
+    margin-bottom: 10px;
     font-size: 16px;
     font-weight: 300;
-    color: rgba(255,255,255,.7);
+    color: rgba(255,255,255,.8);
 }
 
 .slogan-column {
@@ -123,7 +119,8 @@ h1 {
 }
 
 h3 {
-    margin-bottom: 11px;
+    margin-top: 0px;
+    margin-bottom: 10px;
     font-weight: 700;
 }
 
@@ -225,7 +222,7 @@ span.darknav {
 
 .section-heading h1 {
     margin: 0 0 10px 0;
-    font-size: 30pt;
+    font-size: 28pt;
 }
 
 .section-heading h1 a {
@@ -251,19 +248,8 @@ span.darknav {
 
 .portrait {
     background-image: url('../img/portraits/portrait.jpg');
-    width: 200px;
-    height: 200px;
-    margin: 0 auto;
-    border-radius: 50%;
-    background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-}
-
-.small-portrait {
-    background-image: url('../img/portraits/portrait.jpg');
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     margin: 0 auto;
     border-radius: 50%;
     background-size: cover;
@@ -336,55 +322,6 @@ ul.ul-edu li .description p.institution {
 
 .member-info {
     padding: 0 0 20px 0;
-}
-
-/*************************************************
- *  Sharing
- **************************************************/
-
-.share-box {
-    float: right;
-}
-
-ul.share {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    list-style: none;
-    margin: 0;
-    padding: 0;
-}
-
-ul.share li {
-    display: inline-flex;
-    margin-right: 5px;
-}
-
-ul.share li:last-of-type {
-    margin-right: 0;
-}
-
-ul.share li .fa {
-    display: block;
-    width: 30px;
-    height: 30px;
-    line-height: 30px;
-    font-size: 16px;
-    text-align: center;
-    transition: all 150ms ease-in-out;
-    color: #fff;
-}
-
-ul.share li a {
-    background-color: #b5c6ce;
-    display: block;
-    border-radius: 50%;
-    text-decoration: none !important;
-    margin: 0;
-}
-
-ul.share li:hover .fa {
-    transform: scale(1.4)
 }
 
 /*************************************************
@@ -542,10 +479,6 @@ img.in-text {
     padding: 15px;
 }
 
-#comments {
-    padding: 20px;
-}
-
 }
 
 /*************************************************
@@ -559,7 +492,7 @@ img.in-text {
 }
 
 .pub-banner {
-    max-width: 30%;
+    max-width: 100%;
     height: auto;
     margin-left: auto;
     margin-right: auto;
@@ -580,7 +513,7 @@ img.in-text {
 }
 
 .pub-list-item {
-    margin-bottom: 0px;
+    margin-bottom: 50px;
 }
 
 .pub-list-item .pub-abstract {
@@ -605,49 +538,6 @@ img.in-text {
 }
 
 /*************************************************
- *  Projects
- **************************************************/
-
-section#projects.home-section li {
-    margin-bottom: 20px;
-}
-
-section#projects.home-section li:last-of-type {
-    margin-bottom: 0;
-}
-
-section#projects.home-section .project-title {
-    display: inline-block;
-    margin-bottom: 6px;
-}
-
-section#projects.home-section .project-summary {
-    font-size: 16px;
-    margin-bottom: 6px;
-}
-
-section#projects.home-section .project-tags {
-    font-size: 14px;
-    color: #9c9c9c;
-}
-
-.project-picture {
-    background-image: url('../img/normal.png');
-    width: 150px;
-    height: 150px;
-    margin: 20px 10px 10px -5px;
-    background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-}
-
-@media screen and (max-width: 768px) {
-    .project-picture {
-        display: block;
-    }
-}
-
-/*************************************************
  *  Contact
  **************************************************/
 
@@ -656,22 +546,10 @@ section#projects.home-section .project-tags {
 }
 
 /*************************************************
- *  Sponsors
- **************************************************/
-
-.sponsors {
-    text-align: left;
-}
-
-/*************************************************
  *  Members
  **************************************************/
 
 #members > .container > .row > .col-md-3:nth-child(4n+1) {
-    clear: both;
-}
-
-#participants > .container > .row > .col-md-2:nth-child(6n+1) {
     clear: both;
 }
 
@@ -873,73 +751,4 @@ nav#navbar-main li {
         height: 20px;
         display:inline;
     }
-}
-
-
-/*************************************************
- *  Tables
- **************************************************/
-
-table {
-    width: 100%;
-    max-width: 100%;
-    margin-bottom: 1rem;
-    font-size: 0.93rem;
-}
-
-table > thead > tr > th,
-table > tbody > tr > th,
-table > tfoot > tr > th,
-table > thead > tr > td,
-table > tbody > tr > td,
-table > tfoot > tr > td {
-    padding: 8px;
-    line-height: 1.43;
-    vertical-align: top;
-}
-
-table > thead > tr > th {
-    vertical-align: bottom;
-}
-
-table > caption + thead > tr:first-child > th,
-table > colgroup + thead > tr:first-child > th,
-table > thead:first-child > tr:first-child > th,
-table > caption + thead > tr:first-child > td,
-table > colgroup + thead > tr:first-child > td,
-table > thead:first-child > tr:first-child > td {
-    border-top: 0;
-}
-
-.header-table{
-    background-color: transparent;
-}
-
-.header-table td, .header-table th {
-    border: 1px solid  rgba(255,255,255,.7);
-    text-align: center;
-}
-
-.header-table th,
-.header-table tr:last-child td {
-    border-bottom: 0;
-}
-
-.header-table tr:first-child th,
-.header-table td {
-    border-top: 0;
-}
-
-.header-table tr td:first-child,
-.header-table tr th:first-child {
-    border-left: 0;
-}
-
-.header-table tr td:last-child,
-.header-table tr th:last-child {
-    border-right: 0;
-}
-
-.content-center {
-    text-align: center;
 }
