@@ -30,7 +30,7 @@ header{
 .header-content {
     position: relative;
     width: 100%;
-    padding: 50px 15px;
+    padding: 55px 15px;
 }
 
 .header-content .header-content-inner h1 {
@@ -44,8 +44,8 @@ header{
 }
 
 .header-content .header-content-inner p.slogan-text {
-    font-size: 24px;
-    padding: 25px 0px 25px 0px;
+    font-size: 30px;
+    padding: 25px 0px 0px 0px;
 }
 
 .header-content .header-content-inner p {
@@ -70,7 +70,7 @@ html,
 body,
 p {
     font-family: 'Lato', sans-serif;
-    font-size: 18px;
+    font-size: 20px;
     line-height: 1.65;
     min-height: 100%;
     height: 100%;
@@ -225,6 +225,7 @@ span.darknav {
 
 .section-heading h1 {
     margin: 0 0 10px 0;
+    font-size: 30pt;
 }
 
 .section-heading h1 a {
@@ -271,7 +272,7 @@ span.darknav {
 }
 
 .portrait-title h2 {
-    font-size: 1.75em;
+    font-size: 23px;
     text-align: center;
     font-weight: 400;
     color: #000000;
@@ -284,6 +285,13 @@ span.darknav {
     text-align: center;
     color: #AAAAAA;
     margin: 5px 0 10px 0;
+}
+
+.portrait-title h4 {
+    font-size: 1.0em;
+    font-weight: 300;
+    text-align: center;
+    color: #888888;
 }
 
 #profile ul.social-icon {
@@ -384,7 +392,7 @@ ul.share li:hover .fa {
  **************************************************/
 
 .article-title {
-    font-size: 1.2rem;
+    font-size: 23px;
 }
 
 /*h3.article-title a {
@@ -408,7 +416,7 @@ ul.share li:hover .fa {
 }
 
 .article-list-item {
-    margin-bottom: 0px;
+    margin-bottom: 35px;
 }
 
 .article-list-item:last-child {
@@ -475,6 +483,7 @@ ul.share li:hover .fa {
     padding-right: 0;
     margin: 10px auto 10px auto;
     position: relative;
+    line-height: 1.5;
 }
 
 .embed {
@@ -550,7 +559,7 @@ img.in-text {
 }
 
 .pub-banner {
-    max-width: 100%;
+    max-width: 30%;
     height: auto;
     margin-left: auto;
     margin-right: auto;
@@ -580,14 +589,15 @@ img.in-text {
 
 .pub-list-item .pub-authors {
     line-height: normal;
-    font-style: normal;
-    font-size: 1.13em;
+    font-style: italic;
+    font-size: 1.1em;
     /*color: #3170A5;*/
 }
 
 .pub-list-item .pub-publication {
-    /*color: #3170A5;*/
-    font-size: 1em;
+    color: #888888;
+    font-size: 0.9em;
+    padding-top: 5px;
 }
 
 .pub-list-item .pub-links {
@@ -760,7 +770,7 @@ footer a#back_to_top i {
 }
 
 nav#navbar-main li {
-    font-size: 16px;
+    font-size: 18px;
 }
 
 .navbar-default .navbar-nav li a,
