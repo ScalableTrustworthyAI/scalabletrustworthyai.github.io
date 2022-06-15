@@ -222,7 +222,7 @@ span.darknav {
 
 .section-heading h1 {
     margin: 0 0 10px 0;
-    font-size: 30pt;
+    font-size: 28pt;
 }
 
 .section-heading h1 a {
@@ -248,8 +248,8 @@ span.darknav {
 
 .portrait {
     background-image: url('../img/portraits/portrait.jpg');
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     margin: 0 auto;
     border-radius: 50%;
     background-size: cover;
@@ -550,10 +550,6 @@ img.in-text {
  **************************************************/
 
 #members > .container > .row > .col-md-3:nth-child(4n+1) {
-    clear: both;
-}
-
-#participants > .container > .row > .col-md-2:nth-child(6n+1) {
     clear: both;
 }
 
