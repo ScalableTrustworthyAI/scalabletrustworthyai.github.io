@@ -1,6 +1,9 @@
 {{ partial "header.html" . }}
 {{ partial "navbar.html" . }}
 
+<div>
+  <br>
+</div>
 <div class="container">
 <div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person">
     <div class="col-xs-12 col-md-4">
@@ -12,7 +15,7 @@
                 <h2 itemprop="name">{{ .Params.name }}</h2>
                 <h3 itemprop="jobTitle">{{ .Params.role }}</h3>
                 {{ range .Params.organizations }}
-                    <h4>{{ .role }}, {{.name}}</h4>
+                    <h4>{{ .role }}<br>{{.name}}</h4>
                 {{ end }}
             </div>
 
@@ -58,9 +61,9 @@
             {{ if isset .Params "interests" }}
             <div class="col-sm-5">
                 <h3>Interests</h3>
-                <ul>
+                <ul class="ul-int">
                     {{ range .Params.interests }}
-                    <li>{{ . }}</li>
+                    <li><div class="description"><p>{{ . }}</p></div></li>
                     {{ end }}
                 </ul>
             </div>

@@ -20,7 +20,7 @@ tag = "tags"
   address = "Maria-von-Linden-Straße 6, 72076 Tübingen, Germany"
 
   slogan = "Scalable Trustworthy AI"
-  slogan_text = "Building trustworthy models with stronger human guidance"
+  slogan_text = "Creating scalable and trustworthy AI with human guidance"
 
   [params.logo]
     image = "img/stai_logo.png"
@@ -32,7 +32,7 @@ tag = "tags"
     subtitle = ""
 
   [params.publications]
-    count = 100
+    count = 1
     detailed_list = true
     title = "Publications"
     subtitle = ""

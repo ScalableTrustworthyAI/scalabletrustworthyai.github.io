@@ -1,4 +1,4 @@
-<div class="col-xs-12 col-md-3">
+<div class="col-xs-12 col-sm-3">
     <div id="profile">
         <a href="{{ .Permalink }}">
             <div class="portrait" itemprop="image" style="background-image: url('{{ .Site.BaseURL }}/img/{{ .Params.portrait }}');"></div>
@@ -6,7 +6,7 @@
         <div class="portrait-title">
             <h2 itemprop="name"><a href="{{ .Permalink }}">{{ .Params.name }}</a></h2>
             {{ range .Params.organizations }}
-                <h4>{{ .role }}<br>{{.name}}</h4>
+                <h4>{{ .role }}</h4>
             {{ end }}
         </div>
     </div>
