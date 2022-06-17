@@ -290,7 +290,7 @@ span.darknav {
 }
 
 #profile .social-icon li {
-    margin-right: 10px;
+    margin-right: 15px;
 }
 
 #profile .social-icon li:last-of-type {
@@ -302,7 +302,14 @@ span.darknav {
 }
 
 .big-icon {
-    font-size: 40px;
+    font-size: 30px;
+}
+
+ul.ul-int {
+}
+ul.ul-int li .description p{
+    font-weight: 350;
+    margin-bottom: 5px;
 }
 
 ul.ul-edu {
@@ -314,11 +321,19 @@ ul.ul-edu li .description p {
 
 ul.ul-edu li .description p.course {
     font-size: 1em;
+    font-weight: 300;
 }
 
 ul.ul-edu li .description p.institution {
     font-size: 0.88em;
+    font-weight: 300;
+    color: #AAAAAA;
+    margin-bottom: 10px;
 }
+
+/* ul.fa-ul fa-li.fa.fa-graduation-cap:before  {
+    margin-bottom: 1000px;
+} */
 
 .member-info {
     padding: 0 0 20px 0;
@@ -452,6 +467,8 @@ img.in-text {
 
 .article-style p {
     text-align: justify;
+    font-weight: 300;
+    color: #333333;
 }
 
 .article-style figure {
@@ -485,17 +502,17 @@ img.in-text {
  *  Publications
  **************************************************/
 
-.pub-icon {
-    color: #03396c;
-    font-size: 0.81em;
-    padding-top: 6px;
-}
-
 .pub-banner {
     max-width: 100%;
     height: auto;
     margin-left: auto;
     margin-right: auto;
+}
+
+@media only screen and (max-width: 767px) {
+  .pub-banner {
+      width: 200px;
+  }
 }
 
 .pub .pub-title {
@@ -689,6 +706,7 @@ nav#navbar-main li {
     display:inline;
     float:inherit;
     padding-right: 10px;
+    padding-bottom: 5px;
     text-decoration: none;
 }
 
@@ -748,7 +766,9 @@ nav#navbar-main li {
     }
 
     .navbar-brand a img {
-        height: 20px;
+        height: 30px;
         display:inline;
+        /* padding-right: 10px; */
+        padding-bottom: 10px;
     }
 }
