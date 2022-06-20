@@ -8,6 +8,19 @@
             {{ range .Params.organizations }}
                 <h4>{{ .role }}</h4>
             {{ end }}
+            <ul class="social-icon-main-page">
+                {{ range .Params.social }}
+                <li>
+                    <a href="{{ .link }}">
+                    {{ if eq .icon_pack "ai" }}
+                        <i class="ai ai-{{ .icon }} small-icon" aria-hidden="true"></i>
+                    {{ else }}
+                        <i class="fa fa-{{ .icon }} small-icon" aria-hidden="true"></i>
+                    {{ end }}
+                    </a>
+                </li>
+                {{ end }}
+            </ul>
         </div>
     </div>
 </div>

@@ -301,8 +301,33 @@ span.darknav {
     transform: scale(1.2)
 }
 
+#profile ul.social-icon-main-page {
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    margin-top: 0px;
+}
+
+#profile .social-icon-main-page li {
+    margin-right: 10px;
+}
+
+#profile .social-icon-main-page li:last-of-type {
+    margin-right: 0;
+}
+
+#profile .social-icon-main-page li:hover {
+    transform: scale(1.2)
+}
+
 .big-icon {
     font-size: 30px;
+}
+
+.small-icon {
+    font-size: 20px;
 }
 
 ul.ul-int {
