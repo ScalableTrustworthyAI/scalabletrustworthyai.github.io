@@ -1,22 +1,20 @@
 +++
 +++
 
-Artificial intelligence (AI) bears hope for a positive u-turn for humanity. AI could help us fight climate change by optimising power usage. AI has the potential to increase overall human productivity to balance out the ageing population and economic slowdown.
+Artificial intelligence (AI) bears hope for a positive future for humanity. For example, AI could help us fight climate change by optimising power usage. Like fire and electricity have fundamentally changed the life of mankind ([quote](https://www.youtube.com/watch?v=sqd516M0Y5A)), AI may also increase overall human productivity to balance out the ageing population and increase humanity's overall welfare.
 
-At the same time, **many find it hard to trust AI systems**. This is often because it is hard to understand the mechanism. But more worryingly because it actually fails to work when the distribution shifts from the training data; even more seriously because it sometimes causes harm to humanity, for example, by exacerbating political polarisation and by jeopardising fairness and free will.
+The status quo is that AI is far from being perfect. One of the greatest issues is that **AI systems are not trustworthy yet**. It is difficult to understand when and why they fail. This is especially so when the models are deployed in environments that are different from the training environment (even slightly). Even worse, naive or malicious application of AI systems causes harm to humanity by amplifying political polarisation, by treating minority groups unfairly, and by jeopardising the human liberty and free will.
 
-This leads to our study of **Trustworthy AI**. We focus on three aspects among other important topics for trustworthiness:
+This leads to our study of **Trustworthy AI**. We aim to understand the trustworthiness of current AI systems and develop new technologies that enhance their trustworthiness. We focus on three sub-topics among other important topics:
 
-1. **Robustness**: we need to maximise the generalisation capabilities of AI beyond the training environment.
-2. **Uncertainty**: AI needs to know and communicate to humans when it does not know the answer.
-3. **Explainability**: the mechanism behind AI's recognition and decisions needs to be understandable to humans.
+- **Robustness**: AI needs to generalise better to environments that are possibly different from the training environment.
+- **Uncertainty**: AI needs to be aware of its own lack of knowledge and capabilities and communicate that with humans.
+- **Explainability**: the mechanism behind AI's recognition and decisions needs to be understandable to humans.
 
-We will better understand the status quo of AI in terms of its trustworthiness. We will develop new technologies to enhance trustworthiness. We hope that such efforts will lessen the negative impact of AI on humanity and promote its positive applications.
+Fortunately, we are not alone in this effort. There are many other research labs around the world that make important contributions on Trustworthy AI. Our group find our uniqueness by striving for working solutions that are widely applicable and can be deployed at a large-scale. We thus name our group **Scalable Trustworthy AI**. To achieve the scalability, we commit ourselves to the following principles:
 
-There are many researchers and research labs around the world who share this view and make important contributions on Trustworthy AI. We define our uniqueness by striving for a *working* solution that is *widely applicable* and can be *deployed at large-scale*. We name our group **Scalable Trustworthy AI**. Striving for scalability requires our commitment to some key principles:
+- **Simple is better than complex**. Scalability and applicability are inversely correlated with complexity.
+- **Understand and then solve**. You can only solve a problem when you understand it.
+- **Do not follow a dead end**. When an approach is fundamentally limited in the long run, don't take it.
 
-1. **Simple is better than complex**. Scalability is inversely correlated with complexity.
-2. **"Why it works" must be understood**. When you understand, you can control and scale.
-3. **Do not follow a dead end**. When an approach is fundamentally limited in the long run, don't go there.
-
-We hope our research makes AI systems more trustable. We hope our technologies do work and scale well in practice. We hope our research will lead to AI-led advances for humanity while minimising the side-effects.
+With these principles in mind, we do research on **Scalable Trustworthy AI** technologies to guide the field to the right direction. We hope to contribute to mitigating the negative side-effects of AI and accelerating the AI-led advances for the future of humanity.
