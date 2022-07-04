@@ -6,8 +6,6 @@ on:
       - master  # Set a branch to deploy
   pull_request:
 
-concurrency: preview-${{ github.ref }}
-
 jobs:
   deploy:
     runs-on: ubuntu-20.04
@@ -32,8 +30,3 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-
-      - name: Deploy preview
-        uses: rossjrw/pr-preview-action@v1
-        with:
-          source-dir: ./public
