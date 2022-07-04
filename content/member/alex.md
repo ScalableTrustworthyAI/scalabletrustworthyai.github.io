@@ -8,7 +8,7 @@ portrait = "/portraits/alex.png"
 short_bio = "I am Alexander Rubinstein."
 short_name = "Alex"
 title = "PhD Student"
-sort_position = 1
+sort_position = 3
 
 [[social]]
     icon = "envelope"
