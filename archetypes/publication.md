@@ -13,6 +13,8 @@ url_pdf = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
+url_poster = ""
 url_slides = ""
 url_video = ""
+url_bibtex = ""
 +++
