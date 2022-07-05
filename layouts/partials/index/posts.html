@@ -5,13 +5,13 @@
         <div class="row">
 
             <!-- Section heading -->
-            <div class="col-xs-12 col-md-4 section-heading">
+            <div class="col-xs-12 col-md-3 section-heading">
                 <h1><a href="{{ $.Site.BaseURL }}/post/{{if .Site.Params.uglyURLs}}index.html{{end}}"> {{ with .Site.Params.posts.title }}{{ . | markdownify }}{{ end }}</a></h1>
                 {{ with .Site.Params.posts.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
             </div>
 
             <!-- Posts -->
-            <div class="col-xs-12 col-md-8">
+            <div class="col-xs-12 col-md-9">
                 {{ range first .Site.Params.posts.count (sort (where .Site.RegularPages "Type" "post") ".Params.sort_position") }}
                     {{ partial "index/single_post" .}}
                 {{ end }}

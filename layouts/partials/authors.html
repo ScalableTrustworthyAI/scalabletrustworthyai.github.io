@@ -2,14 +2,14 @@
 <div itemprop="author">
         {{if gt $authors_len 1}}
             {{ range first (sub $authors_len 1) . }}
-                {{partial "author.html" .}},
+                {{partial "author.html" (dict "context" . "suffix" ",")}}
             {{ end }}
             {{ range last 1 . }}
-                 {{partial "author.html" .}}
+                 {{partial "author.html" (dict "context" . "suffix" "")}}
             {{end}}
         {{else}}
             {{range . }}
-                {{partial "author.html" .}}
+                {{partial "author.html" (dict "context" . "suffix" "")}}
             {{end}}
         {{end}}
 </div>

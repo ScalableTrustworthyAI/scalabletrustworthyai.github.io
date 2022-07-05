@@ -20,6 +20,7 @@ url_bibtex = "//coallaoh.github.io/data/lee2022cvpr.txt"
 [[authors]]
     name = "Seong Joon Oh"
     is_member = true
+    id = "joon"
 [[authors]]
     name = "Sangdoo Yun"
     is_member = false
