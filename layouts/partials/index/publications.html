@@ -3,11 +3,11 @@
 <section id="publications" class="home-section">
     <div class="container">
         <div class="row">
-            <div class="col-xs-12 col-md-4 section-heading">
+            <div class="col-xs-12 col-md-3 section-heading">
                 <h1><a href="{{.Site.BaseURL}}/publication/{{if .Site.Params.uglyURLs}}index.html{{end}}">{{ with .Site.Params.publications.title }}{{ . | markdownify }}{{ end }}</a></h1>
                 {{ with .Site.Params.publications.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
             </div>
-            <div class="col-xs-12 col-md-8">
+            <div class="col-xs-12 col-md-9">
                 {{ range first .Site.Params.publications.count (where .Site.RegularPages "Type" "publication") }}
                     {{ partial "publication_li_detailed" . }}
                 {{ end }}

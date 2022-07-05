@@ -66,7 +66,7 @@ html,
 body,
 p {
     font-family: 'Lato', sans-serif;
-    font-size: 20px;
+    font-size: 18px;
     line-height: 1.65;
     min-height: 100%;
     height: 100%;
@@ -222,7 +222,7 @@ span.darknav {
 
 .section-heading h1 {
     margin: 0 0 10px 0;
-    font-size: 28pt;
+    font-size: 25pt;
 }
 
 .section-heading h1 a {
@@ -370,6 +370,7 @@ ul.ul-edu li .description p.institution {
 
 .article-title {
     font-size: 23px;
+    font-weight: 400;
 }
 
 /*h3.article-title a {
@@ -528,13 +529,13 @@ img.in-text {
  **************************************************/
 
 .pub-banner {
-    max-width: 100%;
+    width: 200px;
     height: auto;
     margin-left: auto;
     margin-right: auto;
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 768px) {
   .pub-banner {
       width: 200px;
   }
@@ -563,15 +564,16 @@ img.in-text {
 }
 
 .pub-list-item .pub-authors {
+    font-size: 1.0em;
+    font-weight: 300;
     line-height: normal;
-    font-style: italic;
     font-size: 1.1em;
     /*color: #3170A5;*/
 }
 
 .pub-list-item .pub-publication {
     color: #888888;
-    font-size: 0.9em;
+    font-size: 1em;
     padding-top: 5px;
 }
 

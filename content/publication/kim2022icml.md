@@ -23,6 +23,7 @@ url_bibtex = "//coallaoh.github.io/data/kim2022icml.txt"
 [[authors]]
     name = "Seong Joon Oh"
     is_member = true
+    id = "joon"
 [[authors]]
     name = "Sangdoo Yun"
     is_member = false

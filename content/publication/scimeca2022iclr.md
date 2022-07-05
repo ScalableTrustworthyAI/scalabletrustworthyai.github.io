@@ -17,9 +17,12 @@ url_bibtex = "//coallaoh.github.io/data/scimeca2022iclr.txt"
 [[authors]]
     name = "Luca Scimeca*"
     is_member = false
+    star = true
 [[authors]]
     name = "Seong Joon Oh*"
     is_member = true
+    star = true
+    id = "joon"
 [[authors]]
     name = "Sanghyuk Chun"
     is_member = false

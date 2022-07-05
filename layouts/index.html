@@ -19,11 +19,11 @@
 <section id="contact" class="home-section">
     <div class="container">
         <div class="row">
-            <div class="col-xs-12 col-md-4 section-heading">
+            <div class="col-xs-12 col-md-3 section-heading">
                 <h1>{{ with .Site.Params.contact.title }}{{ . | markdownify }}{{ end }}</h1>
                 {{ with .Site.Params.contact.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
             </div>
-            <div class="col-xs-12 col-md-8">
+            <div class="col-xs-12 col-md-9">
                 {{ partial "index/contact.html" . }}
             </div>
         </div>
