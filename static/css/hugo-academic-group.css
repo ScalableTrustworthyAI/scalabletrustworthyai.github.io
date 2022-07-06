@@ -582,6 +582,30 @@ img.in-text {
 }
 
 /*************************************************
+ *  Openings
+ **************************************************/
+
+.open .open-title {
+    margin-bottom: 5px;
+}
+
+.open-list-item {
+    margin-bottom: 50px;
+}
+
+.open-list-item .opening {
+    color: #333333;
+    font-size: 1em;
+    padding-top: 5px;
+}
+
+.open-list-item .opening-date {
+    color: #888888;
+    font-size: 1em;
+    padding-top: 5px;
+}
+
+/*************************************************
  *  Contact
  **************************************************/
 

@@ -1,0 +1,18 @@
+<div class="open-list-item" itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="row">
+        <div class="col-sm-12">
+            <h3 class="article-title" itemprop="name">
+                {{ .Title }}
+            </h3>
+            <div class="opening">
+                    {{ .Params.short_description | markdownify }}
+            </div>
+            <div class="opening-date">
+                <div itemprop="datePublished">
+                    Posted: {{ dateFormat "1 January, 2006" .Params.date }}
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
