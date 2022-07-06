@@ -38,6 +38,13 @@ tag = "tags"
     subtitle = ""
     str_all = "More Publications"
 
+  [params.openings]
+    count = 10
+    detailed_list = true
+    title = "Openings"
+    subtitle = ""
+    str_all = "More Openings"
+
   # Section will only be displayed if there are posts in `content/post/`.
   [params.posts]
     count = 2
@@ -72,9 +79,14 @@ tag = "tags"
       url = "/#publications"
       weight = 4
 
+  # [[menu.main]]
+  #     name = "Blog"
+  #     url = "/#posts"
+  #     weight = 5
+
   [[menu.main]]
-      name = "Blog"
-      url = "/#posts"
+      name = "Openings"
+      url = "/#openings"
       weight = 6
 
   [[menu.main]]
