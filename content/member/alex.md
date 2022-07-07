@@ -51,6 +51,6 @@ sort_position = 3
 
 +++
 
-I am a PhD Student at the [Tübingen AI Center](https://tuebingen.ai/) at the University of Tübingen, where I work in the group on Scalable Trustworthy AI (STAI). I am interested in researching the ways of making models not only perfectly classify MNIST but also not fail too much on real world tasks. In case possibilities of some models are limited to academic datasets, I want to understand why that is the case.
+I am a PhD Student at the [Tübingen AI Center](https://tuebingen.ai/) at the [University of Tübingen](https://uni-tuebingen.de/en/) and the International Max Planck Research School for Intelligent Systems ([IMPRS-IS](https://imprs.is.mpg.de/)), where I work in the group on Scalable Trustworthy AI (STAI). I am interested in researching the ways of making models not only perfectly classify MNIST but also not fail too much on real world tasks. In case possibilities of some models are limited to academic datasets, I want to understand why that is the case.
 
 I was working as an ML engineer at [Yandex](https://yandex.com/company) for about one year. I received my joint Master degree in Data Science and Applied Mathematics and Physics at the [Skolkovo Institute of Science and Technology](https://www.skoltech.ru/en/) and the [Moscow Institute of Physics and Technology](https://mipt.ru/english/) in 2021. At the latter insitute I also received my Bachelor degree in Applied Mathematics and Physics in 2019.
