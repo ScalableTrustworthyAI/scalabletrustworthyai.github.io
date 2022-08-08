@@ -236,6 +236,23 @@ span.darknav {
     color: #b2b2b2;
 }
 
+.affiliate-logos img {
+    width: 80%;
+    max-width: 120px;
+    min-width: 50px;
+    margin: auto;
+}
+
+.logos-row {
+  font-size: 0;
+}
+
+.logos-row  > * {
+    float: none;
+    display: inline-block;
+    font-size: 14px;
+}
+
 /*************************************************
  *  Biography
  **************************************************/
