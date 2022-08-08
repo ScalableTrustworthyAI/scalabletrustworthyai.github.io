@@ -19,4 +19,4 @@ Fortunately, we are not alone in this effort. There are many other research labs
 
 With these principles in mind, we do research on **Scalable Trustworthy AI** technologies to guide the field to the right direction. We hope to contribute to mitigating the negative side-effects of AI and accelerating the AI-led advances for the future of humanity.
 
-STAI group is part of the [Tübingen AI Center](https://tuebingen.ai/) and the [University of Tübingen](https://uni-tuebingen.de/).
+STAI group is part of the [Tübingen AI Center](https://tuebingen.ai/) and the [University of Tübingen](https://uni-tuebingen.de/). STAI is also within the ecosystem of International Max Planck Research School for Intelligent Systems ([IMPRS-IS](https://imprs.is.mpg.de/)) and the [ELLIS Society](https://ellis.eu/).

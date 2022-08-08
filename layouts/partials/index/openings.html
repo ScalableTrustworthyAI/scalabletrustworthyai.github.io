@@ -4,7 +4,7 @@
     <div class="container">
         <div class="row">
             <div class="col-xs-12 col-md-3 section-heading">
-                <h1><a href="{{.Site.BaseURL}}/opening/{{if .Site.Params.uglyURLs}}index.html{{end}}">{{ with .Site.Params.openings.title }}{{ . | markdownify }}{{ end }}</a></h1>
+                <h1>{{ with .Site.Params.openings.title }}{{ . | markdownify }}{{ end }}</h1>
                 {{ with .Site.Params.openings.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
             </div>
             <div class="col-xs-12 col-md-9">
