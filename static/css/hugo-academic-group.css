@@ -237,8 +237,8 @@ span.darknav {
 }
 
 .affiliate-logos img {
-    width: 80%;
-    max-width: 120px;
+    width: 90%;
+    max-width: 150px;
     min-width: 50px;
     margin: auto;
 }
@@ -386,7 +386,7 @@ ul.ul-edu li .description p.institution {
  **************************************************/
 
 .article-title {
-    font-size: 23px;
+    font-size: 20px;
     font-weight: 400;
 }
 
@@ -547,6 +547,7 @@ img.in-text {
 
 .pub-banner {
     width: 200px;
+    max-width: 100%;
     height: auto;
     margin-left: auto;
     margin-right: auto;
@@ -554,7 +555,7 @@ img.in-text {
 
 @media only screen and (max-width: 768px) {
   .pub-banner {
-      width: 200px;
+      width: 180px;
   }
 }
 
@@ -581,16 +582,14 @@ img.in-text {
 }
 
 .pub-list-item .pub-authors {
-    font-size: 1.0em;
     font-weight: 300;
     line-height: normal;
-    font-size: 1.1em;
-    /*color: #3170A5;*/
+    font-size: 18px;
 }
 
 .pub-list-item .pub-publication {
     color: #888888;
-    font-size: 1em;
+    font-size: 18px;
     padding-top: 5px;
 }
 
