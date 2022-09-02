@@ -18,7 +18,7 @@ sort_position = 2
 [[social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "https://twitter.com/Elisa00014400"
+    link = "https://twitter.com/_elinguyen"
 
 [[social]]
     icon = "google-scholar"
