@@ -622,6 +622,38 @@ img.in-text {
 }
 
 /*************************************************
+ *  Courses
+ **************************************************/
+
+.course .course-title {
+    margin-bottom: 5px;
+}
+
+.course-list-item {
+    margin-bottom: 50px;
+}
+
+.course-list-item .course {
+    color: #333333;
+    font-size: 1em;
+    padding-top: 5px;
+}
+
+.course-list-item .course-date {
+    color: #888888;
+    font-size: 16px;
+    padding-top: 5px;
+}
+
+.course-banner {
+    width: 300px;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*************************************************
  *  Contact
  **************************************************/
 

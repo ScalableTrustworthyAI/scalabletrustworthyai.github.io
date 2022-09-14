@@ -1,0 +1,26 @@
+{{ $opens_len := len (where .Site.RegularPages "Type" "courses") }}
+{{ if gt $opens_len 0 }}
+<section id="courses" class="home-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-md-3 section-heading">
+                <h1>{{ with .Site.Params.courses.title }}{{ . | markdownify }}{{ end }}</h1>
+                {{ with .Site.Params.courses.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
+            </div>
+            <div class="col-xs-12 col-md-9">
+                {{ range first .Site.Params.courses.count (where .Site.RegularPages "Type" "courses") }}
+                    {{ partial "course_li_detailed" . }}
+                {{ end }}
+                {{ if gt $opens_len .Site.Params.courses.count }}
+                <p class="view-all">
+                    <a href="{{ .Site.BaseURL }}/courses/{{if .Site.Params.uglyURLs}}index.html{{end}}">
+                        {{ with .Site.Params.courses.str_all }}{{ . | markdownify }}{{ end }}
+                        <i class="fa fa-angle-double-right"></i>
+                    </a>
+                </p>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}

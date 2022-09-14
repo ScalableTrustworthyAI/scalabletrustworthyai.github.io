@@ -1,0 +1,28 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+<div>
+  <br>
+</div>
+<div class="container">
+<div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <div class="visible-sm visible-xs"></div>
+    <div class="col-sm-12" itemprop="description">
+        <h2>{{ .Params.title }} </h2>
+        <h4>{{ .Params.semester }}, {{ .Params.university }}</h4>
+    </div>
+    <div class="col-sm-8" itemprop="description">
+        <div class="article-style">{{ .Params.description }}</div>
+    </div>
+    <div class="col-sm-4" itemprop="description">
+        <img src="{{ $.Site.BaseURL }}img/{{ .Params.image }}" class="course-banner" itemprop="image">
+    </div>
+</div>
+<div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <div class="col-sm-12" itemprop="description">
+        <div class="article-style">{{ .Content }}</div>
+    </div>
+</div>
+</div>
+{{ partial "footer_container.html" . }}
+{{ partial "footer.html" . }}
