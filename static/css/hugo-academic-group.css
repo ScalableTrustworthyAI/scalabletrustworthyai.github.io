@@ -653,6 +653,18 @@ img.in-text {
     margin-right: auto;
 }
 
+.course-article-style p {
+    text-align: justify;
+    font-weight: 400;
+    color: #333333;
+}
+
+.course-article-style h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+
 /*************************************************
  *  Contact
  **************************************************/

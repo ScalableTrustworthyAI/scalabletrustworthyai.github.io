@@ -17,6 +17,13 @@ description = "As machine learning technology gets applied to actual products an
 - [Elif Akata](../../member/elif/)
 - [Elisa Nguyen](../../member/elisa/)
 
+### Central email
+
+Please use the STAI group email `stai.there@gmail.com` to
+- Submit your Colab exercises;
+- Ask questions; and
+- Send us feedback.
+
 ### Goal
 
 1. Students will be able to critically read, assess, and discuss research work in Trustworthy Machine Learning (TML).
@@ -26,10 +33,8 @@ description = "As machine learning technology gets applied to actual products an
 ### Prerequisites
 
 - Familiarity with Python and PyTorch coding.
-- A passing grade from the Deep Learning Course (or equivalent).
-- Basic knowledge of machine learning concepts: supervised learning, function fitting, generalisation gap, overfitting, and regularisation.
-- Basic knowledge of deep learning: CNNs and Transformers, their components, and empirical techniques for training and evaluating them.
-    - Pass grade from the deep learning course (or equivalent).
+- A pass grade from the Deep Learning Course (or equivalent).
+- Basic knowledge of machine learning concepts.
 - Basic maths: multivariate calculus, linear algebra, probability, statistics, and optimisation.
 
 ### Reading list
@@ -121,7 +126,7 @@ we award bonus boosts on the final grade based on the exercise performance.
 
 - Based on your performance on your exam.
 - The pass threshold for the course will be $\geq 50$% on the exam.
-- When you cannot attend the first exam or have failed the first one, you may take the make-up exam.
+- When you cannot attend the first exam or have failed the first one, you may take the **make-up exam**.
 
 **Final score (0 - 100%)**
 
@@ -144,30 +149,31 @@ we award bonus boosts on the final grade based on the exercise performance.
 ### Tutorial times
 
 - Fridays 16:00-18:00
-- Up to changes
+- Up to discussion
 
 ### Exam dates
 
-- TBD
+- Main exam: 21/02/2023 (tentative)
+- Make-up exam: 11/04/2023 (tentative)
 
 ### Schedule & exercises
 
 {{<table "table table-striped table-bordered">}}
-|   Title  	|   Date  	|   Content  	|   Exercises  	|   Lead tutor  	|
+|   #  	|   Date  	|   Content  	|   Exercises  	|   Lead tutor  	|
 |---	|---	|---	|---	|---	|
-|   L1  	|   21/10/2022  	|   Introduction  	|   [Exercise 0](abc)   (Due: 28/10/2022)  	|   Alex  	|
-|   L2  	|   28/10/2022  	|   OOD Generalisation <br /> Definition and limitations  	|   Exercise 1 (Due: 17/11/2022)  	|   Alex  	|
-|   L3  	|   04/11/2022  	|   OOD Generalisation     Cue selection problem  	|     	|   Alex  	|
-|   L4  	|   11/11/2022  	|   OOD Generalisation     Worst-case generalisation  	|     	|   Alex  	|
-|   L5  	|   18/11/2022  	|   Explainability     Definition and limitations  	|   Exercise 2 (Due: 08/12/2022)  	|   Elisa  	|
-|   L6  	|   25/11/2022  	|   Explainability     Attribution  	|     	|   Elisa  	|
-|   L7  	|   02/12/2022  	|   Explainability     Model explanation  	|     	|   Elisa  	|
-|   L8  	|   09/12/2022  	|   Uncertainty     Definition and evaluation  	|   Exercise 3 (Due: 26/01/2023)  	|   Elif  	|
+|   L1  	|   21/10/2022  	|   Introduction  	|   [Exercise 0](TBD)   (Due: 28/10/2022)  	|   Alex  	|
+|   L2  	|   28/10/2022  	|   OOD Generalisation - Definition and limitations  	|   [Exercise 1](TBD) (Due: 17/11/2022)  	|   Alex  	|
+|   L3  	|   04/11/2022  	|   OOD Generalisation - Cue selection problem  	|     	|   Alex  	|
+|   L4  	|   11/11/2022  	|   OOD Generalisation - Worst-case generalisation  	|     	|   Alex  	|
+|   L5  	|   18/11/2022  	|   Explainability - Definition and limitations  	|   [Exercise 2](TBD) (Due: 08/12/2022)  	|   Elisa  	|
+|   L6  	|   25/11/2022  	|   Explainability - Attribution  	|     	|   Elisa  	|
+|   L7  	|   02/12/2022  	|   Explainability - Model explanation  	|     	|   Elisa  	|
+|   L8  	|   09/12/2022  	|   Uncertainty - Definition and evaluation  	|   [Exercise 3](TBD) (Due: 26/01/2023)  	|   Elif  	|
 |       	|                	|   Christmas Break  	|     	|     	|
-|   L9  	|   13/01/2023  	|   Uncertainty     Epistemic uncertainty  	|     	|   Elif  	|
-|   L10  	|   20/01/2023  	|   Uncertainty     Aleatoric uncertainty  	|     	|   Elif  	|
-|   L11  	|   27/01/2023  	|   Evaluation     Concepts and definitions  	|   Exercise 4 (Due: 09/02/2023)  	|   Elisa  	|
-|   L12  	|   03/02/2023  	|   Evaluation     Weak & strong supervision  	|     	|   Elisa  	|
+|   L9  	|   13/01/2023  	|   Uncertainty - Epistemic uncertainty  	|     	|   Elif  	|
+|   L10  	|   20/01/2023  	|   Uncertainty - Aleatoric uncertainty  	|     	|   Elif  	|
+|   L11  	|   27/01/2023  	|   Evaluation - Concepts and definitions  	|   [Exercise 4](TBD) (Due: 09/02/2023)  	|   Elisa  	|
+|   L12  	|   03/02/2023  	|   Evaluation - Weak & strong supervision  	|     	|   Elisa  	|
 {{</table>}}
 
 ### Slack forum
