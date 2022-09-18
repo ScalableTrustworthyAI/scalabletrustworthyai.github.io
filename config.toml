@@ -45,6 +45,13 @@ tag = "tags"
     subtitle = ""
     str_all = "More Openings"
 
+  [params.courses]
+    count = 10
+    detailed_list = true
+    title = "Courses"
+    subtitle = ""
+    str_all = "More Courses"
+
   # Section will only be displayed if there are posts in `content/post/`.
   [params.posts]
     count = 2
