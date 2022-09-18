@@ -24,6 +24,10 @@ Please use the STAI group email `stai.there@gmail.com` to
 - Ask questions; and
 - Send us feedback.
 
+### Slack forum
+
+Ask the lecturer or tutors to add you to the Slack channel. We need your name and email address.
+
 ### Goal
 
 1. Students will be able to critically read, assess, and discuss research work in Trustworthy Machine Learning (TML).
@@ -175,7 +179,3 @@ we award bonus boosts on the final grade based on the exercise performance.
 |   L11  	|   27/01/2023  	|   Evaluation - Concepts and definitions  	|   [Exercise 4](TBD) (Due: 09/02/2023)  	|   Elisa  	|
 |   L12  	|   03/02/2023  	|   Evaluation - Weak & strong supervision  	|     	|   Elisa  	|
 {{</table>}}
-
-### Slack forum
-
-- TBD
