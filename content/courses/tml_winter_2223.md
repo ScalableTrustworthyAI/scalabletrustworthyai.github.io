@@ -2,7 +2,7 @@
 title = "Trustworthy Machine Learning"
 semester = "Winter Semester 2022-2023"
 university = "University of Tübingen"
-image = "DALLE 2022-09-14 17.54.29 - Nice artistic photo to show at the beginning of a machine learning course.png"
+image = "DALLE_TML.png"
 sort_position = 1
 description = "As machine learning technology gets applied to actual products and solutions, new challenges have emerged. Models unexpectedly fail to generalise well to small changes in the distribution; some models are found to utilise sensitive features that could treat certain demographic user groups unfairly; models tend to be confident on novel types of data; models cannot communicate the rationale behind their decisions effectively with the end users like medical staff to maximise the human-machine synergies. Collectively, we face a trustworthiness issue with the current machine learning technology. A large fraction of the machine learning research nowadays is dedicated to expanding the frontier of Trustworthy Machine Learning (TML). The course covers a theoretical and technical background for key topics in TML. We conduct a critical review of important classical and contemporary research papers on related topics and provide hands-on practicals to implement TML techniques."
 +++
@@ -26,7 +26,9 @@ Please use the STAI group email `stai.there@gmail.com` to
 
 ### Slack forum
 
-Ask the lecturer or tutors to add you to the Slack channel. We need your name and email address.
+Ask the lecturer or tutors to add you to the Slack channel. We need your name and email address. There, you can
+- Ask questions and
+- Send us feedback.
 
 ### Goal
 
@@ -114,12 +116,20 @@ We can take only 60 students for the course. The registration is on a first-come
 
 ### Grading policy
 
+![TML_grading](/img/grading_scheme.png)
+
 The final grade is essentially based on your exam performance. However, to encourage the participation in the exercises,
 we award bonus boosts on the final grade based on the exercise performance.
 
-**Exercise score (0 - 100%)**
+**Exercise 0 and admission to course**
 
-- Total score from your exercise performance.
+- We admit only those who submit the zeroth exercise to the course.
+- Exercise 0 is an individual exercise.
+
+**Exercise 1-4 score E% (0 - 100%)**
+
+- Average score from Exercises 1-4.
+- Exercises 1-4 are group exercises.
 
 **Admission to exam**
 
@@ -135,13 +145,15 @@ we award bonus boosts on the final grade based on the exercise performance.
 **Final score (0 - 100%)**
 
 - The final score is your exam score with possible increments from your exercise performance.
-- Increment from exercise = $(E-60)/40 \times 20$%, where $E$% is your exercise grade.
+- Increment from exercise = $(E-60)/40 \times 20$%, where $E$% is your exercise score.
     - If $E=100$, you will get 20%p additional points on top of your exam grade.
     - If $E=60$, no additional points will be awarded.
     - If $E< 60$, you will not be admitted to the exam.
 - Increments from exercise will not let you pass the course if your exam score is below $50\%$.
 
 **Final grade (1,0 - 5,0)**
+
+- The final grade of the course will be based on the final score.
 
 ### Lecture times
 
