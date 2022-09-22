@@ -92,6 +92,11 @@ tag = "tags"
   #     weight = 5
 
   [[menu.main]]
+      name = "Courses"
+      url = "/#courses"
+      weight = 5
+
+  [[menu.main]]
       name = "Openings"
       url = "/#openings"
       weight = 6
