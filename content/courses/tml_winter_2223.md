@@ -48,66 +48,65 @@ Ask the lecturer or tutors to add you to the Slack channel. We need your name an
 Recommended papers from each topic.
 
 {{< details "OOD Generalisation" >}}
-- Generalizing from a Few Examples: A Survey on Few-Shot Learning
-- Generalizing to Unseen Domains: A Survey on Domain Generalization
-- In Search of Lost Domain Generalization
-- Underspecification Presents Challenges for Credibility in Modern Machine Learning
-- Shortcut Learning in Deep Neural Networks
-- Which Shortcut Cues Will DNNs Choose? A Study from the Parameter-Space Perspective
-- Environment Inference for Invariant Learning
-- ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness
+- [Generalizing from a Few Examples: A Survey on Few-Shot Learning](https://arxiv.org/pdf/1904.05046.pdf)
+- [Generalizing to Unseen Domains: A Survey on Domain Generalization](https://changliu00.github.io/dg_survey/dg_survey.pdf)
+- [In Search of Lost Domain Generalization](https://arxiv.org/pdf/2007.01434.pdf)
+- [Underspecification Presents Challenges for Credibility in Modern Machine Learning](https://arxiv.org/pdf/2011.03395.pdf)
+- [Shortcut Learning in Deep Neural Networks](https://arxiv.org/pdf/2004.07780.pdf)
+- [Which Shortcut Cues Will DNNs Choose? A Study from the Parameter-Space Perspective](https://coallaoh.github.io/data/scimeca2022iclr.pdf)
+- [Environment Inference for Invariant Learning](http://proceedings.mlr.press/v139/creager21a/creager21a.pdf)
+- [ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness.](https://arxiv.org/abs/1811.12231)
 {{< /details >}}
 
 {{< details "Explainability" >}}
-- Explanation in artificial intelligence: Insights from the social sciences
-- Sanity Checks for Saliency Maps
-- A benchmark for interpretability methods in deep neural networks
-- Expanding Explainability: Towards Social Transparency in AI systems
-- Human-Centered Explainable AI: Towards a Reflective Sociotechnical Approach
-- Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps
-- Axiomatic attribution for deep networks
-- SmoothGrad: removing noise by adding noise
-- A Unified Approach to Interpreting Model Predictions
-- Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)
-- Visualizing Deep Neural Network Decisions: Prediction Difference Analysis
-- Learning Deep Features for Discriminative Localization
-- Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization
-- "Why Should I Trust You?": Explaining the Predictions of Any Classifier
-- Feature Visualization
-- Understanding Black-box Predictions via Influence Functions
-- Estimating Training Data Influence by Tracing Gradient Descent
+- [Explanation in artificial intelligence: Insights from the social sciences](https://www.sciencedirect.com/science/article/pii/S0004370218305988?casa_token=HfkXcrQBLj4AAAAA:i4QhGuIsXDlmZ_EhfMyCCFkn2tnoI0JsVM5O8Qggf01HG0aMZeatCEY2UsJxKfvYD2BtwG6EZkI)
+- [Sanity Checks for Saliency Maps](https://proceedings.neurips.cc/paper/2018/file/294a8ed24b1ad22ec2e7efea049b8737-Paper.pdf)
+- [A benchmark for interpretability methods in deep neural networks](https://proceedings.neurips.cc/paper/2019/file/fe4b8556000d0f0cae99daa5c5c5a410-Paper.pdf)
+- [Expanding Explainability: Towards Social Transparency in AI systems](https://dl.acm.org/doi/abs/10.1145/3411764.3445188?casa_token=6ZTaKuOCMUYAAAAA:vhJnNcizK2MMk4huftyKY4ANzL0_v2g4_eOc2DnZ582koWoD4ohfagwS4np45fNWLOeTeODd-BeL)
+- [Human-Centered Explainable AI: Towards a Reflective Sociotechnical Approach](http://link.springer.com/10.1007/978-3-030-60117-1_33)
+- [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps](https://arxiv.org/abs/1312.6034)
+- [Axiomatic attribution for deep networks](http://proceedings.mlr.press/v70/sundararajan17a.html)
+- [SmoothGrad: removing noise by adding noise](https://arxiv.org/pdf/1706.03825.pdf)
+- [A Unified Approach to Interpreting Model Predictions](https://proceedings.neurips.cc/paper/2017/hash/8a20a8621978632d76c43dfd28b67767-Abstract.html)
+- [Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)](http://proceedings.mlr.press/v80/kim18d/kim18d.pdf)
+- [Visualizing Deep Neural Network Decisions: Prediction Difference Analysis](https://openreview.net/pdf?id=BJ5UeU9xx)
+- [Learning Deep Features for Discriminative Localization](http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf)
+- [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/abs/1610.02391)
+- ["Why Should I Trust You?": Explaining the Predictions of Any Classifier](https://dl.acm.org/doi/abs/10.1145/2939672.2939778)
+- [Feature Visualization](10.23915/distill.00007)
+- [Understanding Black-box Predictions via Influence Functions](http://arxiv.org/abs/1703.04730)
+- [Estimating Training Data Influence by Tracing Gradient Descent](http://arxiv.org/abs/2002.08484)
 {{< /details >}}
 
 {{< details "Uncertainty" >}}
-- A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks
-- On calibration of modern neural networks
-- Deep Anomaly Detection with Outlier Exposure
-- A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks
-- Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning
-- Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles
-- Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs
-- Averaging weights leads to wider optima and better generalization
-- Efficient and scalable Bayesian neural nets with rank-1 factors
-- What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?
-- Addressing Failure Prediction by Learning Model Confidence
-- Why M Heads are Better than One: Training a Diverse Ensemble of Deep Networks
-- Multiple Choice Learning: Learning to Produce Multiple Structured Outputs
-- DiverseNet: When One Right Answer is not Enough
+- [A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks](https://openreview.net/forum?id=Hkg4TI9xl)
+- [On calibration of modern neural networks](http://proceedings.mlr.press/v70/guo17a/guo17a.pdf)
+- [Deep Anomaly Detection with Outlier Exposure](https://openreview.net/forum?id=HyxCxhRcY7)
+- [A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks](https://papers.nips.cc/paper/7947-a-simple-unified-framework-for-detecting-out-of-distribution-samples-and-adversarial-attacks.pdf)
+- [Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](http://proceedings.mlr.press/v48/gal16.pdf)
+- [Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles](http://papers.nips.cc/paper/7219-simple-and-scalable-predictive-uncertainty-estimation-using-deep-ensembles.pdf)
+- [Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs](https://papers.nips.cc/paper/2018/hash/be3087e74e9100d4bc4c6268cdbe8456-Abstract.html)
+- [Averaging weights leads to wider optima and better generalization](https://arxiv.org/abs/1803.05407)
+- [Efficient and scalable Bayesian neural nets with rank-1 factors](http://proceedings.mlr.press/v119/dusenberry20a/dusenberry20a.pdf)
+- [What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?](https://papers.nips.cc/paper/7141-what-uncertainties-do-we-need-in-bayesian-deep-learning-for-computer-vision)
+- [Addressing Failure Prediction by Learning Model Confidence](https://papers.nips.cc/paper/8556-addressing-failure-prediction-by-learning-model-confidence.pdf)
+- [Why M Heads are Better than One: Training a Diverse Ensemble of Deep Networks](https://arxiv.org/abs/1511.06314)
+- [DiverseNet: When One Right Answer is not Enough](https://openaccess.thecvf.com/content_cvpr_2018/papers/Firman_DiverseNet_When_One_CVPR_2018_paper.pdf)
 {{< /details >}}
 
 {{< details "Evaluation" >}}
-- Question and Answer Test-Train Overlap in Open-Domain Question Answering Datasets
-- A Metric Learning Reality Check
-- Evaluating Weakly-Supervised Object Localization Methods Right
-- Do ImageNet Classifiers Generalize to ImageNet?
-- Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations.
-- Realistic Evaluation of Deep Semi-Supervised Learning Algorithms
-- Zero-Shot Learning-The Good, the Bad and the Ugly
-- Sanity Checks for Saliency Maps
-- In Search of Lost Domain Generalization
-- Are We Learning Yet? A Meta-Review of Evaluation Failures Across Machine Learning
-- How to avoid machine learning pitfalls: a guide for academic researchers
-- Show Your Work: Improved Reporting of Experimental Results
+- [Question and Answer Test-Train Overlap in Open-Domain Question Answering Datasets](https://aclanthology.org/2021.eacl-main.86.pdf)
+- [A Metric Learning Reality Check](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700681.pdf)
+- [Evaluating Weakly-Supervised Object Localization Methods Right](https://openaccess.thecvf.com/content_CVPR_2020/papers/Choe_Evaluating_Weakly_Supervised_Object_Localization_Methods_Right_CVPR_2020_paper.pdf)
+- [Do ImageNet Classifiers Generalize to ImageNet?](http://proceedings.mlr.press/v97/recht19a/recht19a.pdf)
+- [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations.](http://proceedings.mlr.press/v97/locatello19a/locatello19a.pdf)
+- [Realistic Evaluation of Deep Semi-Supervised Learning Algorithms](https://papers.nips.cc/paper/2018/file/c1fea270c48e8079d8ddf7d06d26ab52-Paper.pdf)
+- [Zero-Shot Learning-The Good, the Bad and the Ugly](https://openaccess.thecvf.com/content_cvpr_2017/papers/Xian_Zero-Shot_Learning_-_CVPR_2017_paper.pdf)
+- [Sanity Checks for Saliency Maps](https://proceedings.neurips.cc/paper/2018/file/294a8ed24b1ad22ec2e7efea049b8737-Paper.pdf)
+- [In Search of Lost Domain Generalization](https://arxiv.org/pdf/2007.01434.pdf)
+- [Are We Learning Yet? A Meta-Review of Evaluation Failures Across Machine Learning](https://openreview.net/forum?id=mPducS1MsEK)
+- [How to avoid machine learning pitfalls: a guide for academic researchers](https://arxiv.org/abs/2108.02497)
+- [Show Your Work: Improved Reporting of Experimental Results](http://aclanthology.lst.uni-saarland.de/D19-1224.pdf)
 {{< /details >}}
 
 ### Registration
@@ -133,7 +132,7 @@ we award bonus boosts on the final grade based on the exercise performance.
 
 **Admission to exam**
 
-- When the exercise grade is $>60$%, you are granted the right to participate in the exam.
+- When the exercise grade is $\geq 60$%, you are granted the right to participate in the exam.
 - Can take care of exceptional cases on an individual basis.
 
 **Exam score (0 - 100%)**
