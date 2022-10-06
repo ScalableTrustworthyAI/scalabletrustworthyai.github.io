@@ -24,6 +24,10 @@ Please use the STAI group email `stai.there@gmail.com` to
 - Ask questions; and
 - Send us feedback.
 
+### Registration
+
+We can take only 60 students for the course. The registration is on a first-come-first-served basis. To register for the course, please **send an email** with the subject `TML 22-23 Registration` to `stai.there@gmail.com` **between 7 October 2022 and 20 October 2022**.
+
 ### Slack forum
 
 Ask the lecturer or tutors to add you to the Slack channel. We need your name and email address. There, you can
@@ -109,10 +113,6 @@ Recommended papers from each topic.
 - [Show Your Work: Improved Reporting of Experimental Results](http://aclanthology.lst.uni-saarland.de/D19-1224.pdf)
 {{< /details >}}
 
-### Registration
-
-We can take only 60 students for the course. The registration is on a first-come-first-served basis.
-
 ### Grading policy
 
 ![TML_grading](/img/grading_scheme.png)
@@ -160,6 +160,11 @@ we award bonus boosts on the final grade based on the exercise performance.
 - 1st session: 14:15-15:00
 - 5-min break: 15:00-15:05
 - 2nd session: 15:05-15:50
+
+### Lecture location
+
+Tübingen AI Center (Maria-von-Linden-Straße 6, 72076 Tübingen), Lecture Hall (Ground Floor)
+https://goo.gl/maps/JVHwZViGVQtuEQ3w9
 
 ### Tutorial times
 
