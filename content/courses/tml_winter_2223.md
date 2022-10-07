@@ -93,7 +93,7 @@ Recommended papers from each topic.
 
 ## Policies
 
-### Registration & exercise 0
+### Registration & Exercise 0
 
 The **registration period** ends on **27 October 2022**. During this period, you are required to work on Exercise 0 and submit it.
 The Exercise 0 is an individual exercise and will be based on the prerequisite materials for the course. 
@@ -103,8 +103,14 @@ Since our course takes **60 students max**, we may not be able to admit all stud
 In that case, the admission will be based on the score of Exercise 0.
 
 Exercise 0 serves two purposes:
-- Admit students who are sufficiently motivated for the course.
-- Gauge your readiness for the course.
+- For us to admit students who are sufficiently motivated for the course.
+- For you to gauge your own readiness for the course.
+
+The timeline for registration is as follows:
+- Now-20 October 2022: Check time & location for the course.
+- 21 October 2022: Attend the first lecture.
+- 21-27 October 2022: Work on Exercise 0 & submit.
+- 28 October 2022: We finalise the list of students for the TML course.
 
 
 ### Grading policy
