@@ -7,32 +7,7 @@ sort_position = 1
 description = "As machine learning technology gets applied to actual products and solutions, new challenges have emerged. Models unexpectedly fail to generalise well to small changes in the distribution; some models are found to utilise sensitive features that could treat certain demographic user groups unfairly; models tend to be confident on novel types of data; models cannot communicate the rationale behind their decisions effectively with the end users like medical staff to maximise the human-machine synergies. Collectively, we face a trustworthiness issue with the current machine learning technology. A large fraction of the machine learning research nowadays is dedicated to expanding the frontier of Trustworthy Machine Learning (TML). The course covers a theoretical and technical background for key topics in TML. We conduct a critical review of important classical and contemporary research papers on related topics and provide hands-on practicals to implement TML techniques."
 +++
 
-### Lecturer
-
-- [Seong Joon Oh](../../member/joon/)
-
-### Tutors
-
-- [Alexander Rubinstein](../../member/alex/)
-- [Elif Akata](../../member/elif/)
-- [Elisa Nguyen](../../member/elisa/)
-
-### Central email
-
-Please use the STAI group email `stai.there@gmail.com` to
-- Submit your Colab exercises;
-- Ask questions; and
-- Send us feedback.
-
-### Registration
-
-We can take only 60 students for the course. The registration is on a first-come-first-served basis. To register for the course, please **send an email** with the subject `TML 22-23 Registration` to `stai.there@gmail.com` **between 7 October 2022 and 20 October 2022**.
-
-### Slack forum
-
-Ask the lecturer or tutors to add you to the Slack channel. We need your name and email address. There, you can
-- Ask questions and
-- Send us feedback.
+## Overview
 
 ### Goal
 
@@ -113,6 +88,25 @@ Recommended papers from each topic.
 - [Show Your Work: Improved Reporting of Experimental Results](http://aclanthology.lst.uni-saarland.de/D19-1224.pdf)
 {{< /details >}}
 
+
+
+
+## Policies
+
+### Registration & exercise 0
+
+The **registration period** ends on **27 October 2022**. During this period, you are required to work on Exercise 0 and submit it.
+The Exercise 0 is an individual exercise and will be based on the prerequisite materials for the course. 
+It will be published right after the first lecture on 21 October 2022 on this web page (see `Schedule & exercises` section below). 
+There will be a minimal threshold on the Exercise 0 score for the admission to the course.
+Since our course takes **60 students max**, we may not be able to admit all students who submit Exercise 0.
+In that case, the admission will be based on the score of Exercise 0.
+
+Exercise 0 serves two purposes:
+- Admit students who are sufficiently motivated for the course.
+- Gauge your readiness for the course.
+
+
 ### Grading policy
 
 ![TML_grading](/img/grading_scheme.png)
@@ -120,7 +114,7 @@ Recommended papers from each topic.
 The final grade is essentially based on your exam performance. However, to encourage the participation in the exercises,
 we award bonus boosts on the final grade based on the exercise performance.
 
-**Exercise 0 and admission to course**
+**Exercise 0 and registration for course**
 
 - We admit only those who submit the zeroth exercise to the course.
 - Exercise 0 is an individual exercise.
@@ -154,17 +148,46 @@ we award bonus boosts on the final grade based on the exercise performance.
 
 - The final grade of the course will be based on the final score.
 
+
+## Communication 
+
+### Lecturer
+
+- [Seong Joon Oh](../../member/joon/)
+
+### Tutors
+
+- [Alexander Rubinstein](../../member/alex/)
+- [Elif Akata](../../member/elif/)
+- [Elisa Nguyen](../../member/elisa/)
+
+### Central email
+
+Please use the STAI group email `stai.there@gmail.com` to
+- Submit your Colab exercises;
+- Ask questions; and
+- Send us feedback.
+
+### Slack forum
+
+Ask the lecturer or tutors to add you to the Slack channel. We need your name and email address. There, you can
+- Ask questions and
+- Send us feedback.
+
+
+## When & where
+
+### Lecture & tutorial location
+
+Seminarraum C118a (Informatik Sand 14)
+https://goo.gl/maps/mP6Q92s6QcLoHK5v7
+
 ### Lecture times
 
 - Fridays
 - 1st session: 14:15-15:00
 - 5-min break: 15:00-15:05
 - 2nd session: 15:05-15:50
-
-### Lecture location
-
-Tübingen AI Center (Maria-von-Linden-Straße 6, 72076 Tübingen), Lecture Hall (Ground Floor)
-https://goo.gl/maps/JVHwZViGVQtuEQ3w9
 
 ### Tutorial times
 
@@ -176,12 +199,13 @@ https://goo.gl/maps/JVHwZViGVQtuEQ3w9
 - Main exam: 21/02/2023 (tentative)
 - Make-up exam: 11/04/2023 (tentative)
 
-### Schedule & exercises
+
+## Schedule & exercises
 
 {{<table "table table-striped table-bordered">}}
 |   #  	|   Date  	|   Content  	|   Exercises  	|   Lead tutor  	|
 |---	|---	|---	|---	|---	|
-|   L1  	|   21/10/2022  	|   Introduction  	|   [Exercise 0](TBD)   (Due: 28/10/2022)  	|   Alex  	|
+|   L1  	|   21/10/2022  	|   Introduction  	|   [Exercise 0](TBD)   (Due: 27/10/2022)  	|   Alex  	|
 |   L2  	|   28/10/2022  	|   OOD Generalisation - Definition and limitations  	|   [Exercise 1](TBD) (Due: 17/11/2022)  	|   Alex  	|
 |   L3  	|   04/11/2022  	|   OOD Generalisation - Cue selection problem  	|     	|   Alex  	|
 |   L4  	|   11/11/2022  	|   OOD Generalisation - Worst-case generalisation  	|     	|   Alex  	|
