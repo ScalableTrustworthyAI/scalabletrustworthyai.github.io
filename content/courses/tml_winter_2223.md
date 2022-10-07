@@ -166,6 +166,7 @@ we award bonus boosts on the final grade based on the exercise performance.
 - [Alexander Rubinstein](../../member/alex/)
 - [Elif Akata](../../member/elif/)
 - [Elisa Nguyen](../../member/elisa/)
+- [Michael Kirchhof](../../member/michael/)
 
 ### Central email
 
@@ -218,10 +219,10 @@ https://goo.gl/maps/mP6Q92s6QcLoHK5v7
 |   L5  	|   18/11/2022  	|   Explainability - Definition and limitations  	|   [Exercise 2](TBD) (Due: 08/12/2022)  	|   Elisa  	|
 |   L6  	|   25/11/2022  	|   Explainability - Attribution  	|     	|   Elisa  	|
 |   L7  	|   02/12/2022  	|   Explainability - Model explanation  	|     	|   Elisa  	|
-|   L8  	|   09/12/2022  	|   Uncertainty - Definition and evaluation  	|   [Exercise 3](TBD) (Due: 26/01/2023)  	|   Elif  	|
+|   L8  	|   09/12/2022  	|   Uncertainty - Definition and evaluation  	|   [Exercise 3](TBD) (Due: 26/01/2023)  	|   Michael  	|
 |       	|                	|   Christmas Break  	|     	|     	|
-|   L9  	|   13/01/2023  	|   Uncertainty - Epistemic uncertainty  	|     	|   Elif  	|
-|   L10  	|   20/01/2023  	|   Uncertainty - Aleatoric uncertainty  	|     	|   Elif  	|
-|   L11  	|   27/01/2023  	|   Evaluation - Concepts and definitions  	|   [Exercise 4](TBD) (Due: 09/02/2023)  	|   Elisa  	|
-|   L12  	|   03/02/2023  	|   Evaluation - Weak & strong supervision  	|     	|   Elisa  	|
+|   L9  	|   13/01/2023  	|   Uncertainty - Epistemic uncertainty  	|     	|   Michael  	|
+|   L10  	|   20/01/2023  	|   Uncertainty - Aleatoric uncertainty  	|     	|   Michael  	|
+|   L11  	|   27/01/2023  	|   Evaluation - Concepts and definitions  	|   [Exercise 4](TBD) (Due: 09/02/2023)  	|   Elif  	|
+|   L12  	|   03/02/2023  	|   Evaluation - Weak & strong supervision  	|     	|   Elif  	|
 {{</table>}}
