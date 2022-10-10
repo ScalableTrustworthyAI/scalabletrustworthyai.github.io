@@ -166,7 +166,7 @@ we award bonus boosts on the final grade based on the exercise performance.
 - [Alexander Rubinstein](../../member/alex/)
 - [Elif Akata](../../member/elif/)
 - [Elisa Nguyen](../../member/elisa/)
-- [Michael Kirchhof](../../member/michael/)
+- [Michael Kirchhof](https://www.eml-unitue.de/people/michael-kirchhof)
 
 ### Central email
 
