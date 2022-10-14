@@ -98,9 +98,9 @@ Recommended papers from each topic.
 The **registration period** ends on **27 October 2022**. During this period, you are required to work on Exercise 0 and submit it.
 The Exercise 0 is an individual exercise and will be based on the prerequisite materials for the course. 
 It will be published right after the first lecture on 21 October 2022 on this web page (see `Schedule & exercises` section below). 
-There will be a minimal threshold on the Exercise 0 score for the admission to the course.
-Since our course takes **60 students max**, we may not be able to admit all students who submit Exercise 0.
-In that case, the admission will be based on the score of Exercise 0.
+Students who wish to enrol must submit their work on Exercise 0. 
+To prevent an empty submission, there is a minimal score (30%) for the exercise.
+The necessary prerequisite materials will be lectured in the first lecture.
 
 Exercise 0 serves two purposes:
 - For us to admit students who are sufficiently motivated for the course.
@@ -110,7 +110,7 @@ The timeline for registration is as follows:
 - Now-20 October 2022: Check time & location for the course.
 - 21 October 2022: Attend the first lecture.
 - 21-27 October 2022: Work on Exercise 0 & submit.
-- 28 October 2022: We finalise the list of students for the TML course.
+- 28 October 2022: Register students who have submitted Exercise 0.
 
 
 ### Grading policy
@@ -125,10 +125,10 @@ we award bonus boosts on the final grade based on the exercise performance.
 - We admit only those who submit the zeroth exercise to the course.
 - Exercise 0 is an individual exercise.
 
-**Exercise 1-4 score E% (0 - 100%)**
+**Exercise 1-3 score E% (0 - 100%)**
 
-- Average score from Exercises 1-4.
-- Exercises 1-4 are group exercises.
+- Average score from Exercises 1-3.
+- Exercises 1-3 are group exercises.
 
 **Admission to exam**
 
@@ -166,7 +166,7 @@ we award bonus boosts on the final grade based on the exercise performance.
 - [Alexander Rubinstein](../../member/alex/)
 - [Elif Akata](../../member/elif/)
 - [Elisa Nguyen](../../member/elisa/)
-- [Michael Kirchhof](../../member/michael/)
+- [Michael Kirchhof](https://www.eml-unitue.de/people/michael-kirchhof)
 
 ### Central email
 
@@ -223,6 +223,6 @@ https://goo.gl/maps/mP6Q92s6QcLoHK5v7
 |       	|                	|   Christmas Break  	|     	|     	|
 |   L9  	|   13/01/2023  	|   Uncertainty - Epistemic uncertainty  	|     	|   Michael  	|
 |   L10  	|   20/01/2023  	|   Uncertainty - Aleatoric uncertainty  	|     	|   Michael  	|
-|   L11  	|   27/01/2023  	|   Evaluation - Concepts and definitions  	|   [Exercise 4](TBD) (Due: 09/02/2023)  	|   Elif  	|
+|   L11  	|   27/01/2023  	|   Evaluation - Concepts and definitions  	|     	|   Elif  	|
 |   L12  	|   03/02/2023  	|   Evaluation - Weak & strong supervision  	|     	|   Elif  	|
 {{</table>}}
