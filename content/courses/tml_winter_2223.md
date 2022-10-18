@@ -213,13 +213,13 @@ https://goo.gl/maps/mP6Q92s6QcLoHK5v7
 |   #  	|   Date  	|   Content  	|   Exercises  	|   Lead tutor  	|
 |---	|---	|---	|---	|---	|
 |   L1  	|   21/10/2022  	|   Introduction  	|   [Exercise 0](TBD)   (Due: 27/10/2022)  	|   Alex  	|
-|   L2  	|   28/10/2022  	|   OOD Generalisation - Definition and limitations  	|   [Exercise 1](TBD) (Due: 17/11/2022)  	|   Alex  	|
+|   L2  	|   28/10/2022  	|   OOD Generalisation - Definition and limitations  	|   [Exercise 1](TBD) (Due: 21/11/2022)  	|   Alex  	|
 |   L3  	|   04/11/2022  	|   OOD Generalisation - Cue selection problem  	|     	|   Alex  	|
 |   L4  	|   11/11/2022  	|   OOD Generalisation - Worst-case generalisation  	|     	|   Alex  	|
-|   L5  	|   18/11/2022  	|   Explainability - Definition and limitations  	|   [Exercise 2](TBD) (Due: 08/12/2022)  	|   Elisa  	|
+|   L5  	|   18/11/2022  	|   Explainability - Definition and limitations  	|   [Exercise 2](TBD) (Due: 12/12/2022)  	|   Elisa  	|
 |   L6  	|   25/11/2022  	|   Explainability - Attribution  	|     	|   Elisa  	|
 |   L7  	|   02/12/2022  	|   Explainability - Model explanation  	|     	|   Elisa  	|
-|   L8  	|   09/12/2022  	|   Uncertainty - Definition and evaluation  	|   [Exercise 3](TBD) (Due: 26/01/2023)  	|   Michael  	|
+|   L8  	|   09/12/2022  	|   Uncertainty - Definition and evaluation  	|   [Exercise 3](TBD) (Due: 30/01/2023)  	|   Michael  	|
 |       	|                	|   Christmas Break  	|     	|     	|
 |   L9  	|   13/01/2023  	|   Uncertainty - Epistemic uncertainty  	|     	|   Michael  	|
 |   L10  	|   20/01/2023  	|   Uncertainty - Aleatoric uncertainty  	|     	|   Michael  	|
