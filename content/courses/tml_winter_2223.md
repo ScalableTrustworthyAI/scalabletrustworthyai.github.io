@@ -96,9 +96,9 @@ Recommended papers from each topic.
 ### Registration & Exercise 0
 
 The **registration period** ends on **27 October 2022**. During this period, you are required to work on Exercise 0 and submit it.
-The Exercise 0 is an individual exercise and will be based on the prerequisite materials for the course. 
-It will be published right after the first lecture on 21 October 2022 on this web page (see `Schedule & exercises` section below). 
-Students who wish to enrol must submit their work on Exercise 0. 
+The Exercise 0 is an individual exercise and will be based on the prerequisite materials for the course.
+It will be published right after the first lecture on 21 October 2022 on this web page (see `Schedule & exercises` section below).
+Students who wish to enrol must submit their work on Exercise 0.
 To prevent an empty submission, there is a minimal score (30%) for the exercise.
 The necessary prerequisite materials will be lectured in the first lecture.
 
@@ -155,7 +155,7 @@ we award bonus boosts on the final grade based on the exercise performance.
 - The final grade of the course will be based on the final score.
 
 
-## Communication 
+## Communication
 
 ### Lecturer
 
@@ -212,14 +212,14 @@ https://goo.gl/maps/mP6Q92s6QcLoHK5v7
 {{<table "table table-striped table-bordered">}}
 |   #  	|   Date  	|   Content  	|   Exercises  	|   Lead tutor  	|
 |---	|---	|---	|---	|---	|
-|   L1  	|   21/10/2022  	|   Introduction  	|   [Exercise 0](TBD)   (Due: 27/10/2022)  	|   Alex  	|
-|   L2  	|   28/10/2022  	|   OOD Generalisation - Definition and limitations  	|   [Exercise 1](TBD) (Due: 21/11/2022)  	|   Alex  	|
+|   L1  	|   21/10/2022  	|   Introduction  	|   [Exercise 0](https://colab.research.google.com/drive/1m34hoUQApiuT673oKcR97utOXFdmYRRm?usp=sharing)   (Due: 27/10/2022)  	|   Elif  	|
+|   L2  	|   28/10/2022  	|   OOD Generalisation - Definition and limitations  	|   Exercise 1 (Due: 21/11/2022)  	|   Alex  	|
 |   L3  	|   04/11/2022  	|   OOD Generalisation - Cue selection problem  	|     	|   Alex  	|
 |   L4  	|   11/11/2022  	|   OOD Generalisation - Worst-case generalisation  	|     	|   Alex  	|
-|   L5  	|   18/11/2022  	|   Explainability - Definition and limitations  	|   [Exercise 2](TBD) (Due: 12/12/2022)  	|   Elisa  	|
+|   L5  	|   18/11/2022  	|   Explainability - Definition and limitations  	|   Exercise 2 (Due: 12/12/2022)  	|   Elisa  	|
 |   L6  	|   25/11/2022  	|   Explainability - Attribution  	|     	|   Elisa  	|
 |   L7  	|   02/12/2022  	|   Explainability - Model explanation  	|     	|   Elisa  	|
-|   L8  	|   09/12/2022  	|   Uncertainty - Definition and evaluation  	|   [Exercise 3](TBD) (Due: 30/01/2023)  	|   Michael  	|
+|   L8  	|   09/12/2022  	|   Uncertainty - Definition and evaluation  	|   Exercise 3 (Due: 30/01/2023)  	|   Michael  	|
 |       	|                	|   Christmas Break  	|     	|     	|
 |   L9  	|   13/01/2023  	|   Uncertainty - Epistemic uncertainty  	|     	|   Michael  	|
 |   L10  	|   20/01/2023  	|   Uncertainty - Aleatoric uncertainty  	|     	|   Michael  	|
