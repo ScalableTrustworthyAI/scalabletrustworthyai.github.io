@@ -33,7 +33,7 @@ sort_position = 4
 [[education]]
     course = "BSc in Computer Science"
     institution = 'Saarland University'
-    year = 2017
+    year = 2019
 
 [[organizations]]
     name = "University of Tübingen"
