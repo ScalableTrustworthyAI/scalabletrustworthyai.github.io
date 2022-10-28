@@ -93,7 +93,8 @@ Recommended papers from each topic.
 
 ## Policies
 
-### Registration & Exercise 0
+{{< details "Registration & Exercise 0" >}}
+<!-- ### Registration & Exercise 0 -->
 
 The **registration period** ends on **27 October 2022**. During this period, you are required to work on Exercise 0 and submit it.
 The Exercise 0 is an individual exercise and will be based on the prerequisite materials for the course.
@@ -111,7 +112,7 @@ The timeline for registration is as follows:
 - 21 October 2022: Attend the first lecture.
 - 21-27 October 2022: Work on Exercise 0 & submit.
 - 28 October 2022: Register students who have submitted Exercise 0.
-
+{{< /details >}}
 
 ### Grading policy
 
@@ -139,7 +140,11 @@ we award bonus boosts on the final grade based on the exercise performance.
 
 - Based on your performance on your exam.
 - The pass threshold for the course will be $\geq 50$% on the exam.
-- There will be two exam dates. You can sit only one of them.
+- There will be two exams: Exam 1 and Exam 2.
+    - Case A: Sit Exam 1 and pass → Exam 1 score will be final (cannot sit Exam 2).
+    - Case B: Sit Exam 1 and fail → You may sit Exam 2; Exam 2 score will be final.
+    - Case C: Choose to skip Exam 2 → Exam 2 score will be final.
+
 
 **Final score (0 - 100%)**
 
@@ -175,11 +180,14 @@ Please use the STAI group email `stai.there@gmail.com` to
 - Ask questions; and
 - Send us feedback.
 
-### Slack forum
+### Discord forum
 
-Ask the lecturer or tutors to add you to the Slack channel. We need your name and email address. There, you can
-- Ask questions and
-- Send us feedback.
+For those who're registered for the course, ask the lecturer or tutors to add you to the Discord channel. We need your name and email address. Use it for
+
+- Asking questions;
+- Sending us feedback;
+- Receiving official announcements; and
+- Communicating others (e.g. finding partners).
 
 
 ## When & where
@@ -203,8 +211,8 @@ https://goo.gl/maps/mP6Q92s6QcLoHK5v7
 
 ### Exam dates
 
-- Main exam: 21/02/2023 (tentative)
-- Make-up exam: 11/04/2023 (tentative)
+- Exam 1: 21/02/2023
+- Exam 2: 11/04/2023
 
 
 ## Schedule & exercises
@@ -213,7 +221,7 @@ https://goo.gl/maps/mP6Q92s6QcLoHK5v7
 |   #  	|   Date  	|   Content  	|   Exercises  	|   Lead tutor  	|
 |---	|---	|---	|---	|---	|
 |   L1  	|   21/10/2022  	|   [Introduction](https://docs.google.com/presentation/d/1HbM1oXIwduT8Lldj5S1DlOO_cZC8P2_OK9Chh4R2IZo/edit?usp=sharing)  	|   [Exercise 0](https://colab.research.google.com/drive/1m34hoUQApiuT673oKcR97utOXFdmYRRm?usp=sharing)   (Due: 27/10/2022)  	|   Elif  	|
-|   L2  	|   28/10/2022  	|   [OOD Generalisation - Definition and limitations](https://docs.google.com/presentation/d/1HQtkLVuxCjmU0mGEebIOOnHZED5lmBcrf1vPBhIzHCA/edit?usp=sharing)  	|   Exercise 1 (Due: 21/11/2022)  	|   Alex  	|
+|   L2  	|   28/10/2022  	|   [OOD Generalisation - Definition and limitations](https://docs.google.com/presentation/d/1HQtkLVuxCjmU0mGEebIOOnHZED5lmBcrf1vPBhIzHCA/edit?usp=sharing) ([Video](https://youtu.be/DqrWiaEVKx4))  	|   Exercise 1 (Due: 21/11/2022)  	|   Alex  	|
 |   L3  	|   04/11/2022  	|   OOD Generalisation - Cue selection problem  	|     	|   Alex  	|
 |   L4  	|   11/11/2022  	|   OOD Generalisation - Worst-case generalisation  	|     	|   Alex  	|
 |   L5  	|   18/11/2022  	|   Explainability - Definition and limitations  	|   Exercise 2 (Due: 12/12/2022)  	|   Elisa  	|
