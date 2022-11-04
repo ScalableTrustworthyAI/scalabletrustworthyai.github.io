@@ -222,7 +222,7 @@ https://goo.gl/maps/mP6Q92s6QcLoHK5v7
 |---	|---	|---	|---	|---	|
 |   L1  	|   21/10/2022  	|   [Introduction](https://docs.google.com/presentation/d/1HbM1oXIwduT8Lldj5S1DlOO_cZC8P2_OK9Chh4R2IZo/edit?usp=sharing)  	|   [Exercise 0](https://colab.research.google.com/drive/1m34hoUQApiuT673oKcR97utOXFdmYRRm?usp=sharing)   (Due: 27/10/2022)  	|   Elif  	|
 |   L2  	|   28/10/2022  	|   [OOD Generalisation - Definition and limitations](https://docs.google.com/presentation/d/1HQtkLVuxCjmU0mGEebIOOnHZED5lmBcrf1vPBhIzHCA/edit?usp=sharing) ([Video](https://youtu.be/DqrWiaEVKx4))  	|   Exercise 1 (Due: 21/11/2022)  	|   Alex  	|
-|   L3  	|   04/11/2022  	|   OOD Generalisation - Cue selection problem  	|     	|   Alex  	|
+|   L3  	|   04/11/2022  	|   [OOD Generalisation - Cue selection problem](https://docs.google.com/presentation/d/1NODSaP31IuT0923X6PQ0AkwqgEcyxuZZYpFf9kkdQQw/edit?usp=sharing)  	|     	|   Alex  	|
 |   L4  	|   11/11/2022  	|   OOD Generalisation - Worst-case generalisation  	|     	|   Alex  	|
 |   L5  	|   18/11/2022  	|   Explainability - Definition and limitations  	|   Exercise 2 (Due: 12/12/2022)  	|   Elisa  	|
 |   L6  	|   25/11/2022  	|   Explainability - Attribution  	|     	|   Elisa  	|
