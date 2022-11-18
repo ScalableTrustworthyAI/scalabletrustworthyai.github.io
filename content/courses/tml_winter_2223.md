@@ -223,11 +223,11 @@ https://goo.gl/maps/mP6Q92s6QcLoHK5v7
 |   L1  	|   21/10/2022  	|   [Introduction](https://docs.google.com/presentation/d/1HbM1oXIwduT8Lldj5S1DlOO_cZC8P2_OK9Chh4R2IZo/edit?usp=sharing)  	|   [Exercise 0](https://colab.research.google.com/drive/1m34hoUQApiuT673oKcR97utOXFdmYRRm?usp=sharing)   (Due: 27/10/2022)  	|   Elif  	|
 |   L2  	|   28/10/2022  	|   [OOD Generalisation - Definition and limitations](https://docs.google.com/presentation/d/1HQtkLVuxCjmU0mGEebIOOnHZED5lmBcrf1vPBhIzHCA/edit?usp=sharing) ([Video](https://youtu.be/DqrWiaEVKx4))   	|   [Exercise 1](https://colab.research.google.com/drive/1RyRuqBCoXb3zRZ2lxoS4vt1tvDHpSNHx?usp=sharing) (Due: 21/11/2022)  	|   Alex  	|
 |   L3  	|   04/11/2022  	|   [OOD Generalisation - Cue selection problem](https://docs.google.com/presentation/d/1NODSaP31IuT0923X6PQ0AkwqgEcyxuZZYpFf9kkdQQw/edit?usp=sharing) ([Video](https://youtu.be/5vWcflV8Gq8))  	|     	|   Alex  	|
-|   L4  	|   11/11/2022  	|   [OOD Generalisation](https://docs.google.com/presentation/d/1G459l_R_ir_mxuIJtaMHk-RLzXaEumlwB-oG0AeDfsk/edit?usp=sharing) ([Video](https://youtu.be/AZZv105ubbk)) 	|     	|   Alex  	|
-|   L5  	|   18/11/2022  	|   [More OOD and Explainability - Definition and limitations](https://docs.google.com/presentation/d/1a9OGP5zZjEdOY5fb0L3CGskMjlS65U5AFYPV9XbfP-I/edit?usp=sharing)  	|     	|   Alex / Elisa 	|
-|   L6  	|   25/11/2022  	|   Explainability - Definition and limitations  	|    Exercise 2 (Due: 12/12/2022) 	|   Elisa  	|
-|   L7  	|   02/12/2022  	|   Explainability - Attribution  	|     	|   Elisa  	|
-|   L8  	|   09/12/2022  	|   Explainability - Model explanation  	|     	|   Elisa  	|
+|   L4  	|   11/11/2022  	|   [OOD Generalisation - Cue selection and adversarial generalisation](https://docs.google.com/presentation/d/1G459l_R_ir_mxuIJtaMHk-RLzXaEumlwB-oG0AeDfsk/edit?usp=sharing) ([Video](https://youtu.be/AZZv105ubbk)) 	|     	|   Alex  	|
+|   L5  	|   18/11/2022  	|   [More OOD and Explainability - Definition and limitations](https://docs.google.com/presentation/d/1a9OGP5zZjEdOY5fb0L3CGskMjlS65U5AFYPV9XbfP-I/edit?usp=sharing)([Video](https://youtu.be/TPVwXbXH0l8))  	|     	|   Alex / Elisa 	|
+|   L6  	|   25/11/2022  	|   Explainability - Attribution & Evaluation 	|    Exercise 2 (Due: 12/12/2022) 	|   Elisa  	|
+|   L7  	|   02/12/2022  	|   Explainability - Model explanation  	|     	|   Elisa  	|
+|   L8  	|   09/12/2022  	|   Explainability & Uncertainty  	|     	|   Elisa  	|
 |       	|                	|   Christmas Break  	|     	|     	|
 |   L9  	|   13/01/2023  	|   Uncertainty - Definition and evaluation  	|   Exercise 3 (Due: 30/01/2023)  	|   Michael  	|
 |   L10  	|   20/01/2023  	|   Uncertainty - Epistemic uncertainty  	|     	|   Michael  	|
