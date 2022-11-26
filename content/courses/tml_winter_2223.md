@@ -225,7 +225,7 @@ https://goo.gl/maps/mP6Q92s6QcLoHK5v7
 |   L3  	|   04/11/2022  	|   [OOD Generalisation - Cue selection problem](https://docs.google.com/presentation/d/1NODSaP31IuT0923X6PQ0AkwqgEcyxuZZYpFf9kkdQQw/edit?usp=sharing) ([Video](https://youtu.be/5vWcflV8Gq8))  	|     	|   Alex  	|
 |   L4  	|   11/11/2022  	|   [OOD Generalisation - Cue selection and adversarial generalisation](https://docs.google.com/presentation/d/1G459l_R_ir_mxuIJtaMHk-RLzXaEumlwB-oG0AeDfsk/edit?usp=sharing) ([Video](https://youtu.be/AZZv105ubbk)) 	|     	|   Alex  	|
 |   L5  	|   18/11/2022  	|   [More OOD and Explainability - Definition and limitations](https://docs.google.com/presentation/d/1a9OGP5zZjEdOY5fb0L3CGskMjlS65U5AFYPV9XbfP-I/edit?usp=sharing) ([Video](https://youtu.be/TPVwXbXH0l8))  	|     	|   Alex / Elisa 	|
-|   L6  	|   25/11/2022  	|   [Explainability - Attribution](https://docs.google.com/presentation/d/1GZBCZQWzqjAsUnNfgUmO9Ge1DX0M5flEjWMfHtabsJU/edit?usp=sharing) 	|    [Exercise 2](https://colab.research.google.com/drive/1UO4hWoUKWB9lO_dACNDf8fxeBoXr4cvd?usp=sharing) (Due: 12/12/2022) 	|   Elisa  	|
+|   L6  	|   25/11/2022  	|   [Explainability - Attribution](https://docs.google.com/presentation/d/1GZBCZQWzqjAsUnNfgUmO9Ge1DX0M5flEjWMfHtabsJU/edit?usp=sharing) 	|    [Exercise 2](https://colab.research.google.com/drive/1UO4hWoUKWB9lO_dACNDf8fxeBoXr4cvd?usp=sharing) ([Video](https://youtu.be/Vk6UERA_HuI)) (Due: 12/12/2022) 	|   Elisa  	|
 |   L7  	|   02/12/2022  	|   Explainability - Attribution & evaluation	|     	|   Elisa  	|
 |   L8  	|   09/12/2022  	|   Explainability - Model explanation  	|     	|   Elisa  	|
 |       	|                	|   Christmas Break  	|     	|     	|
