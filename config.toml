@@ -51,6 +51,9 @@ tag = "tags"
     title = "Courses"
     subtitle = ""
     str_all = "More Courses"
+    # for newlines in tables
+    [markup.goldmark.renderer]
+      unsafe = true
 
   # Section will only be displayed if there are posts in `content/post/`.
   [params.posts]
