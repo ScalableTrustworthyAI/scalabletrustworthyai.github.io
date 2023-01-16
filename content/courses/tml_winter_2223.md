@@ -209,10 +209,10 @@ https://goo.gl/maps/mP6Q92s6QcLoHK5v7
 - Fridays 16:00-18:00
 - Up to discussion
 
-### Exam dates
+### Exam dates and locations
 
-- Exam 1: 21/02/2023
-- Exam 2: 11/04/2023
+- Exam 1: 9:00 - 12:00, Tuesday 21.02.2023, Hörsaal N04 (Hörsaalzentrum Morgenstelle)
+- Exam 2: Friday 11/04/2023 (TBD)
 
 
 ## Schedule & exercises
