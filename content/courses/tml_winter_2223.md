@@ -230,7 +230,7 @@ https://goo.gl/maps/mP6Q92s6QcLoHK5v7
 |   L8  	|   09/12/2022  	|   [Explainability - Model explanation](https://docs.google.com/presentation/d/1iRvMVG6xOf2bIm2-zE05XMFpY6LVoaEL7gYSDejQpu4/edit?usp=sharing) ([Video](https://youtu.be/ZqFRKoupo_4&list=PL5iDtgKiCe5SuhyyGQT5OImWmsItHr8OQ)) 	|     	|   Elisa  	|
 |       	|                	|   Christmas Break  	|     	|     	|
 |   L9  	|   13/01/2023  	|   [Uncertainty - Definition and evaluation](https://docs.google.com/presentation/d/1DgA9oJQ_OzWS9wZ_qmPZAgxY9OqJHO4Q0n-5uCuQnrI/edit?usp=sharing) ([Video](https://www.youtube.com/watch?v=3zuGShCWPaU&list=PL5iDtgKiCe5SuhyyGQT5OImWmsItHr8OQ)) 	|   [Exercise 3](https://colab.research.google.com/drive/12y5Dfh6PXQrO0iSyA6DZNEhjWdllqDHt?usp=sharing) (Due: 03/02/2023)  	|   Michael  	|
-|   L10  	|   20/01/2023  	|   Uncertainty - Epistemic uncertainty  	|     	|   Michael  	|
+|   L10  	|   20/01/2023  	|   [Uncertainty - Epistemic uncertainty](https://docs.google.com/presentation/d/11DXcI0_tiEAP7VipnsBieGPTqBEfRg8Y5wTmJumzOZ8/edit?usp=sharing)  	|     	|   Michael  	|
 |   L11  	|   27/01/2023  	|   Uncertainty - Aleatoric uncertainty  	|     	|   Michael  	|
 |   L12  	|   03/02/2023  	|   Topics on evaluation  	|     	|   Elif  	|
 {{</table>}}
