@@ -232,5 +232,5 @@ https://goo.gl/maps/mP6Q92s6QcLoHK5v7
 |   L9  	|   13/01/2023  	|   [Uncertainty - Definition and evaluation](https://docs.google.com/presentation/d/1DgA9oJQ_OzWS9wZ_qmPZAgxY9OqJHO4Q0n-5uCuQnrI/edit?usp=sharing) ([Video](https://www.youtube.com/watch?v=3zuGShCWPaU&list=PL5iDtgKiCe5SuhyyGQT5OImWmsItHr8OQ)) 	|   [Exercise 3](https://colab.research.google.com/drive/12y5Dfh6PXQrO0iSyA6DZNEhjWdllqDHt?usp=sharing) (Due: 03/02/2023)  	|   Michael  	|
 |   L10  	|   20/01/2023  	|   [Uncertainty - Epistemic uncertainty](https://docs.google.com/presentation/d/11DXcI0_tiEAP7VipnsBieGPTqBEfRg8Y5wTmJumzOZ8/edit?usp=sharing) ([Video](https://www.youtube.com/watch?v=y_HmpYQmpXs&list=PL5iDtgKiCe5SuhyyGQT5OImWmsItHr8OQ))  	|     	|   Michael  	|
 |   L11  	|   27/01/2023  	|   [Uncertainty - Aleatoric uncertainty](https://docs.google.com/presentation/d/1AO182cBObhU21-4F_5d4SkipEYslentLxxKxn4xeN8k/edit?usp=sharing) ([Video](https://www.youtube.com/watch?v=k7xOfJ7UZEY&list=PL5iDtgKiCe5SuhyyGQT5OImWmsItHr8OQ)) 	|     	|   Michael  	|
-|   L12  	|   03/02/2023  	|   Topics on evaluation  	|     	|   Elif  	|
+|   L12  	|   03/02/2023  	|   [Exam information, Final topics, Research @ STAI](https://docs.google.com/presentation/d/1DvisaUmvm6AaCm9pQ3z2zg5Gd1bG-AHJxe3HbeuhGTc/edit?usp=sharing)  	|     	|   Elif  	|
 {{</table>}}
