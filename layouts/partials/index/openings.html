@@ -9,7 +9,9 @@
             </div>
             <div class="col-xs-12 col-md-9">
                 {{ range first .Site.Params.openings.count (where .Site.RegularPages "Type" "opening") }}
-                    {{ partial "opening_li_detailed" . }}
+                    {{ if eq .Params.status "Open" }}
+                        {{ partial "opening_li_detailed" . }}
+                    {{ end }}
                 {{ end }}
                 {{ if gt $opens_len .Site.Params.openings.count }}
                 <p class="view-all">
