@@ -23,6 +23,5 @@ url_bibtex = "//coallaoh.github.io/data/kirchhof2023arxiv.txt"
 [[authors]]
     name = "Seong Joon Oh"
     is_member = true
-    star = true
     id = "joon"
 +++
