@@ -20,7 +20,6 @@ url_bibtex = "//coallaoh.github.io/data/teney2022arxiv.txt"
 [[authors]]
     name = "Seong Joon Oh"
     is_member = true
-    star = true
     id = "joon"
 [[authors]]
     name = "Ehsan Abbasnejad"

@@ -29,7 +29,6 @@ url_bibtex = "//coallaoh.github.io/data/nam2022arxiv.txt"
 [[authors]]
     name = "Seong Joon Oh"
     is_member = true
-    star = true
     id = "joon"
 [[authors]]
     name = "Tae-Hyun Oh"
