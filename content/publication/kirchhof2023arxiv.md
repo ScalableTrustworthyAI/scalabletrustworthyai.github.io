@@ -16,7 +16,8 @@ url_bibtex = "//coallaoh.github.io/data/kirchhof2023arxiv.txt"
 
 [[authors]]
     name = "Michael Kirchhof"
-    is_member = false
+    is_member = true
+    id = "michael"
 [[authors]]
     name = "Enkelejda Kasneci"
     is_member = false
