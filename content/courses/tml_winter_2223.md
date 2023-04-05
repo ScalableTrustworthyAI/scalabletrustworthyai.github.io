@@ -212,7 +212,7 @@ https://goo.gl/maps/mP6Q92s6QcLoHK5v7
 ### Exam dates and locations
 
 - Exam 1: 10:00 - 11:30, Tuesday 21.02.2023, Hörsaal N04 (Hörsaalzentrum Morgenstelle)
-- Exam 2: 13:00 - 14:30, Friday 14.04.2023, Hörsaal N04 (Hörsaalzentrum Morgenstelle)
+- Exam 2: 13:00 - 14:30, Friday 14.04.2023, Hörsaal **N16** (Hörsaalzentrum Morgenstelle) 
 
 
 ## Schedule & exercises
