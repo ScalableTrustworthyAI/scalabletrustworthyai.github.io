@@ -32,7 +32,7 @@ tag = "tags"
     subtitle = ""
 
   [params.publications]
-    count = 10
+    count = 100
     detailed_list = true
     title = "Publications"
     subtitle = ""
