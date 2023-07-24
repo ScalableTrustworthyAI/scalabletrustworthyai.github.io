@@ -1,28 +1,32 @@
 +++
-abstract = "Contrastively trained encoders have recently been proven to invert the data-generating process: they encode each input, e.g., an image, into the true latent vector that generated the image (Zimmermann et al., 2021). However, real-world observations often have inherent ambiguities. For instance, images may be blurred or only show a 2D view of a 3D object, so multiple latents could have generated them. This makes the true posterior for the latent vector probabilistic with heteroscedastic uncertainty. In this setup, we extend the common InfoNCE objective and encoders to predict latent distributions instead of points. We prove that these distributions recover the correct posteriors of the data-generating process, including its level of aleatoric uncertainty, up to a rotation of the latent space. In addition to providing calibrated uncertainty estimates, these posteriors allow the computation of credible intervals in image retrieval. They comprise images with the same latent as a given query, subject to its uncertainty."
+abstract = "Representation learning has driven the field to develop pretrained models that generalize and transfer to new datasets. With the rising demand of reliable machine learning and uncertainty quantification, we seek pretrained models that output both an embedding and an uncertainty estimate, even on unseen datasets. To guide the development of such models, we propose the uncertainty-aware representation learning (URL) benchmark. It measures whether the uncertainty predicted by a model reliably reveals the uncertainty of its embedding. URL takes only four lines of code to implement but still has an information-theoretical backbone and correlates with human-perceived uncertainties. We apply URL to study ten large-scale uncertainty quantifiers that were pretrained on ImageNet and transfered to eight downstream datasets. We find that transferable uncertainty quantification is an unsolved open problem, but that it appears to be not at stakes with classical representation learning."
 date = "2023-07-24T00:00:00+00:00"
-image = "kirchhof2023icml.png"
+image = "kirchhof2023uaieai.png"
 math = false
-publication = "International Conference on Machine Learning"
-publication_short = "ICML"
+publication = "UAI Workshop on Epistemic Uncertainty in Artificial Intelligence"
+publication_short = "UAI-EAI Best Student Paper"
 selected = false
-title = "Probabilistic Contrastive Learning Recovers the Correct Aleatoric Uncertainty of Ambiguous Inputs"
-url_code = "https://github.com/mkirchhof/Probabilistic_Contrastive_Learning"
+title = "URL: A Representation Learning Benchmark for Transferable Uncertainty Estimates"
+url_code = "https://github.com/mkirchhof/url"
 url_dataset = ""
-url_pdf = "//arxiv.org/abs/2302.02865"
+url_pdf = "//arxiv.org/abs/2307.03810"
 url_project = ""
 url_video = ""
-url_bibtex = "//coallaoh.github.io/data/kirchhof2023icml.txt"
+url_bibtex = "//coallaoh.github.io/data/kirchhof2023uaieai.txt"
 
 [[authors]]
     name = "Michael Kirchhof"
     is_member = true
     id = "michael"
 [[authors]]
-    name = "Enkelejda Kasneci"
-    is_member = false
+    name = "Bálint Mucsányi"
+    is_member = true
+    id = "balint"
 [[authors]]
     name = "Seong Joon Oh"
     is_member = true
     id = "joon"
+[[authors]]
+    name = "Enkelejda Kasneci"
+    is_member = false
 +++
