@@ -3,7 +3,7 @@ abstract = "The favorable performance of Vision Transformers (ViTs) is often att
 date = "2023-07-25T00:00:00+00:00"
 publication_date= "2023-10-01T00:00:00+00:00"
 to_be_published = true
-image = "nam2022iccv.png"
+image = "nam2023iccv.png"
 math = false
 publication = "International Conference on Computer Vision"
 publication_short = "ICCV"
@@ -14,7 +14,7 @@ url_dataset = ""
 url_pdf = "//arxiv.org/abs/2210.08457"
 url_project = ""
 url_video = ""
-url_bibtex = "//coallaoh.github.io/data/nam2022iccv.txt"
+url_bibtex = "//coallaoh.github.io/data/nam2023iccv.txt"
 
 [[authors]]
     name = "Hyeon-Woo Nam"
