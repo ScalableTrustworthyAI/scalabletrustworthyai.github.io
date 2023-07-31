@@ -52,6 +52,8 @@ sort_position = 2
 +++
 My personal page is at [elisanguyen.github.io](https://elisanguyen.github.io). 
 
-I am a first-year PhD student at the University of Tübingen and the International Max Planck Research School for Intelligent Systems ([IMPRS-IS](https://imprs.is.mpg.de/)). 
+I am a PhD student at the University of Tübingen and the International Max Planck Research School for Intelligent Systems ([IMPRS-IS](https://imprs.is.mpg.de/)). My research focus is on exploring training data attribution as a means of helping humans understand model behavior.  
 
-Before, I absolved my Master’s in [Interaction Technology at the University of Twente](https://www.utwente.nl/en/education/master/programmes/interaction-technology/) and my Bachelor’s in [Computer Science and Management at the Nordakademie](https://www.nordakademie.de/duales-studium/wirtschaftsinformatik). I did my Bachelor studies in a [dual study format](https://www.daad.de/en/study-and-research-in-germany/plan-your-studies/dual-study-programmes/) in cooperation with Airbus, where I also worked for about 2.5 years as an IT project manager for CAD software in waterfall and agile projects.
+I absolved my Master’s in [Interaction Technology at the University of Twente](https://www.utwente.nl/en/education/master/programmes/interaction-technology/) and my Bachelor’s in [Computer Science and Management at the Nordakademie](https://www.nordakademie.de/duales-studium/wirtschaftsinformatik). I did my Bachelor studies in a [dual study format](https://www.daad.de/en/study-and-research-in-germany/plan-your-studies/dual-study-programmes/) in cooperation with Airbus, where I also worked for about 2.5 years as an IT project manager for CAD software in waterfall and agile projects.
+
+I'm also passionate about AI education and am part of the outreach program [KI macht Schule](https://ki-macht-schule.de/local-group/tubingen.html). 
