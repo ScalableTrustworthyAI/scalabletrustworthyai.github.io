@@ -79,8 +79,8 @@ https://goo.gl/maps/GYZPcZm7skgowqK78
 
 ### Exam dates and locations
 
-- Exam 1: TBD
-- Exam 2: TBD
+- Exam 1: 10:00 - 11:30, Monday 12.02.2023 (may be updated), Location TBD
+- Exam 2: 10:00 - 11:30, Monday 08.04.2023 (may be updated), Location TBD 
 
 
 ## Schedule & exercises
@@ -88,16 +88,16 @@ https://goo.gl/maps/GYZPcZm7skgowqK78
 {{<table "table table-striped table-bordered">}}
 |   #  	|   Date  	|   Content  	|   Exercises  	|   Lead tutor  	|
 |---	|---	|---	|---	|---	|
-|   L1      |   -   |   -   |   -   |   -   |
-|   L2      |   -   |   -   |   -   |   -   |
-|   L3      |   -   |   -   |   -   |   -   |
-|   L4      |   -   |   -   |   -   |   -   |
-|   L5      |   -   |   -   |   -   |   -   |
-|   L6      |   -   |   -   |   -   |   -   |
-|   L7      |   -   |   -   |   -   |   -   |
-|   L8      |   -   |   -   |   -   |   -   |
-|   L9      |   -   |   -   |   -   |   -   |
-|   L10      |   -   |   -   |   -   |   -   |
-|   L11      |   -   |   -   |   -   |   -   |
-|   L12      |   -   |   -   |   -   |   -   |
+|   L1      |   16/10/2023   |   -   |   -   |   -   |
+|   L2      |   23/10/2023   |   -   |   -   |   -   |
+|   L3      |   30/10/2023   |   -   |   -   |   -   |
+|   L4      |   06/11/2023   |   -   |   -   |   -   |
+|   L5      |   13/11/2023   |   -   |   -   |   -   |
+|   L6      |   20/11/2023   |   -   |   -   |   -   |
+|   L7      |   27/11/2023   |   -   |   -   |   -   |
+|   L8      |   04/12/2023   |   -   |   -   |   -   |
+|   L9      |   11/12/2023   |   -   |   -   |   -   |
+|   L10      |   15/01/2024   |   -   |   -   |   -   |
+|   L11      |   22/01/2024   |   -   |   -   |   -   |
+|   L12      |   29/01/2024   |   -   |   -   |   -   |
 {{</table>}}
