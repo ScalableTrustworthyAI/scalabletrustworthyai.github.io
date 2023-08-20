@@ -25,10 +25,75 @@ description = "As machine learning technology gets applied to actual products an
 ### Reading list
 
 
+
 ## Policies
 
+### Registration & Exercise 0
+
+The **registration** link is here: https://forms.gle/NQ8ZgqZhZadkG1dq6. We start accepting registration from **29 September 2023 at 12:00 pm (noon)** Central European Time (Berlin time).
+
+Upon registration, you will get access to Exercise 0.
+The Exercise 0 is an individual exercise and will be based on the prerequisite materials for the course.
+Students who wish to enrol must submit their work on Exercise 0.
+The necessary prerequisite materials will be taught in the first lecture.
+
+Exercise 0 serves two purposes:
+- For us to admit students who are sufficiently motivated for the course.
+- For you to gauge your own readiness for the course.
+
+The timeline for registration is as follows:
+- Now-28 September 2023: Decide whether to take the lecture.Check time & location for the course.
+- 29 September 2023 at 12:00: Register for the course ([link](https://forms.gle/NQ8ZgqZhZadkG1dq6)).
+- 16 October 2023: Attend the first lecture.
+- 29 September-2? October 2023: Work on Exercise 0 & submit.
 
 ### Grading policy
+
+![TML_grading](/img/TML2324-policy.png)
+
+The final grade is essentially based on your exam performance. However, to encourage the participation in the exercises,
+we award top-ups on the final grade based on the exercise performance.
+We make sure, though, that it is still possible to get the maximal perfomance (grade 1,0) even without any top-up from the exercises.
+
+**Exercise 0**
+
+- Submission of Exercise 0 is the minimal requirement for taking the exam.
+
+**Exercise 1-3 average score E (0 - 100%)**
+
+- Average score from Exercises 1-3.
+- Exercises 1-3 are group exercises.
+
+**Admission to exam**
+
+- When you have submitted Exercise 0 and the average score for Exercises 1-3 is $E\geq 60$%, you are granted the right to sit the exam.
+
+**Exam score X (0 - 100%)**
+
+- Based on your performance on your exam.
+- The pass threshold for the course will be $X\geq 50$% on the exam, independent of the exercise performance.
+- There will be two exams: Exam 1 and Exam 2.
+    - Case A: Sit Exam 1 and pass → Exam 1 score will be final (cannot sit Exam 2).
+    - Case B: Sit Exam 1 and fail → You may sit Exam 2; Exam 2 score will be final.
+    - Case C: Choose to skip Exam 1 and take Exam 2 → Exam 2 score will be final.
+
+
+**Final score S (0 - 100%)**
+
+- The final score is your exam score with possible increments from your exercise performance.
+- Top-up from exercise: $T=(E-60$%$)/40$%$\times 10$%p, where $E$ is your average exercise score.
+- The final score is clipped at 100%: $S=\min (100$%$, X+T)$.
+- Examples:
+    - If $E=100$% and $X=100$%, there will be no further top-up from the exercise scores $S=100$%.
+    - If $E=100$% and $X=80$%, you will get $T=$ 10%p additional points on top of your exam grade $S=90$%.
+    - If $E=100$% and $X=45$%, you may still fail the course because of the minimal requirement for passing the exam $X\geq 50$%.
+    - If $E=60$%, no additional points will be awarded $T=0$.
+    - If $E< 60$%, you will not be admitted to the exam.
+
+**Final grade G (1,0 - 5,0)**
+
+- The mapping from final score to final grade $S\mapsto G$ is determined after each exam, taking the overall difficulty of the exam into account.
+
 
 
 ## Communication
