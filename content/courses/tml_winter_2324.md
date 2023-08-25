@@ -36,16 +36,16 @@ Upon registration, you will get access to Exercise 0.
 The Exercise 0 is an individual exercise and will be based on the prerequisite materials for the course.
 Students who wish to enrol must submit their work on Exercise 0.
 The necessary prerequisite materials will be taught in the first lecture.
-
 Exercise 0 serves two purposes:
 - For us to admit students who are sufficiently motivated for the course.
 - For you to gauge your own readiness for the course.
 
+Submit Exercise 0 by **22 October 2023**. **If you do not submit Exercise 0, we'll assume that you do not wish to register for the course and the exams.**
+
 The timeline for registration is as follows:
-- Now-28 September 2023: Decide whether to take the lecture.Check time & location for the course.
-- 29 September 2023 at 12:00: Register for the course ([link](https://forms.gle/NQ8ZgqZhZadkG1dq6)).
-- 16 October 2023: Attend the first lecture.
-- 29 September-2? October 2023: Work on Exercise 0 & submit.
+- Now-28.09.2023: Decide whether to take the lecture.Check time & location for the course.
+- 29.09.2023 at 12:00: Register for the course ([link](https://forms.gle/NQ8ZgqZhZadkG1dq6)).
+- 29.09.2023-22.10.2023: Work on Exercise 0 and submit. 
 
 ### Grading policy
 
@@ -106,6 +106,7 @@ We make sure, though, that it is still possible to get the maximal perfomance (g
 
 - [Arnas Uselis](../../member/arnas/)
 - [Bálint Mucsányi](../../member/balint/)
+- [Evgenii Kortukov](../../member/evgenii/)
 
 ### Central email
 
@@ -151,18 +152,19 @@ https://goo.gl/maps/GYZPcZm7skgowqK78
 ## Schedule & exercises
 
 {{<table "table table-striped table-bordered">}}
-|   #  	|   Date  	|   Content  	|   Exercises  	|   Lead tutor  	|
-|---	|---	|---	|---	|---	|
-|   L1      |   16/10/2023   |   -   |   -   |   -   |
-|   L2      |   23/10/2023   |   -   |   -   |   -   |
-|   L3      |   30/10/2023   |   -   |   -   |   -   |
-|   L4      |   06/11/2023   |   -   |   -   |   -   |
-|   L5      |   13/11/2023   |   -   |   -   |   -   |
-|   L6      |   20/11/2023   |   -   |   -   |   -   |
-|   L7      |   27/11/2023   |   -   |   -   |   -   |
-|   L8      |   04/12/2023   |   -   |   -   |   -   |
-|   L9      |   11/12/2023   |   -   |   -   |   -   |
-|   L10      |   15/01/2024   |   -   |   -   |   -   |
-|   L11      |   22/01/2024   |   -   |   -   |   -   |
-|   L12      |   29/01/2024   |   -   |   -   |   -   |
+|   #  	|   Date  	|   Content  	|   Exercises  	|
+|---	|---	|---	|---	|
+|   L1      |   16/10/2023   |   Introduction, OOD Generalisation (Definitions & evaluation)   |   Exercise 1 (Due:12.11.2023) - [Arnas](../../member/arnas/)  |
+|   L2      |   23/10/2023   |   OOD Generalisation (Cue selection)   |   Exercise 0 recap - [Joon](../../member/joon/)  |
+|   L3      |   30/10/2023   |   OOD Generalisation (Diversity)   |   -   |
+|   L4      |   06/11/2023   |   OOD Generalisation (Adversarial attacks)   |   -   |
+|   L5      |   13/11/2023   |   Explainability (Definitions & evaluation)   |   Exercise 2 (Due:10.12.2023) - [Evgenii](../../member/evgenii/)   |
+|   L6      |   20/11/2023   |   Explainability (Feature attribution)   |   Exercise 1 recap - [Arnas](../../member/arnas/)  |
+|   L7      |   27/11/2023   |   Explainability (Training data attribution)   |   -   |
+|   L8      |   04/12/2023   |   Explainability (Foundational models)   |   -   |
+|   L9      |   11/12/2023   |   Uncertainty (Definitions & evaluation)   |   Exercise 3 (Due:28.01.2024) - [Bálint](../../member/balint/)   |
+|   L10      |   15/01/2024   |   Uncertainty (Aleatoric uncertainty)   |   Exercise 2 recap - [Evgenii](../../member/evgenii/)  |
+|   L11      |   22/01/2024   |   Uncertainty (Epistemic uncertainty)   |   -   |
+|   L12      |   29/01/2024   |   Uncertainty (Foundational models), Conclusion   |   -   |
+|         |   05/02/2024   |   -   |   Exercise 3 recap - [Bálint](../../member/balint/)   |
 {{</table>}}
