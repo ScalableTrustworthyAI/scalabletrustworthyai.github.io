@@ -154,6 +154,7 @@ https://goo.gl/maps/GYZPcZm7skgowqK78
 {{<table "table table-striped table-bordered">}}
 |   #  	|   Date  	|   Content  	|   Exercises  	|
 |---	|---	|---	|---	|
+|    -     |   29/09/2023   |   Preliminary exercise   |   [Exercise 0](https://colab.research.google.com/drive/12xV5k34x1BDbDraBy563JuBGTsIhroAr?usp=sharing) (Due:22.10.2023) - [Joon](../../member/joon/)  |
 |   L1      |   16/10/2023   |   Introduction, OOD Generalisation (Definitions & evaluation)   |   Exercise 1 (Due:12.11.2023) - [Arnas](../../member/arnas/)  |
 |   L2      |   23/10/2023   |   OOD Generalisation (Cue selection)   |   -  |
 |   L3      |   30/10/2023   |   OOD Generalisation (Diversity)   |   Exercise 0 recap - [Joon](../../member/joon/)   |
