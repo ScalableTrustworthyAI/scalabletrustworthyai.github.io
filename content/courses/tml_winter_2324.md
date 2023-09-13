@@ -122,25 +122,23 @@ For those who're registered for the course, ask the lecturer or tutors to add yo
 - Asking questions;
 - Sending us feedback;
 - Receiving official announcements; and
-- Communicating others (e.g. finding partners).
+- Communicating others (e.g. finding exercise group members).
 
 
 ## When & where
 
-### Lecture & tutorial location
+### Lecture & tutorial location and time
 
-Hörsaal N09 (Hörsaalzentrum Morgenstelle)
-https://goo.gl/maps/GYZPcZm7skgowqK78
-
-### Lecture times
+**Lecture**: Hörsaal N09 ([Hörsaalzentrum Morgenstelle](https://uni-tuebingen.de/einrichtungen/personalvertretungen-beratung-beauftragte/lageplaene/karte-a-morgenstelle/auf-der-morgenstelle-16/))
 
 - Mondays
 - 1st session: 08:15-09:00
 - 5-min break: 09:00-09:05
 - 2nd session: 09:05-09:50
 
-### Tutorial times
+**Tutorial**: Hörsaal 7E02 ([Hörsaalzentrum Morgenstelle](https://uni-tuebingen.de/einrichtungen/personalvertretungen-beratung-beauftragte/lageplaene/karte-a-morgenstelle/auf-der-morgenstelle-16/))
 
+- Mondays 10:00-12:00 (will take place upon prior notice)
 
 
 ### Exam dates and locations
