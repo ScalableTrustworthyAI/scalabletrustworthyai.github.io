@@ -155,8 +155,8 @@ https://goo.gl/maps/GYZPcZm7skgowqK78
 |   #  	|   Date  	|   Content  	|   Exercises  	|
 |---	|---	|---	|---	|
 |   L1      |   16/10/2023   |   Introduction, OOD Generalisation (Definitions & evaluation)   |   Exercise 1 (Due:12.11.2023) - [Arnas](../../member/arnas/)  |
-|   L2      |   23/10/2023   |   OOD Generalisation (Cue selection)   |   Exercise 0 recap - [Joon](../../member/joon/)  |
-|   L3      |   30/10/2023   |   OOD Generalisation (Diversity)   |   -   |
+|   L2      |   23/10/2023   |   OOD Generalisation (Cue selection)   |   -  |
+|   L3      |   30/10/2023   |   OOD Generalisation (Diversity)   |   Exercise 0 recap - [Joon](../../member/joon/)   |
 |   L4      |   06/11/2023   |   OOD Generalisation (Adversarial attacks)   |   -   |
 |   L5      |   13/11/2023   |   Explainability (Definitions & evaluation)   |   Exercise 2 (Due:10.12.2023) - [Evgenii](../../member/evgenii/)   |
 |   L6      |   20/11/2023   |   Explainability (Feature attribution)   |   Exercise 1 recap - [Arnas](../../member/arnas/)  |
