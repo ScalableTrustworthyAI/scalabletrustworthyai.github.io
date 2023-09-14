@@ -150,20 +150,20 @@ For those who're registered for the course, ask the lecturer or tutors to add yo
 ## Schedule & exercises
 
 {{<table "table table-striped table-bordered">}}
-|   #  	|   Date  	|   Content  	|   Exercises  	|
+|   #  	|   Date  	|   Lecture content  	|   Exercises & tutorials  	|
 |---	|---	|---	|---	|
-|    -     |   29/09/2023   |   Preliminary exercise   |   [Exercise 0](https://colab.research.google.com/drive/12xV5k34x1BDbDraBy563JuBGTsIhroAr?usp=sharing) (Due:22.10.2023) - [Joon](../../member/joon/)  |
+|    -     |   29/09/2023   |   -   |   [Exercise 0](https://colab.research.google.com/drive/12xV5k34x1BDbDraBy563JuBGTsIhroAr?usp=sharing) (Due:22.10.2023) - [Joon](../../member/joon/)  |
 |   L1      |   16/10/2023   |   Introduction, OOD Generalisation (Definitions & evaluation)   |   Exercise 1 (Due:12.11.2023) - [Arnas](../../member/arnas/)  |
 |   L2      |   23/10/2023   |   OOD Generalisation (Cue selection)   |   -  |
-|   L3      |   30/10/2023   |   OOD Generalisation (Diversity)   |   Exercise 0 recap - [Joon](../../member/joon/)   |
+|   L3      |   30/10/2023   |   OOD Generalisation (Diversity)   |   **Tutorial**: Exercise 0 recap - [Joon](../../member/joon/)   |
 |   L4      |   06/11/2023   |   OOD Generalisation (Adversarial attacks)   |   -   |
 |   L5      |   13/11/2023   |   Explainability (Definitions & evaluation)   |   Exercise 2 (Due:10.12.2023) - [Evgenii](../../member/evgenii/)   |
-|   L6      |   20/11/2023   |   Explainability (Feature attribution)   |   Exercise 1 recap - [Arnas](../../member/arnas/)  |
+|   L6      |   20/11/2023   |   Explainability (Feature attribution)   |   **Tutorial**: Exercise 1 recap - [Arnas](../../member/arnas/)  |
 |   L7      |   27/11/2023   |   Explainability (Training data attribution)   |   -   |
 |   L8      |   04/12/2023   |   Explainability (Foundational models)   |   -   |
 |   L9      |   11/12/2023   |   Uncertainty (Definitions & evaluation)   |   Exercise 3 (Due:28.01.2024) - [Bálint](../../member/balint/)   |
-|   L10      |   15/01/2024   |   Uncertainty (Aleatoric uncertainty)   |   Exercise 2 recap - [Evgenii](../../member/evgenii/)  |
+|   L10      |   15/01/2024   |   Uncertainty (Aleatoric uncertainty)   |   **Tutorial**: Exercise 2 recap - [Evgenii](../../member/evgenii/)  |
 |   L11      |   22/01/2024   |   Uncertainty (Epistemic uncertainty)   |   -   |
 |   L12      |   29/01/2024   |   Uncertainty (Foundational models), Conclusion   |   -   |
-|         |   05/02/2024   |   -   |   Exercise 3 recap - [Bálint](../../member/balint/)   |
+|      -   |   05/02/2024   |   -   |   **Tutorial**: Exercise 3 recap - [Bálint](../../member/balint/)   |
 {{</table>}}
