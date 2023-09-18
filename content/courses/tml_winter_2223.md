@@ -212,7 +212,7 @@ https://goo.gl/maps/mP6Q92s6QcLoHK5v7
 ### Exam dates and locations
 
 - Exam 1: 10:00 - 11:30, Tuesday 21.02.2023, Hörsaal N04 (Hörsaalzentrum Morgenstelle)
-- Exam 2: 13:00 - 14:30, Friday 14.04.2023, Hörsaal **N16** (Hörsaalzentrum Morgenstelle) 
+- Exam 2: 13:00 - 14:30, Friday 14.04.2023, Hörsaal **N16** (Hörsaalzentrum Morgenstelle)
 
 
 ## Schedule & exercises
@@ -221,7 +221,7 @@ https://goo.gl/maps/mP6Q92s6QcLoHK5v7
 |   #  	|   Date  	|   Content  	|   Exercises  	|   Lead tutor  	|
 |---	|---	|---	|---	|---	|
 |   L1  	|   21/10/2022  	|   [Introduction](https://docs.google.com/presentation/d/1HbM1oXIwduT8Lldj5S1DlOO_cZC8P2_OK9Chh4R2IZo/edit?usp=sharing)  	|   [Exercise 0](https://colab.research.google.com/drive/1m34hoUQApiuT673oKcR97utOXFdmYRRm?usp=sharing)   (Due: 27/10/2022)  	|   Elif  	|
-|   L2  	|   28/10/2022  	|   [OOD Generalisation - Definition and limitations](https://docs.google.com/presentation/d/1HQtkLVuxCjmU0mGEebIOOnHZED5lmBcrf1vPBhIzHCA/edit?usp=sharing) ([Video](https://youtu.be/DqrWiaEVKx4&list=PL5iDtgKiCe5SuhyyGQT5OImWmsItHr8OQ))   	|   [Exercise 1](https://colab.research.google.com/drive/1RyRuqBCoXb3zRZ2lxoS4vt1tvDHpSNHx?usp=sharing) ([Tutorial video](https://www.youtube.com/watch?v=nIGyYBKPfjk)) <br />(Due: 21/11/2022)  	|   Alex  	|
+|   L2  	|   28/10/2022  	|   [OOD Generalisation - Definition and limitations](https://docs.google.com/presentation/d/1HQtkLVuxCjmU0mGEebIOOnHZED5lmBcrf1vPBhIzHCA/edit?usp=sharing) ([Video](https://youtu.be/DqrWiaEVKx4&list=PL5iDtgKiCe5SuhyyGQT5OImWmsItHr8OQ))   	|   [Exercise 1](https://colab.research.google.com/drive/1RyRuqBCoXb3zRZ2lxoS4vt1tvDHpSNHx?usp=sharing) <br />(Due: 21/11/2022)  	|   Alex  	|
 |   L3  	|   04/11/2022  	|   [OOD Generalisation - Cue selection problem](https://docs.google.com/presentation/d/1NODSaP31IuT0923X6PQ0AkwqgEcyxuZZYpFf9kkdQQw/edit?usp=sharing) ([Video](https://youtu.be/5vWcflV8Gq8&list=PL5iDtgKiCe5SuhyyGQT5OImWmsItHr8OQ))  	|     	|   Alex  	|
 |   L4  	|   11/11/2022  	|   [OOD Generalisation - Cue selection and adversarial generalisation](https://docs.google.com/presentation/d/1G459l_R_ir_mxuIJtaMHk-RLzXaEumlwB-oG0AeDfsk/edit?usp=sharing) ([Video](https://youtu.be/AZZv105ubbk&list=PL5iDtgKiCe5SuhyyGQT5OImWmsItHr8OQ)) 	|     	|   Alex  	|
 |   L5  	|   18/11/2022  	|   [More OOD and Explainability - Definition and limitations](https://docs.google.com/presentation/d/1a9OGP5zZjEdOY5fb0L3CGskMjlS65U5AFYPV9XbfP-I/edit?usp=sharing) ([Video](https://youtu.be/TPVwXbXH0l8&list=PL5iDtgKiCe5SuhyyGQT5OImWmsItHr8OQ))  	|     	|   Alex / Elisa 	|
