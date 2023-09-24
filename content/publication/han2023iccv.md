@@ -15,7 +15,7 @@ url_dataset2 = "https://huggingface.co/datasets/coallaoh/COCO-AB"
 url_pdf = "//arxiv.org/abs/2303.17595"
 url_project = ""
 url_poster = "//coallaoh.github.io/data/han2023iccv_poster.pdf"
-url_video = ""
+url_video = "https://www.youtube.com/watch?v=9HEj3Km2TW"
 url_bibtex = "//coallaoh.github.io/data/han2023iccv.txt"
 
 
