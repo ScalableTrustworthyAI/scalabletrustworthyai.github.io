@@ -53,6 +53,6 @@ sort_position = 5
 
 I'm a PhD student in the International Max-Planck Research School for Intelligent Systems ([IMPRS-IS](https://imprs.is.mpg.de/)), co-supervised by Enkelejda Kasneci and Seong Joon Oh at the University of Tübingen. 
 
-My research goal is to make machine learning more trustworthy by delivering uncertainty estimates along with each prediction. To this end, I'm developing _probabilistic embeddings_ that represent a model's uncertainty directly in its embedding space. I love to understand and prove things first from a mathematical perspective ([paper](https://arxiv.org/abs/2302.02865)) and then scale them to large datasets in practice ([paper](https://arxiv.org/abs/2207.03784)).
+My goal is making machine learning more trustworthy by delivering pretrained uncertainty estimates along with each prediction. To this end, I'm developing [probabilistic embeddings](https://arxiv.org/abs/2207.03784) that represent a model's uncertainty directly in its embedding space. I love to understand and prove things first from a theoretical perspective first ([like MCInfoNCE](https://arxiv.org/abs/2302.02865)) and then scale them to large datasets [as in the new URL benchmark](https://arxiv.org/abs/2307.03810).
 
 I received my BSc (2018) and MSc (2021) in Statistics with distinction at [TU Dortmund University](https://statistik.tu-dortmund.de/en/) where I focussed on probabilistic modeling and machine learning. In 2019, I was a research intern at [BMW Group, Munich](https://www.bmwgroup.com/).
