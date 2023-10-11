@@ -148,7 +148,7 @@ For those who're registered for the course, ask the lecturer or tutors to add yo
 ### Exam dates and locations
 
 - Exam 1: 10:00 - 11:30, Monday 12.02.2023 (may be updated), Location TBD
-- Exam 2: 10:00 - 11:30, Monday 08.04.2023 (may be updated), Location TBD 
+- Exam 2: 10:00 - 11:30, Tuesday 02.04.2023 (may be updated), Location TBD 
 
 
 ## Schedule & exercises
