@@ -22,6 +22,15 @@ description = "As machine learning technology gets applied to actual products an
 - Basic knowledge of machine learning concepts.
 - Basic maths: multivariate calculus, linear algebra, probability, statistics, and optimisation.
 
+## TML Book
+
+Last year's course materials are now a book. You can find it here: https://trustworthyml.io/. It's also on arXiv: https://arxiv.org/abs/2310.08215.
+
+Special thanks to [Bálint](../../member/balint/) for the majority of the work. Also, kudos to last year's tutors: [Alex](../../member/alex/), [Elisa](../../member/elisa/), and [Michael](../../member/michael/).
+
+Note: The course materials are updated yearly to stay aligned with the latest research. The book will be useful for the TML23/24 course. However, it won't cover new topics added to the course.
+
+
 ## Policies
 
 ### Registration & Exercise 0
