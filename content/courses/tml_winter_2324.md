@@ -159,8 +159,30 @@ For those who're registered for the course, ask the lecturer or tutors to add yo
 - Exam 1: 10:00 - 11:30, Monday 12.02.2023 (may be updated), Location TBD
 - Exam 2: 10:00 - 11:30, Tuesday 02.04.2023 (may be updated), Location TBD 
 
-
 ## Schedule & exercises
+
+{{<table "table table-striped table-bordered">}}
+|   #  	|   Date  	|   Lecture content  	|   Exercises & tutorials  	| Tutorial Held? |
+|---	|---	|---	|---	|---	|
+|    -     |   29/09/2023   |   -   |   [Exercise 0](https://colab.research.google.com/drive/12xV5k34x1BDbDraBy563JuBGTsIhroAr?usp=sharing) (Due:22.10.2023) - [Joon](../../member/joon/)  | ✘ |
+|   L1      |   16/10/2023   |   Introduction, OOD Generalisation (Definitions & evaluation)   |   Exercise 1 (Due:12.11.2023) - [Arnas](../../member/arnas/)  | ✘ |
+|   L2      |   23/10/2023   |   OOD Generalisation (Cue selection)   |   -  | ✔ |
+|   L3      |   30/10/2023   |   OOD Generalisation (Diversity)   |   **Tutorial**: Exercise 0 recap - [Joon](../../member/joon/)   | ✔ |
+|   L4      |   06/11/2023   |   OOD Generalisation (Adversarial attacks)   |   -   | ✔ |
+|   L5      |   13/11/2023   |   Explainability (Definitions & evaluation)   |   Exercise 2 (Due:10.12.2023) - [Evgenii](../../member/evgenii/)   | TBA |
+|   L6      |   20/11/2023   |   Explainability (Feature attribution)   |   **Tutorial**: Exercise 1 recap - [Arnas](../../member/arnas/)  | ✔ |
+|   L7      |   27/11/2023   |   Explainability (Training data attribution)   |   -   | TBA |
+|   L8      |   04/12/2023   |   Explainability (Foundational models)   |   -   | TBA |
+|   L9      |   11/12/2023   |   Uncertainty (Definitions & evaluation)   |   Exercise 3 (Due:28.01.2024) - [Bálint](../../member/balint/)   | TBA |
+|   L10      |   15/01/2024   |   Uncertainty (Aleatoric uncertainty)   |   **Tutorial**: Exercise 2 recap - [Evgenii](../../member/evgenii/)  | TBA |
+|   L11      |   22/01/2024   |   Uncertainty (Epistemic uncertainty)   |   -   | TBA |
+|   L12      |   29/01/2024   |   Uncertainty (Foundational models), Conclusion   |   -   | TBA |
+|      -   |   05/02/2024   |   -   |   **Tutorial**: Exercise 3 recap - [Bálint](../../member/balint/)   | TBA |
+{{</table>}}
+
+ 
+
+<!-- ## Schedule & exercises
 
 {{<table "table table-striped table-bordered">}}
 |   #  	|   Date  	|   Lecture content  	|   Exercises & tutorials  	|
@@ -179,4 +201,4 @@ For those who're registered for the course, ask the lecturer or tutors to add yo
 |   L11      |   22/01/2024   |   Uncertainty (Epistemic uncertainty)   |   -   |
 |   L12      |   29/01/2024   |   Uncertainty (Foundational models), Conclusion   |   -   |
 |      -   |   05/02/2024   |   -   |   **Tutorial**: Exercise 3 recap - [Bálint](../../member/balint/)   |
-{{</table>}}
+{{</table>}} -->
