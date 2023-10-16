@@ -161,24 +161,48 @@ For those who're registered for the course, ask the lecturer or tutors to add yo
 
 ## Schedule & exercises
 
+
 {{<table "table table-striped table-bordered">}}
-|   #  	|   Date  	|   Lecture content  	|   Exercises & tutorials  	| Tutorial Held? |
+|   #  	|   Date  	|   Lecture content  	|   Exercises  	| Tutorials |
 |---	|---	|---	|---	|---	|
-|    -     |   29/09/2023   |   -   |   [Exercise 0](https://colab.research.google.com/drive/12xV5k34x1BDbDraBy563JuBGTsIhroAr?usp=sharing) (Due:22.10.2023) - [Joon](../../member/joon/)  | ✘ |
-|   L1      |   16/10/2023   |   Introduction, OOD Generalisation (Definitions & evaluation)   |   Exercise 1 (Due:12.11.2023) - [Arnas](../../member/arnas/)  | ✘ |
-|   L2      |   23/10/2023   |   OOD Generalisation (Cue selection)   |   -  | ✔ |
-|   L3      |   30/10/2023   |   OOD Generalisation (Diversity)   |   **Tutorial**: Exercise 0 recap - [Joon](../../member/joon/)   | ✔ |
-|   L4      |   06/11/2023   |   OOD Generalisation (Adversarial attacks)   |   -   | ✔ |
+|    -     |   29/09/2023   |   -   |   [Exercise 0](https://colab.research.google.com/drive/12xV5k34x1BDbDraBy563JuBGTsIhroAr?usp=sharing) (Due:22.10.2023) - [Joon](../../member/joon/)  | No tutorial |
+|   L1      |   16/10/2023   |   [Introduction, OOD Generalisation (Definitions & evaluation)](https://docs.google.com/presentation/d/12k9e6BCWittBJF6AdswIi7_2rYOC9D3X3PhmPXAbkTg/edit?usp=sharing)   |   [Exercise 1](https://drive.google.com/file/d/1uVfKHdcjwYxNc0ANd1ZuG0yGT9ZMOoJJ/view?usp=sharing) (Due:12.11.2023) - [Arnas](../../member/arnas/)  | No tutorial |
+|   L2      |   23/10/2023   |   OOD Generalisation (Cue selection)   |   -  | Tutorial held |
+|   L3      |   30/10/2023   |   OOD Generalisation (Diversity)   |   -   | Recap: Exercise 0 - [Joon](../../member/joon/); Tutorial held|
+|   L4      |   06/11/2023   |   OOD Generalisation (Adversarial attacks)   |   -   | Tutorial held |
 |   L5      |   13/11/2023   |   Explainability (Definitions & evaluation)   |   Exercise 2 (Due:10.12.2023) - [Evgenii](../../member/evgenii/)   | TBA |
-|   L6      |   20/11/2023   |   Explainability (Feature attribution)   |   **Tutorial**: Exercise 1 recap - [Arnas](../../member/arnas/)  | ✔ |
+|   L6      |   20/11/2023   |   Explainability (Feature attribution)   |   -   | Recap: Exercise 1 - [Arnas](../../member/arnas/); Tutorial held |
 |   L7      |   27/11/2023   |   Explainability (Training data attribution)   |   -   | TBA |
 |   L8      |   04/12/2023   |   Explainability (Foundational models)   |   -   | TBA |
 |   L9      |   11/12/2023   |   Uncertainty (Definitions & evaluation)   |   Exercise 3 (Due:28.01.2024) - [Bálint](../../member/balint/)   | TBA |
-|   L10      |   15/01/2024   |   Uncertainty (Aleatoric uncertainty)   |   **Tutorial**: Exercise 2 recap - [Evgenii](../../member/evgenii/)  | TBA |
+|   L10      |   15/01/2024   |   Uncertainty (Aleatoric uncertainty)   |   -   | Recap: Exercise 2 - [Evgenii](../../member/evgenii/); Tutorial held |
 |   L11      |   22/01/2024   |   Uncertainty (Epistemic uncertainty)   |   -   | TBA |
 |   L12      |   29/01/2024   |   Uncertainty (Foundational models), Conclusion   |   -   | TBA |
-|      -   |   05/02/2024   |   -   |   **Tutorial**: Exercise 3 recap - [Bálint](../../member/balint/)   | TBA |
+|      -   |   05/02/2024   |   -   |   -   | Recap: Exercise 3 - [Bálint](../../member/balint/); Tutorial held |
 {{</table>}}
+
+
+<!-- ## Schedule & exercises
+
+{{<table "table table-striped table-bordered">}}
+|   #  	|   Date  	|   Lecture content  	|   Exercises  	| Tutorial Held? |
+|---	|---	|---	|---	|---	|
+|    -     |   29/09/2023   |   -   |   [Exercise 0](https://colab.research.google.com/drive/12xV5k34x1BDbDraBy563JuBGTsIhroAr?usp=sharing) (Due:22.10.2023) - [Joon](../../member/joon/)  | TBA |
+|   L1      |   16/10/2023   |   Introduction, OOD Generalisation (Definitions & evaluation)   |   Exercise 1 (Due:12.11.2023) - [Arnas](../../member/arnas/)  | TBA |
+|   L2      |   23/10/2023   |   OOD Generalisation (Cue selection)   |   -  | ✘ |
+|   L3      |   30/10/2023   |   OOD Generalisation (Diversity)   |   -   | ✔ Exercise 0 recap - [Joon](../../member/joon/) |
+|   L4      |   06/11/2023   |   OOD Generalisation (Adversarial attacks)   |   -   | ✘ |
+|   L5      |   13/11/2023   |   Explainability (Definitions & evaluation)   |   Exercise 2 (Due:10.12.2023) - [Evgenii](../../member/evgenii/)   | TBA |
+|   L6      |   20/11/2023   |   Explainability (Feature attribution)   |   -   | TBA |
+|   L7      |   27/11/2023   |   Explainability (Training data attribution)   |   -   | TBA |
+|   L8      |   04/12/2023   |   Explainability (Foundational models)   |   -   | TBA |
+|   L9      |   11/12/2023   |   Uncertainty (Definitions & evaluation)   |   Exercise 3 (Due:28.01.2024) - [Bálint](../../member/balint/)   | TBA |
+|   L10      |   15/01/2024   |   Uncertainty (Aleatoric uncertainty)   |   -   | TBA |
+|   L11      |   22/01/2024   |   Uncertainty (Epistemic uncertainty)   |   -   | TBA |
+|   L12      |   29/01/2024   |   Uncertainty (Foundational models), Conclusion   |   -   | TBA |
+|      -   |   05/02/2024   |   -   |   -   | ✔ Exercise 3 recap - [Bálint](../../member/balint/) |
+{{</table>}} -->
+
 
  
 
