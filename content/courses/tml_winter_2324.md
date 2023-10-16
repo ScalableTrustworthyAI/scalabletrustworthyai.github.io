@@ -166,7 +166,7 @@ For those who're registered for the course, ask the lecturer or tutors to add yo
 |   #  	|   Date  	|   Lecture content  	|   Exercises & tutorials  	|
 |---	|---	|---	|---	|
 |    -     |   29/09/2023   |   -   |   [Exercise 0](https://colab.research.google.com/drive/12xV5k34x1BDbDraBy563JuBGTsIhroAr?usp=sharing) (Due:22.10.2023) - [Joon](../../member/joon/)  |
-|   L1      |   16/10/2023   |   Introduction, OOD Generalisation (Definitions & evaluation)   |   Exercise 1 (Due:12.11.2023) - [Arnas](../../member/arnas/)  |
+|   L1      |   16/10/2023   |   [Introduction, OOD Generalisation (Definitions & evaluation)](https://docs.google.com/presentation/d/12k9e6BCWittBJF6AdswIi7_2rYOC9D3X3PhmPXAbkTg/edit?usp=sharing)   |   Exercise 1 (Due:12.11.2023) - [Arnas](../../member/arnas/)  |
 |   L2      |   23/10/2023   |   OOD Generalisation (Cue selection)   |   -  |
 |   L3      |   30/10/2023   |   OOD Generalisation (Diversity)   |   **Tutorial**: Exercise 0 recap - [Joon](../../member/joon/)   |
 |   L4      |   06/11/2023   |   OOD Generalisation (Adversarial attacks)   |   -   |
