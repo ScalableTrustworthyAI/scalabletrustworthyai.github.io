@@ -168,7 +168,7 @@ For those who're registered for the course, ask the lecturer or tutors to add yo
 |    -     |   29/09/2023   |   -   |   [Exercise 0](https://colab.research.google.com/drive/12xV5k34x1BDbDraBy563JuBGTsIhroAr?usp=sharing) (Due:22.10.2023) - [Joon](../../member/joon/)  | No session |
 |   L1      |   16/10/2023   |   [Introduction, OOD Generalisation (Definitions & evaluation)](https://docs.google.com/presentation/d/12k9e6BCWittBJF6AdswIi7_2rYOC9D3X3PhmPXAbkTg/edit?usp=sharing) - [Video](https://youtu.be/ob7KTM2llNc)   |   [Exercise 1](https://drive.google.com/file/d/1uVfKHdcjwYxNc0ANd1ZuG0yGT9ZMOoJJ/view?usp=sharing) (Due:12.11.2023) - [Arnas](../../member/arnas/)  | No session |
 |   L2      |   23/10/2023   |   [OOD Generalisation (Definitions & evaluation, Cue selection)](https://docs.google.com/presentation/d/1UsKNPjUe9lTnGoftnf_O4aoSrq2wE7rAET1TF8txLPI/edit?usp=sharing) - [Video](https://youtu.be/9aY9e31nIWg)   |   -  | Q&A session |
-|   L3      |   30/10/2023   |   OOD Generalisation (Cue selection)   |   -   | Session for recap of Exercise 0 ([Joon](../../member/joon/))|
+|   L3      |   30/10/2023   |   [OOD Generalisation (Cue selection)](https://docs.google.com/presentation/d/1LWnWhUqxpE1Qa0Fy-qO_rS5IsLOlUIXclInt8x42jME/edit?usp=sharing)   |   -   | Session for recap of Exercise 0 ([Joon](../../member/joon/))|
 |   L4      |   06/11/2023   |   OOD Generalisation (Adversarial attacks)   |   -   | Q&A session|
 |   L5      |   13/11/2023   |   Explainability (Definitions & evaluation)   |   Exercise 2 (Due:10.12.2023) - [Evgenii](../../member/evgenii/)   | TBA |
 |   L6      |   20/11/2023   |   Explainability (Feature attribution)   |   -   | Session for recap of Exercise 1 ([Arnas](../../member/arnas/))|
