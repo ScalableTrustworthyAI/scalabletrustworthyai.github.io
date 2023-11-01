@@ -15,7 +15,7 @@ tag = "tags"
 
 
 [params]
-  author = "Seong Joon Oh"
+  # author = "Seong Joon Oh"
   email = "coallaoh@gmail.com"
   address = "Maria-von-Linden-Straße 6, 72076 Tübingen, Germany"
 
