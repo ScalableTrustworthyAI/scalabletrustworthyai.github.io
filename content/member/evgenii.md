@@ -35,6 +35,7 @@ sort_position = 7
     role = "MSc Student"
 
 +++
+My personal page is at [kortukov.github.io](https://kortukov.github.io).
 
 I am currently pursuing my MSc degree in Machine Learning at the [University of Tübingen](https://uni-tuebingen.de/en/), supervised by Seong Joon Oh, Elisa Nguyen and Alexander Rubinstein.
 My research interests primarily revolve around mitigating the [risks associated with increasingly powerful ML systems](https://80000hours.org/problem-profiles/artificial-intelligence/).
