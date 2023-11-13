@@ -170,10 +170,10 @@ For those who're registered for the course, ask the lecturer or tutors to add yo
 |   L2      |   23/10/2023   |   [OOD Generalisation (Definitions & evaluation, Cue selection)](https://docs.google.com/presentation/d/1UsKNPjUe9lTnGoftnf_O4aoSrq2wE7rAET1TF8txLPI/edit?usp=sharing) - [Video](https://youtu.be/9aY9e31nIWg)   |   -  | Q&A session |
 |   L3      |   30/10/2023   |   [OOD Generalisation (Cue selection)](https://docs.google.com/presentation/d/1LWnWhUqxpE1Qa0Fy-qO_rS5IsLOlUIXclInt8x42jME/edit?usp=sharing) - [Video](https://youtu.be/nh1yi9Z_sFU)  |   -   | Session for recap of Exercise 0 ([Bálint](../../member/balint/)) - [Video](https://youtu.be/dTsxlWlOyqc)|
 |   L4      |   06/11/2023   |   [OOD Generalisation (Adversarial attacks)](https://docs.google.com/presentation/d/1LUX0ZkKpVBef9S0ZxvvDrAsFALtrjNH7hoT3eGHrelI/edit?usp=sharing) - [Video](https://youtu.be/hl0tftRD9oA)   |   -   | Q&A session|
-|   L5      |   13/11/2023   |   Explainability (Definitions & evaluation)   |   [Exercise 2](https://colab.research.google.com/drive/1Of7slDrLhP9I4pchMXxiBhYQujCQPQ0g?usp=sharing) (Due:10.12.2023) - [Evgenii](../../member/evgenii/)   | Exercise 2 introduction |
+|   L5      |   13/11/2023   |   [OOD Generalisation (Adversarial defenses), Explainability (Definitions)](https://docs.google.com/presentation/d/14JsfcScfRPb8U1cbBXm6Sxu09HsyEOYgxYXiYCTy6Ew/edit?usp=sharing)   |   [Exercise 2](https://colab.research.google.com/drive/1Of7slDrLhP9I4pchMXxiBhYQujCQPQ0g?usp=sharing) (Due:10.12.2023) - [Evgenii](../../member/evgenii/)   | Exercise 2 introduction |
 |   L6      |   20/11/2023   |   Explainability (Feature attribution)   |   -   | Session for recap of Exercise 1 ([Arnas](../../member/arnas/))|
-|   L7      |   27/11/2023   |   Explainability (Training data attribution)   |   -   | Co-working / Q&A |
-|   L8      |   04/12/2023   |   Explainability (Foundational models)   |   -   | Co-working / Q&A |
+|   L7      |   27/11/2023   |   Explainability (Feature attribution, Training data attribution)   |   -   | Co-working / Q&A |
+|   L8      |   04/12/2023   |   Explainability (Training data attribution)   |   -   | Co-working / Q&A |
 |   L9      |   11/12/2023   |   Uncertainty (Definitions & evaluation)   |   Exercise 3 (Due:28.01.2024) - [Bálint](../../member/balint/)   | TBA |
 |   L10      |   15/01/2024   |   Uncertainty (Aleatoric uncertainty)   |   -   | Session for recap of Exercise 2 ([Evgenii](../../member/evgenii/))|
 |   L11      |   22/01/2024   |   Uncertainty (Epistemic uncertainty)   |   -   | TBA |
