@@ -174,10 +174,10 @@ For those who're registered for the course, ask the lecturer or tutors to add yo
 |   L6      |   20/11/2023   |   [Explainability (Feature attribution)](https://docs.google.com/presentation/d/1kcXeHPtLWJ4QCfVQYymGeoF73wrb_nTE0TcDHp4sQO8/edit?usp=sharing) - [Video](https://youtu.be/0iTsEOpo7B4)   |   -   | Session for recap of Exercise 1 ([Arnas](../../member/arnas/))|
 |   L7      |   27/11/2023   |   [Explainability (Feature attribution, Training data attribution)](https://docs.google.com/presentation/d/1_IEduwgVBAyrlc405ldONO_7ykchxALjRA6vhcG3Y_w/edit?usp=sharing) - [Video](https://youtu.be/Ubu9g6SySg8)   |   -   | Co-working / Q&A |
 |   L8      |   04/12/2023   |   Explainability (Training data attribution)   |   -   | Co-working / Q&A |
-|   L9      |   11/12/2023   |   Uncertainty (Definitions & evaluation)   |   Exercise 3 (Due:28.01.2024) - [Bálint](../../member/balint/)   | TBA |
+|   L9      |   11/12/2023   |   Uncertainty (Definitions & evaluation)   |   Exercise 3 (Due:28.01.2024) - [Bálint](../../member/balint/)   | Exercise 3 introduction |
 |   L10      |   15/01/2024   |   Uncertainty (Aleatoric uncertainty)   |   -   | Session for recap of Exercise 2 ([Evgenii](../../member/evgenii/))|
-|   L11      |   22/01/2024   |   Uncertainty (Epistemic uncertainty)   |   -   | TBA |
-|   L12      |   29/01/2024   |   Uncertainty (Foundational models), Conclusion   |   -   | TBA |
+|   L11      |   22/01/2024   |   Uncertainty (Epistemic uncertainty)   |   -   | Co-working / Q&A |
+|   L12      |   29/01/2024   |   Uncertainty (Foundational models), Conclusion   |   -   | Co-working / Q&A |
 |      -   |   05/02/2024   |   -   |   -   | Session for recap of Exercise 3 ([Bálint](../../member/balint/))|
 {{</table>}}
 
