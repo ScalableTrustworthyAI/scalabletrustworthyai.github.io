@@ -48,7 +48,7 @@ Exercise 0 serves two purposes:
 Submit Exercise 0 by **22 October 2023**. **If you do not submit Exercise 0, we'll assume that you do not wish to register for the course and the exams.**
 
 The timeline for registration is as follows:
-- Now-28.09.2023: Decide whether to take the lecture.Check time & location for the course.
+- Now-28.09.2023: Decide whether to take the lecture. Check time & location for the course.
 - 29.09.2023 at 12:00: Register for the course ([link](https://forms.gle/NQ8ZgqZhZadkG1dq6)).
 - 29.09.2023-22.10.2023: Work on Exercise 0 and submit. 
 
@@ -58,7 +58,7 @@ The timeline for registration is as follows:
 
 The final grade is essentially based on your exam performance. However, to encourage the participation in the exercises,
 we award top-ups on the final grade based on the exercise performance.
-We make sure, though, that it is still possible to get the maximal perfomance (grade 1,0) even without any top-up from the exercises.
+We make sure, though, that it is still possible to get the maximal performance (grade 1,0) even without any top-up from the exercises.
 
 **Exercise 0**
 
@@ -165,19 +165,19 @@ For those who're registered for the course, ask the lecturer or tutors to add yo
 {{<table "table table-striped table-bordered">}}
 |   #  	|   Date  	|   Lecture content  	|   Exercises  	| Tutorial session |
 |---	|---	|---	|---	|---	|
-|    -     |   29/09/2023   |   -   |   [Exercise 0](https://colab.research.google.com/drive/12xV5k34x1BDbDraBy563JuBGTsIhroAr?usp=sharing) (Due:22.10.2023) - [Joon](../../member/joon/)  | No session |
+|    -      |   29/09/2023   |   -      |   [Exercise 0](https://colab.research.google.com/drive/12xV5k34x1BDbDraBy563JuBGTsIhroAr?usp=sharing) (Due:22.10.2023) - [Joon](../../member/joon/)  | No session |
 |   L1      |   16/10/2023   |   [Introduction, OOD Generalisation (Definitions & evaluation)](https://docs.google.com/presentation/d/12k9e6BCWittBJF6AdswIi7_2rYOC9D3X3PhmPXAbkTg/edit?usp=sharing) - [Video](https://youtu.be/ob7KTM2llNc)   |   [Exercise 1](https://drive.google.com/file/d/1uVfKHdcjwYxNc0ANd1ZuG0yGT9ZMOoJJ/view?usp=sharing) (Due:12.11.2023) - [Arnas](../../member/arnas/)  | No session |
 |   L2      |   23/10/2023   |   [OOD Generalisation (Definitions & evaluation, Cue selection)](https://docs.google.com/presentation/d/1UsKNPjUe9lTnGoftnf_O4aoSrq2wE7rAET1TF8txLPI/edit?usp=sharing) - [Video](https://youtu.be/9aY9e31nIWg)   |   -  | Q&A session |
-|   L3      |   30/10/2023   |   [OOD Generalisation (Cue selection)](https://docs.google.com/presentation/d/1LWnWhUqxpE1Qa0Fy-qO_rS5IsLOlUIXclInt8x42jME/edit?usp=sharing) - [Video](https://youtu.be/nh1yi9Z_sFU)  |   -   | Session for recap of Exercise 0 ([Bálint](../../member/balint/)) - [Video](https://youtu.be/dTsxlWlOyqc)|
-|   L4      |   06/11/2023   |   [OOD Generalisation (Adversarial attacks)](https://docs.google.com/presentation/d/1LUX0ZkKpVBef9S0ZxvvDrAsFALtrjNH7hoT3eGHrelI/edit?usp=sharing) - [Video](https://youtu.be/hl0tftRD9oA)   |   -   | Q&A session|
+|   L3      |   30/10/2023   |   [OOD Generalisation (Cue selection)](https://docs.google.com/presentation/d/1LWnWhUqxpE1Qa0Fy-qO_rS5IsLOlUIXclInt8x42jME/edit?usp=sharing) - [Video](https://youtu.be/nh1yi9Z_sFU)   |   -   | Session for recap of Exercise 0 ([Bálint](../../member/balint/)) - [Video](https://youtu.be/dTsxlWlOyqc)|
+|   L4      |   06/11/2023   |   [OOD Generalisation (Adversarial attacks)](https://docs.google.com/presentation/d/1LUX0ZkKpVBef9S0ZxvvDrAsFALtrjNH7hoT3eGHrelI/edit?usp=sharing) - [Video](https://youtu.be/hl0tftRD9oA)   |   -  | Q&A session|
 |   L5      |   13/11/2023   |   [OOD Generalisation (Adversarial defenses), Explainability (Definitions)](https://docs.google.com/presentation/d/14JsfcScfRPb8U1cbBXm6Sxu09HsyEOYgxYXiYCTy6Ew/edit?usp=sharing) - [Video](https://youtu.be/nE9La-lOOcw)   |   [Exercise 2](https://colab.research.google.com/drive/1Of7slDrLhP9I4pchMXxiBhYQujCQPQ0g?usp=sharing) (Due:10.12.2023) - [Evgenii](../../member/evgenii/)   | Exercise 2 introduction |
 |   L6      |   20/11/2023   |   [Explainability (Feature attribution)](https://docs.google.com/presentation/d/1kcXeHPtLWJ4QCfVQYymGeoF73wrb_nTE0TcDHp4sQO8/edit?usp=sharing) - [Video](https://youtu.be/0iTsEOpo7B4)   |   -   | Session for recap of Exercise 1 ([Arnas](../../member/arnas/)) - [Video](https://www.youtube.com/watch?v=GyccTtnPN0Y), [Slides](https://docs.google.com/presentation/d/1OYzjzFamw94Y5i6ZKWQhPJVusOCpgIBfRmStzLIqx7w/edit?usp=sharing) |
 |   L7      |   27/11/2023   |   [Explainability (Feature attribution, Training data attribution)](https://docs.google.com/presentation/d/1_IEduwgVBAyrlc405ldONO_7ykchxALjRA6vhcG3Y_w/edit?usp=sharing) - [Video](https://youtu.be/Ubu9g6SySg8)   |   -   | Co-working / Q&A |
 |   L8      |   04/12/2023   |   [Explainability (Training data attribution)](https://docs.google.com/presentation/d/1f4gF9iIHSE06XkUA4Q4ZJaT2hkFLmj_hm3LCNBPbII4/edit?usp=sharing) - [Video](https://youtu.be/unDA9yPjG68)   |   -   | Co-working / Q&A |
-|   L9      |   11/12/2023   |   [Uncertainty (Definitions & evaluation)](https://docs.google.com/presentation/d/1KeCveMdVfdcVafMHjUWHbljCUmd1TY0M9aAVdipbqoo/edit?usp=sharing)   |   Exercise 3 (Due:28.01.2024) - [Bálint](../../member/balint/)   | Exercise 3 introduction |
-|   L10      |   15/01/2024   |   Uncertainty (Aleatoric uncertainty)   |   -   | Session for recap of Exercise 2 ([Evgenii](../../member/evgenii/))|
-|   L11      |   22/01/2024   |   Uncertainty (Epistemic uncertainty)   |   -   | Co-working / Q&A |
-|   L12      |   29/01/2024   |   Uncertainty (Foundational models), Conclusion   |   -   | Co-working / Q&A |
-|      -   |   05/02/2024   |   -   |   -   | Session for recap of Exercise 3 ([Bálint](../../member/balint/))|
+|   L9      |   11/12/2023   |   [Uncertainty (Definitions & evaluation)](https://docs.google.com/presentation/d/1KeCveMdVfdcVafMHjUWHbljCUmd1TY0M9aAVdipbqoo/edit?usp=sharing)   |   [Exercise 3](https://colab.research.google.com/drive/16piAMx9AndNu9Wbxd4HhbeHRRnrr0uBu?usp=sharing) (Due:28.01.2024) - [Bálint](../../member/balint/)   | Exercise 3 introduction |
+|   L10     |   15/01/2024   |   Uncertainty (Epistemic uncertainty)   |   -   | Session for recap of Exercise 2 ([Evgenii](../../member/evgenii/))|
+|   L11     |   22/01/2024   |   Uncertainty (Aleatoric uncertainty)   |   -   | Co-working / Q&A |
+|   L12     |   29/01/2024   |   Uncertainty (Foundational models), Conclusion   |   -   | Co-working / Q&A |
+|      -    |   05/02/2024   |   -   |   -   | Session for recap of Exercise 3 ([Bálint](../../member/balint/))|
 {{</table>}}
 
