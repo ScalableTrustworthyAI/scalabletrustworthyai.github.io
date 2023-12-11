@@ -156,8 +156,8 @@ For those who're registered for the course, ask the lecturer or tutors to add yo
 
 ### Exam dates and locations
 
-- Exam 1: 12:00 - 14:00, Monday 12.02.2023, Hörsaal N10 ([Hörsaalzentrum Morgenstelle](https://uni-tuebingen.de/einrichtungen/personalvertretungen-beratung-beauftragte/lageplaene/karte-a-morgenstelle/auf-der-morgenstelle-16/))
-- Exam 2: 12:00 - 14:00, Tuesday 02.04.2023, Hörsaal N10 ([Hörsaalzentrum Morgenstelle](https://uni-tuebingen.de/einrichtungen/personalvertretungen-beratung-beauftragte/lageplaene/karte-a-morgenstelle/auf-der-morgenstelle-16/))
+- Exam 1: 12:00 - 14:00, Monday 12.02.2024, Hörsaal N10 ([Hörsaalzentrum Morgenstelle](https://uni-tuebingen.de/einrichtungen/personalvertretungen-beratung-beauftragte/lageplaene/karte-a-morgenstelle/auf-der-morgenstelle-16/))
+- Exam 2: 12:00 - 14:00, Tuesday 02.04.2024, Hörsaal N10 ([Hörsaalzentrum Morgenstelle](https://uni-tuebingen.de/einrichtungen/personalvertretungen-beratung-beauftragte/lageplaene/karte-a-morgenstelle/auf-der-morgenstelle-16/))
 
 ## Schedule & exercises
 
