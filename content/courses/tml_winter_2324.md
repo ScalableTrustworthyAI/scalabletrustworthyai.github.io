@@ -176,7 +176,7 @@ For those who're registered for the course, ask the lecturer or tutors to add yo
 |   L8      |   04/12/2023   |   [Explainability (Training data attribution)](https://docs.google.com/presentation/d/1f4gF9iIHSE06XkUA4Q4ZJaT2hkFLmj_hm3LCNBPbII4/edit?usp=sharing) - [Video](https://youtu.be/unDA9yPjG68)   |   -   | Co-working / Q&A |
 |   L9      |   11/12/2023   |   [Uncertainty (Definitions & evaluation)](https://docs.google.com/presentation/d/1KeCveMdVfdcVafMHjUWHbljCUmd1TY0M9aAVdipbqoo/edit?usp=sharing) - [Video](https://youtu.be/S727IUrELVE)   |   [Exercise 3](https://colab.research.google.com/drive/16piAMx9AndNu9Wbxd4HhbeHRRnrr0uBu?usp=sharing) (Due:28.01.2024) - [Bálint](../../member/balint/)   | Exercise 3 introduction |
 |   L10     |   15/01/2024   |   [Uncertainty (Evaluation, Epistemic uncertainty)](https://docs.google.com/presentation/d/1hyJDURXDvHMATPsVXQcDcTspNdEFN-yk66ddqGAKLxI/edit?usp=sharing) - [Video](https://youtu.be/DxsT6QVRnY4)   |   -   | Session for recap of Exercise 2 ([Evgenii](../../member/evgenii/))|
-|   L11     |   22/01/2024   |   Uncertainty (Aleatoric uncertainty)   |   -   | Co-working / Q&A |
+|   L11     |   22/01/2024   |   [Uncertainty (Aleatoric uncertainty)](https://docs.google.com/presentation/d/1wl6MOG_6oADm0jH1r4SKtr696iTD_mlpwE6YFWU-MUw/edit?usp=sharing)   |   -   | Co-working / Q&A |
 |   L12     |   29/01/2024   |   Uncertainty (Foundational models), Conclusion   |   -   | Co-working / Q&A |
 |      -    |   05/02/2024   |   -   |   -   | Session for recap of Exercise 3 ([Bálint](../../member/balint/))|
 {{</table>}}
