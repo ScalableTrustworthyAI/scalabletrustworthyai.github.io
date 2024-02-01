@@ -1,8 +1,8 @@
 +++
 bio = ""
 date = "2024-01-29T19:50:20+02:00"
-id = "joon"
-interests = ["Trustworthy Machine Learning", "Robustness", "Uncertainty", "Explainability"]
+id = "stefano"
+interests = ["Few-shot Learning", "Domain Generalisation", "Human-inspired Machine Learning"]
 name = "Stefano Woerner"
 portrait = "/portraits/stefano.jpg"
 short_bio = "Hi, I am Stefano. I'm interested in bringing human learning capabilities to machines."
