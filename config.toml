@@ -6,7 +6,7 @@ baseurl = "https://ScalableTrustworthyAI.github.io"
 canonifyurls = true
 title = "Scalable Trustworthy AI"
 math = true
-copyright = "&copy; Seong Joon Oh, 2023"
+copyright = "&copy; Seong Joon Oh, 2024"
 
 
 [taxonomies]
