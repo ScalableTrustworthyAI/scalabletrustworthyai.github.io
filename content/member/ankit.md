@@ -46,7 +46,7 @@ sort_position = 10
 
 +++
 
-I am a first-year PhD Student at the [Tübingen AI Center](https://tuebingen.ai/), [University of Tübingen](https://uni-tuebingen.de/en/), co-supervised by [Seong Joon Oh](https://coallaoh.github.io/) and [Matthias Bethge](https://bethgelab.org/). 
+I am a first-year PhD Student at the [Tübingen AI Center](https://tuebingen.ai/), [University of Tübingen](https://uni-tuebingen.de/en/), supervised by [Seong Joon Oh](https://coallaoh.github.io/). My personal webpage is at [ankitsonthalia.com](https://ankitsonthalia.com).
 
 The [simplicity bias](https://proceedings.neurips.cc/paper/2020/file/6cfe0e6127fa25df2a0ef2ae1067d915-Paper.pdf) often causes machine learning models to learn semantically meaningless, "spurious" correlations between inputs and outputs. This phenomenon hurts generalization, thus leading to often unpredictable failure cases and our inability to trust AI systems. I'm interested in understanding how to encourage ML models to learn more meaningful, causal correlations instead. Better generalization capability and trustworthiness would follow as direct consequences. 
 
