@@ -46,4 +46,4 @@ I am a M.Sc. Machine Learning student at the [University of Tübingen](https://u
 
 Previously, I was a research assistant at [CVUB](http://www.ub.edu/cvub/) under [Petia Radeva](https://scholar.google.com/citations?user=p_MCjd4AAAAJ&hl=en), where I worked on how to better model label noise on _Learning with Noisy Labels_ [see paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865524001132).
 
-On my free time I can be found looking for open source projects to contribute to, or somewhere under the sun.
+In my free time I can be found looking for open source projects to contribute to, or somewhere under the sun.
