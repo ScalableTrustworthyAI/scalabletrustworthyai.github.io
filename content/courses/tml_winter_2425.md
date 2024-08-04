@@ -35,7 +35,7 @@ Note: The course materials are updated yearly to stay aligned with the latest re
 
 ### Registration & Exercise 0
 
-The **registration** link is here: https://forms.gle/7YbUM4dSHeBgVUeB8. We start accepting registration from **?? September 2024 at ??:??** Central European Time (Berlin time).
+The **registration** link is here: https://forms.gle/7YbUM4dSHeBgVUeB8. We start accepting registration from **30 September 2024 at 12:00 (noon)** Central European Time (Berlin time).
 
 Upon registration, you will get access to Exercise 0.
 The Exercise 0 is an individual exercise and will be based on the prerequisite materials for the course.
@@ -45,11 +45,11 @@ Exercise 0 serves two purposes:
 - For us to admit students who are sufficiently motivated for the course.
 - For you to gauge your own readiness for the course.
 
-Submit Exercise 0 by **?? October 2024**. **If you do not submit Exercise 0, we'll assume that you do not wish to register for the course and the exams.**
+Submit Exercise 0 by **23 October 2024**. **If you do not submit Exercise 0, we'll assume that you do not wish to register for the course and the exams.**
 
 The timeline for registration is as follows:
-- ??.09.2024 at ??:??: Register for the course ([link](https://forms.gle/NQ8ZgqZhZadkG1dq6)).
-- ??.09.2024-??.10.2024: Work on Exercise 0 and submit. 
+- 30.09.2024 at 12:00 (noon): Register for the course ([link](https://forms.gle/NQ8ZgqZhZadkG1dq6)).
+- 30.09.2024-23.10.2024: Work on Exercise 0 and submit. 
 
 ### Grading policy
 
@@ -154,25 +154,24 @@ For those who're registered for the course, ask the lecturer or tutors to add yo
 
 ## Schedule & exercises
 
-
 {{<table "table table-striped table-bordered">}}
 Here is the updated schedule without the links:
 
 |   #   |   Date    |   Lecture content     |   Exercises   | Tutorial session |
 |---    |---    |---    |---    |---    |
-|    -      |   ??/09/2024   |   -      |   Exercise 0 (Due:??.10.2024) - Joon  | No session |
-|   L1      |   ??   |   Introduction, OOD Generalisation (Definitions & evaluation) - Video   |   Exercise 1 (Due:??) - ??  | Introduce Exercise 1 |
-|   L2      |   ??   |   OOD Generalisation (Definitions & evaluation, Cue selection) - Video   |   -  | Co-working / Q&A |
-|   L3      |   ??   |   OOD Generalisation (Cue selection) - Video   |   -   | Recap Exercise 0 (??) |
-|   L4      |   ??   |   OOD Generalisation (Adversarial attacks) - Video   |   -  | Co-working / Q&A |
-|   L5      |   ??   |   OOD Generalisation (Adversarial defenses), Explainability (Definitions) - Video   |   Exercise 2 (Due:??) - ??   | Introduce Exercise 2 |
-|   L6      |   ??   |   Explainability (Feature attribution) - Video   |   -   | Recap Exercise 1 (??) |
-|   L7      |   ??   |   Explainability (Feature attribution, Training data attribution) - Video   |   -   | Co-working / Q&A |
-|   L8      |   ??   |   Explainability (Training data attribution) - Video   |   -   | Co-working / Q&A |
-|   L9      |   ??   |   Uncertainty (Definitions & evaluation) - Video   |   Exercise 3 (Due:??) - ??   | Introduce Exercise 3 |
-|   L10     |   ??   |   Uncertainty (Evaluation, Epistemic uncertainty) - Video   |   -   | Recap Exercise 2 (??)|
-|   L11     |   ??   |   Uncertainty (Aleatoric uncertainty, Factorisation) - Video   |   -   | Co-working / Q&A |
-|   L12     |   ??   |   Conclusion (Exam, Final topics, Research at STAI) - Video   |   -   | Co-working / Q&A |
-|      -    |   ??   |   -   |   -   | Recap Exercise 3 (??)|
+|    -      |   30/09/2024   |   -      |   Exercise 0 (Due:23.10.2024) - Joon  | No session |
+|   L1      |   17/10/2024   |   Introduction, OOD Generalisation (Definitions & evaluation) - Video   |   Exercise 1 (Due:??) - ??  | Introduce Exercise 1 |
+|   L2      |   24/10/2024   |   OOD Generalisation (Definitions & evaluation, Cue selection) - Video   |   -  | Co-working / Q&A |
+|   L3      |   31/10/2024   |   OOD Generalisation (Cue selection) - Video   |   -   | Recap Exercise 0 (??) |
+|   L4      |   07/11/2024   |   OOD Generalisation (Adversarial attacks) - Video   |   -  | Co-working / Q&A |
+|   L5      |   14/11/2024   |   OOD Generalisation (Adversarial defenses), Explainability (Definitions) - Video   |   Exercise 2 (Due:??) - ??   | Introduce Exercise 2 |
+|   L6      |   21/11/2024   |   Explainability (Feature attribution) - Video   |   -   | Recap Exercise 1 (??) |
+|   L7      |   28/11/2024   |   Explainability (Feature attribution, Training data attribution) - Video   |   -   | Co-working / Q&A |
+|   L8      |   05/12/2024   |   Explainability (Training data attribution) - Video   |   -   | Co-working / Q&A |
+|   L9      |   09/01/2024   |   Uncertainty (Definitions & evaluation) - Video   |   Exercise 3 (Due:??) - ??   | Introduce Exercise 3 |
+|   L10     |   16/01/2024   |   Uncertainty (Evaluation, Epistemic uncertainty) - Video   |   -   | Recap Exercise 2 (??)|
+|   L11     |   23/01/2024   |   Uncertainty (Aleatoric uncertainty, Factorisation) - Video   |   -   | Co-working / Q&A |
+|   L12     |   30/01/2024   |   Conclusion (Exam, Final topics, Research at STAI) - Video   |   -   | Co-working / Q&A |
+|      -    |   06/02/2024   |   -   |   -   | Recap Exercise 3 (??)|
 {{</table>}}
 
