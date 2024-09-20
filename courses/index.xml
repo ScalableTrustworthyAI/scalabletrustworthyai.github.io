@@ -1,1 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Courses on Scalable Trustworthy AI</title><link>https://ScalableTrustworthyAI.github.io/courses/</link><description>Recent content in Courses on Scalable Trustworthy AI</description><generator>Hugo</generator><language>en</language><copyright>&amp;copy; Seong Joon Oh, 2024</copyright><atom:link href="https://ScalableTrustworthyAI.github.io/courses/index.xml" rel="self" type="application/rss+xml"/><item><title>Trustworthy Machine Learning</title><link>https://ScalableTrustworthyAI.github.io/courses/tml_winter_2223/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ScalableTrustworthyAI.github.io/courses/tml_winter_2223/</guid><description>Overview Goal Students will be able to critically read, assess, and discuss research work in Trustworthy Machine Learning (TML). Students will gain the technical background to implement basic TML techniques in a deep learning framework. Students will be ready to conduct their own research in TML and make contributions to the research community. Prerequisites Familiarity with Python and PyTorch coding. A pass grade from the Deep Learning Course (or equivalent). Basic knowledge of machine learning concepts.</description></item><item><title>Trustworthy Machine Learning</title><link>https://ScalableTrustworthyAI.github.io/courses/tml_winter_2324/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ScalableTrustworthyAI.github.io/courses/tml_winter_2324/</guid><description>Overview Goal Students will be able to critically read, assess, and discuss research work in Trustworthy Machine Learning (TML). Students will gain the technical background to implement basic TML techniques in a deep learning framework. Students will be ready to conduct their own research in TML and make contributions to the research community. Prerequisites Familiarity with Python and PyTorch coding. A pass grade from the Deep Learning Course (or equivalent). Basic knowledge of machine learning concepts.</description></item><item><title>Trustworthy Machine Learning</title><link>https://ScalableTrustworthyAI.github.io/courses/tml_winter_2425/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ScalableTrustworthyAI.github.io/courses/tml_winter_2425/</guid><description>Overview Goal Students will be able to critically read, assess, and discuss research work in Trustworthy Machine Learning (TML). Students will gain the technical background to implement basic TML techniques in a deep learning framework. Students will be ready to conduct their own research in TML and make contributions to the research community. Prerequisites Familiarity with Python and PyTorch coding. A pass grade from the Deep Learning Course (or equivalent). Basic knowledge of machine learning concepts.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Courses on Scalable Trustworthy AI</title><link>https://ScalableTrustworthyAI.github.io/courses/</link><description>Recent content in Courses on Scalable Trustworthy AI</description><generator>Hugo</generator><language>en</language><copyright>&amp;copy; Seong Joon Oh, 2024</copyright><atom:link href="https://ScalableTrustworthyAI.github.io/courses/index.xml" rel="self" type="application/rss+xml"/><item><title>Trustworthy Machine Learning</title><link>https://ScalableTrustworthyAI.github.io/courses/tml_winter_2223/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ScalableTrustworthyAI.github.io/courses/tml_winter_2223/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;h3 id="goal">Goal&lt;/h3>
+&lt;ol>
+&lt;li>Students will be able to critically read, assess, and discuss research work in Trustworthy Machine Learning (TML).&lt;/li>
+&lt;li>Students will gain the technical background to implement basic TML techniques in a deep learning framework.&lt;/li>
+&lt;li>Students will be ready to conduct their own research in TML and make contributions to the research community.&lt;/li>
+&lt;/ol>
+&lt;h3 id="prerequisites">Prerequisites&lt;/h3>
+&lt;ul>
+&lt;li>Familiarity with Python and PyTorch coding.&lt;/li>
+&lt;li>A pass grade from the Deep Learning Course (or equivalent).&lt;/li>
+&lt;li>Basic knowledge of machine learning concepts.&lt;/li>
+&lt;li>Basic maths: multivariate calculus, linear algebra, probability, statistics, and optimisation.&lt;/li>
+&lt;/ul>
+&lt;h3 id="reading-list">Reading list&lt;/h3>
+&lt;p>Recommended papers from each topic.&lt;/p></description></item><item><title>Trustworthy Machine Learning</title><link>https://ScalableTrustworthyAI.github.io/courses/tml_winter_2324/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ScalableTrustworthyAI.github.io/courses/tml_winter_2324/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;h3 id="goal">Goal&lt;/h3>
+&lt;ol>
+&lt;li>Students will be able to critically read, assess, and discuss research work in Trustworthy Machine Learning (TML).&lt;/li>
+&lt;li>Students will gain the technical background to implement basic TML techniques in a deep learning framework.&lt;/li>
+&lt;li>Students will be ready to conduct their own research in TML and make contributions to the research community.&lt;/li>
+&lt;/ol>
+&lt;h3 id="prerequisites">Prerequisites&lt;/h3>
+&lt;ul>
+&lt;li>Familiarity with Python and PyTorch coding.&lt;/li>
+&lt;li>A pass grade from the Deep Learning Course (or equivalent).&lt;/li>
+&lt;li>Basic knowledge of machine learning concepts.&lt;/li>
+&lt;li>Basic maths: multivariate calculus, linear algebra, probability, statistics, and optimisation.&lt;/li>
+&lt;/ul>
+&lt;h2 id="tml-book">TML Book&lt;/h2>
+&lt;p>Last year&amp;rsquo;s course materials are now a book. You can find it here: &lt;a href="https://trustworthyml.io/">https://trustworthyml.io/&lt;/a>. It&amp;rsquo;s also on arXiv: &lt;a href="https://arxiv.org/abs/2310.08215">https://arxiv.org/abs/2310.08215&lt;/a>.&lt;/p></description></item><item><title>Trustworthy Machine Learning</title><link>https://ScalableTrustworthyAI.github.io/courses/tml_winter_2425/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ScalableTrustworthyAI.github.io/courses/tml_winter_2425/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;h3 id="goal">Goal&lt;/h3>
+&lt;ol>
+&lt;li>Students will be able to critically read, assess, and discuss research work in Trustworthy Machine Learning (TML).&lt;/li>
+&lt;li>Students will gain the technical background to implement basic TML techniques in a deep learning framework.&lt;/li>
+&lt;li>Students will be ready to conduct their own research in TML and make contributions to the research community.&lt;/li>
+&lt;/ol>
+&lt;h3 id="prerequisites">Prerequisites&lt;/h3>
+&lt;ul>
+&lt;li>Familiarity with Python and PyTorch coding.&lt;/li>
+&lt;li>A pass grade from the Deep Learning Course (or equivalent).&lt;/li>
+&lt;li>Basic knowledge of machine learning concepts.&lt;/li>
+&lt;li>Basic maths: multivariate calculus, linear algebra, probability, statistics, and optimisation.&lt;/li>
+&lt;/ul>
+&lt;h2 id="tml-book">TML Book&lt;/h2>
+&lt;p>Last year&amp;rsquo;s course materials are now a book. You can find it here: &lt;a href="https://trustworthyml.io/">https://trustworthyml.io/&lt;/a>. It&amp;rsquo;s also on arXiv: &lt;a href="https://arxiv.org/abs/2310.08215">https://arxiv.org/abs/2310.08215&lt;/a>.&lt;/p></description></item></channel></rss>
