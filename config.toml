@@ -85,9 +85,14 @@ tag = "tags"
       weight = 3
 
   [[menu.main]]
+      name = "Alumni"
+      url = "/#alumni"
+      weight = 4
+
+  [[menu.main]]
       name = "Publications"
       url = "/#publications"
-      weight = 4
+      weight = 5
 
   # [[menu.main]]
   #     name = "Blog"
@@ -97,14 +102,14 @@ tag = "tags"
   [[menu.main]]
       name = "Courses"
       url = "/#courses"
-      weight = 5
+      weight = 6
 
   [[menu.main]]
       name = "Openings"
       url = "/#openings"
-      weight = 6
+      weight = 7
 
   [[menu.main]]
       name = "Contact"
       url = "/#contact"
-      weight = 7
+      weight = 8

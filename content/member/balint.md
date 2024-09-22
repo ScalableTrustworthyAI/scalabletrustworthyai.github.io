@@ -9,6 +9,7 @@ short_bio = "MSc student interested in sources and representations of uncertaint
 short_name = "Bálint"
 title = "MSc Student"
 sort_position = 6
+is_former_member = true
 
 [[social]]
     icon = "envelope"

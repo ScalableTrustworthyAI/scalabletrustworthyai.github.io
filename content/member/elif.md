@@ -9,6 +9,7 @@ short_bio = "I am Elif Akata."
 short_name = "Elif"
 title = "PhD Student"
 sort_position = 4
+is_former_member = true
 
 [[social]]
     icon = "envelope"
