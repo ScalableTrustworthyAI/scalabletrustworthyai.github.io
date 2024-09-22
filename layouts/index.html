@@ -2,25 +2,20 @@
 {{ partial "navbar.html" . }}
 {{ partial "slogan.html" . }}
 
-<!-- Members -->
 {{ partial "index/overview.html" . }}
 
-<!-- Members -->
 {{ partial "index/members.html" . }}
 
-<!-- Publications Section -->
+{{ partial "index/alumni.html" . }}
+
 {{ partial "index/publications.html" . }}
 
-<!-- Blog Posts Section -->
 <!-- {{ partial "index/posts.html" . }} -->
 
-<!-- Course Section -->
 {{ partial "index/courses.html" . }}
 
-<!-- Open Position Section -->
 {{ partial "index/openings.html" . }}
 
-<!-- Contact Section -->
 {{ if .Site.Params.contact.enable }}
 <section id="contact" class="home-section">
     <div class="container">

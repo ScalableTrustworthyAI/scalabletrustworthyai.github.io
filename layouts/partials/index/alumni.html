@@ -1,0 +1,21 @@
+<section id="members" class="home-section">
+    <div class="container">
+
+        <!-- Section heading -->
+        <div class="row">
+            <div class="col-xs-12 col-md-4 section-heading">
+                <h1 class="section-heading"> Alumni </h1>
+            </div>
+        </div>
+
+        <!-- Members -->
+        <div class="row">
+            {{ range (sort (where .Site.RegularPages "Type" "member") ".Params.sort_position")}}
+                {{ if .Params.is_former_member }}
+                    {{ partial "member_simple" . }}
+                {{ end }}
+            {{ end }}
+        </div>
+
+    </div>
+</section>

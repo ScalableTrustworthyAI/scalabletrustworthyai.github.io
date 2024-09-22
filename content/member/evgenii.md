@@ -9,6 +9,7 @@ short_bio = "MSc student and an aspiring machine learning researcher"
 short_name = "Evgenii"
 title = "MSc student"
 sort_position = 7
+is_former_member = true
 
 [[social]]
     icon = "envelope"
