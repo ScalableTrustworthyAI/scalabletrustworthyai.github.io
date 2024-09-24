@@ -168,17 +168,17 @@ For those who're registered for the course, ask the lecturer or tutors to add yo
 {{<table "table table-striped table-bordered">}}
 |   #   |   Date    |   Lecture content     |   Exercises   | Tutorial session |
 |---    |---    |---    |---    |---    |
-|    -      |   30/09/2024   |   -      |   Exercise 0 (Due:23.10.2024) - [Joon](../../member/joon/)  | - |
-|   L1      |   17/10/2024   |   Introduction, OOD Generalisation (Definitions & evaluation) - Video   |   Exercise 1 (Due:??) - [Johannes](../../member/johannes/)  | [Johannes](../../member/johannes/): Introduce Exercise 1 |
+|    -      |   30/09/2024   |   -      |   [Exercise 0](https://www.kaggle.com/code/seongjoonoh/0-prelim) (Due:23.10.2024) - [Joon](../../member/joon/)  | - |
+|   L1      |   17/10/2024   |   Introduction, OOD Generalisation (Definitions & evaluation) - Video   |   Exercise 1 (Due:13.11.2024) - [Johannes](../../member/johannes/)  | [Johannes](../../member/johannes/): Introduce Exercise 1 |
 |   L2      |   24/10/2024   |   OOD Generalisation (Definitions & evaluation, Cue selection) - Video   |   -  | [Johannes](../../member/johannes/): Co-working / Q&A |
-|   L3      |   31/10/2024   |   OOD Generalisation (Cue selection) - Video   |   -   | [Joon](../../member/joon/): Recap Exercise 0 (??) |
-|   L4      |   07/11/2024   |   OOD Generalisation (Adversarial attacks) - Video   |   -  | [Johannes](../../member/johannes/): Co-working / Q&A |
-|   L5      |   14/11/2024   |   OOD Generalisation (Adversarial defenses), Explainability (Definitions) - Video   |   Exercise 2 (Due:??) - [Ankit](../../member/ankit/)   | [Ankit](../../member/ankit/): Introduce Exercise 2 |
-|   L6      |   21/11/2024   |   Explainability (Feature attribution) - Video   |   -   | [Johannes](../../member/johannes/): Recap Exercise 1 (??) |
+|   L3      |   31/10/2024   |   OOD Generalisation (Cue selection) - Video   |   -   | [Joon](../../member/joon/): Recap Exercise 0 |
+|   L4      |   07/11/2024   |   OOD Generalisation (Adversarial ML) - Video   |   -  | [Johannes](../../member/johannes/): Co-working / Q&A |
+|   L5      |   14/11/2024   |   Explainability (Definitions) - Video   |   Exercise 2 (Due:11.12.2024) - [Ankit](../../member/ankit/)   | [Ankit](../../member/ankit/): Introduce Exercise 2 |
+|   L6      |   21/11/2024   |   Explainability (Feature attribution) - Video   |   -   | [Johannes](../../member/johannes/): Recap Exercise 1 |
 |   L7      |   28/11/2024   |   Explainability (Feature attribution, Training data attribution) - Video   |   -   | [Ankit](../../member/ankit/): Co-working / Q&A |
 |   L8      |   05/12/2024   |   Explainability (Training data attribution) - Video   |   -   | [Ankit](../../member/ankit/): Co-working / Q&A |
-|   L9      |   09/01/2024   |   Uncertainty (Definitions & evaluation) - Video   |   Exercise 3 (Due:??) - [Lennart](../../member/lennart/)   | [Lennart](../../member/lennart/): Introduce Exercise 3 |
-|   L10     |   16/01/2024   |   Uncertainty (Evaluation, Epistemic uncertainty) - Video   |   -   | [Ankit](../../member/ankit/): Recap Exercise 2 (??)|
+|   L9      |   09/01/2024   |   Uncertainty (Definitions & evaluation) - Video   |   Exercise 3 (Due:29.01.2025) - [Lennart](../../member/lennart/)   | [Lennart](../../member/lennart/): Introduce Exercise 3 |
+|   L10     |   16/01/2024   |   Uncertainty (Evaluation, Epistemic uncertainty) - Video   |   -   | [Ankit](../../member/ankit/): Recap Exercise 2 |
 |   L11     |   23/01/2024   |   Uncertainty (Aleatoric uncertainty, Factorisation) - Video   |   -   | [Lennart](../../member/lennart/): Co-working / Q&A |
 |   L12     |   30/01/2024   |   Conclusion (Exam, Final topics, Research at STAI) - Video   |   -   | [Lennart](../../member/lennart/): Co-working / Q&A |
 |      -    |   06/02/2024   |   -   |   -   | [Lennart](../../member/lennart/): Recap Exercise 3 (??)|
