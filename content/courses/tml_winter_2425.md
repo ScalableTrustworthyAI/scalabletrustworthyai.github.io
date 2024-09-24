@@ -49,7 +49,7 @@ Submit Exercise 0 by **23 October 2024**. **If you do not submit Exercise 0, we'
 
 The timeline for registration is as follows:
 - 30.09.2024 at 12:00 (noon): Register for the course ([link](https://forms.gle/NQ8ZgqZhZadkG1dq6)).
-- 30.09.2024-23.10.2024: Work on Exercise 0 and submit. 
+- 30.09.2024 - 23.10.2024: Work on Exercise 0 and submit. 
 
 ### Grading policy
 
@@ -140,13 +140,6 @@ For those who're registered for the course, ask the lecturer or tutors to add yo
 
 ### Lecture & tutorial location and time
 
-**Lecture**: MvL6 
-
-- ??
-
-**Tutorial**: TBD
-
-- ??
 **Lecture**: Hörsaal TTR2 (Cyber Valley / Tübingen AI Center - TTR2) ([Maria-von-Linden-Straße 6](https://maps.app.goo.gl/T8vaWib3FYsuTfCn7))
 
 - Thursdays
