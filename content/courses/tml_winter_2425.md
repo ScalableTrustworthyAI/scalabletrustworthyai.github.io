@@ -153,8 +153,8 @@ For those who're registered for the course, ask the lecturer or tutors to add yo
 
 ### Exam dates and locations
 
-- Exam 1: TBD
-- Exam 2: TBD
+- Exam 1: Tuesday 11.02.2025 13:00 - 15:00, Location TBD.
+- Exam 2: Thursday 10.04.2025 13:00 - 15:00 (not confirmed yet), Location TBD.
 
 ## Schedule & exercises
 
