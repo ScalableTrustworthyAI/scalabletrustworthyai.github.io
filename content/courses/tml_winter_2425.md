@@ -163,7 +163,7 @@ For those who're registered for the course, ask the lecturer or tutors to add yo
 |---    |---    |---    |---    |---    |
 |    -      |   30/09/2024   |   -      |   [Exercise 0](https://www.kaggle.com/code/seongjoonoh/0-prelim) (Due:23.10.2024) - [Joon](../../member/joon/)  | - |
 |   L1      |   17/10/2024   |   [Introduction](https://docs.google.com/presentation/d/149sqUybRkRFL-MJ1AbX9c7LNUkwGvVmbcIChj-u5Ozw/edit) - [Video](https://youtu.be/OoLAafHghGQ)   |   -  | - |
-|   L2      |   24/10/2024   |   OOD Generalisation (Definitions & underspecification) - Video   |   Exercise 1 (Due:20.11.2024) - [Johannes](../../member/johannes/)  | [Johannes](../../member/johannes/): Introduce Exercise 1 |
+|   L2      |   24/10/2024   |   OOD Generalisation (Definitions & underspecification) - Video   |   [Exercise 1](https://www.kaggle.com/code/johannestml/1-ood) (Due:20.11.2024) - [Johannes](../../member/johannes/)  | [Johannes](../../member/johannes/): Introduce Exercise 1 |
 |   L3      |   31/10/2024   |   OOD Generalisation (Cue selection methods) - Video   |   -   | [Joon](../../member/joon/): Recap Exercise 0 |
 |   L4      |   07/11/2024   |   OOD Generalisation (Domain generalisation & adversarial ML) - Video   |   -  | [Johannes](../../member/johannes/): Co-working / Q&A |
 |   L5      |   14/11/2024   |   OOD Generalisation (Attacking LLMs) & Explainability (Definitions) - Video   |   Exercise 2 (Due:11.12.2024) - [Ankit](../../member/ankit/)   | [Ankit](../../member/ankit/): Introduce Exercise 2<br>[Johannes](../../member/johannes/): Co-working / Q&A  |
