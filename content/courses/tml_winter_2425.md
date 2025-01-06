@@ -153,8 +153,8 @@ For those who're registered for the course, ask the lecturer or tutors to add yo
 
 ### Exam dates and locations
 
-- Exam 1: Tuesday 11.02.2025 13:00 - 15:00, Location TBD.
-- Exam 2: Thursday 10.04.2025 13:00 - 15:00 (not confirmed yet), Location TBD.
+- Exam 1: Tuesday 11.02.2025 13:00 - 15:00, Hörsaal N05 ([Hörsaalzentrum Morgenstelle](https://uni-tuebingen.de/einrichtungen/personalvertretungen-beratung-beauftragte/lageplaene/karte-a-morgenstelle/auf-der-morgenstelle-16/)).
+- Exam 2: Thursday 10.04.2025 13:00 - 15:00,  Hörsaal TTR2 ([Cyber Valley / Tübingen AI Center](https://maps.app.goo.gl/T8vaWib3FYsuTfCn7)).
 
 ## Schedule & exercises
 
