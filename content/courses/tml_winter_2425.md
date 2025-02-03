@@ -173,7 +173,7 @@ For those who're registered for the course, ask the lecturer or tutors to add yo
 |   L9      |   09/01/2025   |   [Uncertainty (Definitions & evaluation)](https://docs.google.com/presentation/d/1LdgWekyM1CIRpQltfZZVjj61letwx4MAbbPk-Ox1pIc/edit?usp=sharing) - [Video](https://youtu.be/ypivms7e-Ug)   |   [Exercise 3](https://www.kaggle.com/code/lennartbramlage/3-uncertainty) (Due:30.01.2025) - [Lennart](../../member/lennart/)   | [Lennart](../../member/lennart/): Introduce Exercise 3 |
 |   L10     |   16/01/2025   |   [Uncertainty (Epistemic uncertainty)](https://docs.google.com/presentation/d/1YdiawEUMa4Qm5KMyJJEpZ1X3TFlfLmpjNPX4gfJeRJs/edit?usp=sharing) - [Video](https://youtu.be/XX57pTxTc9A)   |   -   | [Lennart](../../member/lennart/): Co-working / Q&A |
 |   L11     |   23/01/2025   |   [Uncertainty (Aleatoric uncertainty, Factorisation)](https://docs.google.com/presentation/d/1gfNhyglwAhxWFJWEheXn6Pw6-DeSo6gHhawwoaXQvus/edit?usp=sharing) - [Video](https://youtu.be/QStdPZVL45o)   |   -   | [Ankit](../../member/ankit/): Recap Exercise 2 |
-|   L12     |   30/01/2025   |   [Conclusion (Exam, Research at STAI, Project topics)](https://docs.google.com/presentation/d/1m1CTyXwX-bALBObXm6m4uMOMCWSFi2ZIqyvq24lKPuU/edit?usp=sharing) - Video   |   -   | [Lennart](../../member/lennart/): Co-working / Q&A |
+|   L12     |   30/01/2025   |   [Conclusion (Exam, Research at STAI, Project topics)](https://docs.google.com/presentation/d/1m1CTyXwX-bALBObXm6m4uMOMCWSFi2ZIqyvq24lKPuU/edit?usp=sharing) - [Video](https://youtu.be/2IqERLYNhJA)   |   -   | [Lennart](../../member/lennart/): Co-working / Q&A |
 |      -    |   06/02/2025   |   -   |   -   | [Lennart](../../member/lennart/): Recap Exercise 3 |
 {{</table>}}
 
