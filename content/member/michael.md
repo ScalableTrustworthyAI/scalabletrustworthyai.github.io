@@ -9,6 +9,7 @@ short_bio = "PhD student interested in bringing uncertainty to representations."
 short_name = "Michael"
 title = "Collaborating PhD Student"
 sort_position = 5
+is_former_member = true
 
 [[social]]
     icon = "envelope"
