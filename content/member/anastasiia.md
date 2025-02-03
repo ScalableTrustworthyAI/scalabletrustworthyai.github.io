@@ -9,6 +9,7 @@ short_bio = "MSc student interested in explainable AI and fairness."
 short_name = "Ana"
 title = "MSc Student"
 sort_position = 11
+is_former_member = true
 
 [[social]]
     icon = "envelope"
