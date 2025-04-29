@@ -13,6 +13,7 @@ url_dataset = ""
 url_pdf = "//openreview.net/forum?id=qZEdmyqCHF"
 url_project = ""
 url_video = ""
+url_rtai = ""
 
 [[authors]]
     name = "Jaehyun Pahk"

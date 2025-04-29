@@ -13,6 +13,7 @@ url_dataset = ""
 url_pdf = "//arxiv.org/abs/2204.03359"
 url_project = ""
 url_poster = ""
+url_rtai = "//researchtrend.ai/papers/2204.03359"
 
 [[authors]]
     name = "Shanghyuk Chun"

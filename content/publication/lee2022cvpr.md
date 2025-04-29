@@ -12,6 +12,7 @@ url_dataset = ""
 url_pdf = "//arxiv.org/abs/2203.03860"
 url_project = ""
 url_poster = ""
+url_rtai = "//researchtrend.ai/papers/2203.03860"
 
 [[authors]]
     name = "Jungbeom Lee"

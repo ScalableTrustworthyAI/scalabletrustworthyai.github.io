@@ -12,6 +12,7 @@ url_dataset = ""
 url_pdf = "//arxiv.org/abs/2502.03566"
 url_project = "//alexanderrubinstein.github.io/are-we-done-with-ocl/"
 url_video = ""
+url_rtai = "//researchtrend.ai/papers/2502.03566"
 
 
 [[authors]]

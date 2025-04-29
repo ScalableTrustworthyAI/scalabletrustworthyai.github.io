@@ -13,6 +13,7 @@ url_dataset = ""
 url_pdf = "//arxiv.org/abs/2504.04981"
 url_project = ""
 url_video = ""
+url_rtai = "//researchtrend.ai/papers/2504.04981"
 
 [[authors]]
     name = "Sohyun Lee"

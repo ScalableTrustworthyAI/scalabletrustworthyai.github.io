@@ -10,9 +10,10 @@ selected = false
 title = "Intermediate Layer Classifiers for OOD Generalization"
 url_code = ""
 url_dataset = ""
-url_pdf = "//openreview.net/forum?id=ByCV9xWfNK"
+url_pdf = "//arxiv.org/abs/2504.05461"
 url_project = ""
 url_video = ""
+url_rtai = "//researchtrend.ai/papers/2504.05461"
 
 [[authors]]
     name = "Arnas Uselis"

@@ -14,6 +14,7 @@ url_dataset = ""
 url_pdf = "//arxiv.org/abs/2307.03810"
 url_project = ""
 url_video = ""
+url_rtai = "//researchtrend.ai/papers/2307.03810"
 
 [[authors]]
     name = "Michael Kirchhof"

@@ -14,6 +14,7 @@ url_dataset = ""
 url_pdf = "//arxiv.org/abs/2310.08215"
 url_project = "https://trustworthyml.io/"
 url_video = ""
+url_rtai = "//researchtrend.ai/papers/2310.08215"
 
 [[authors]]
     name = "Bálint Mucsányi"

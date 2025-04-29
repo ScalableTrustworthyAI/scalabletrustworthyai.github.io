@@ -13,6 +13,7 @@ url_dataset = ""
 url_pdf = "//arxiv.org/abs/2210.08457"
 url_project = ""
 url_video = ""
+url_rtai = "//researchtrend.ai/papers/2210.08457"
 
 [[authors]]
     name = "Hyeon-Woo Nam"

@@ -13,6 +13,7 @@ url_dataset = ""
 url_pdf = "//arxiv.org/abs/2404.16032"
 url_project = ""
 url_video = ""
+url_rtai = "//researchtrend.ai/papers/2404.16032"
 
 
 [[authors]]

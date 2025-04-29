@@ -12,6 +12,7 @@ url_dataset = ""
 url_pdf = "//arxiv.org/abs/2205.14959"
 url_project = ""
 url_poster = ""
+url_rtai = "//researchtrend.ai/papers/2205.14959"
 
 [[authors]]
     name = "Jang-Hyun Kim"
