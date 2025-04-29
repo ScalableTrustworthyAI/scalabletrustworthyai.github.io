@@ -12,7 +12,6 @@ url_dataset = ""
 url_pdf = "//arxiv.org/abs/2311.16176"
 url_project = ""
 url_video = ""
-url_bibtex = ""
 
 
 [[authors]]

@@ -13,7 +13,6 @@ url_dataset = ""
 url_pdf = "//arxiv.org/abs/2204.03359"
 url_project = ""
 url_poster = ""
-url_bibtex = "//coallaoh.github.io/data/chun2022eccv.txt"
 
 [[authors]]
     name = "Shanghyuk Chun"

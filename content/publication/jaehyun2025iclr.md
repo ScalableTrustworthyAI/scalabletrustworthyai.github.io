@@ -13,7 +13,6 @@ url_dataset = ""
 url_pdf = "//openreview.net/forum?id=qZEdmyqCHF"
 url_project = ""
 url_video = ""
-url_bibtex = "//coallaoh.github.io/data/jaehyun2025iclr.txt"
 
 [[authors]]
     name = "Jaehyun Pahk"

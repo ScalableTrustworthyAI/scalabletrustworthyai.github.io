@@ -9,7 +9,7 @@
 {{ with $.Params.url_dataset2 }}<a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ . | absURL }}">Dataset</a>{{ end }}
 {{ with $.Params.url_project }}<a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ . | absURL }}">Project</a>{{ end }}
 {{ with $.Params.url_poster }}<a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ . | absURL }}">Poster</a>{{ end }}
-{{ with $.Params.url_bibtex }}<a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ . | absURL }}">Bibtex</a>{{ end }}
+{{ with $.Params.url_rtai }}<a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ . | absURL }}">RTAI</a>{{ end }}
 
 {{ range $.Params.url_custom }}
 <a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ .url | absURL }}">{{ .name }}</a>

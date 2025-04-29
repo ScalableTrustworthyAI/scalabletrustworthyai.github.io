@@ -13,7 +13,6 @@ url_dataset = ""
 url_pdf = "//arxiv.org/abs/2504.04981"
 url_project = ""
 url_video = ""
-url_bibtex = "//coallaoh.github.io/data/sohyun2025dicotta.txt"
 
 [[authors]]
     name = "Sohyun Lee"

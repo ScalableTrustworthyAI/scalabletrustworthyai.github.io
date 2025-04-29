@@ -12,7 +12,6 @@ url_dataset = ""
 url_pdf = "//arxiv.org/abs/2504.07092"
 url_project = "//alexanderrubinstein.github.io/are-we-done-with-ocl/"
 url_video = ""
-url_bibtex = ""
 
 
 [[authors]]

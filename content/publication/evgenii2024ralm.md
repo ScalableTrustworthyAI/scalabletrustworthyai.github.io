@@ -13,7 +13,6 @@ url_dataset = ""
 url_pdf = "//arxiv.org/abs/2404.16032"
 url_project = ""
 url_video = ""
-url_bibtex = "//coallaoh.github.io/data/evgenii2024ralm.txt"
 
 
 [[authors]]

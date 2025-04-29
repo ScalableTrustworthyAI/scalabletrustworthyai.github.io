@@ -13,7 +13,6 @@ url_dataset = ""
 url_pdf = "//arxiv.org/abs/2403.07968"
 url_project = ""
 url_video = ""
-url_bibtex = "//coallaoh.github.io/data/ankit2025star.txt"
 
 [[authors]]
     name = "Ankit Sonthalia"

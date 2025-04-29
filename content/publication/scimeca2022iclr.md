@@ -12,7 +12,6 @@ url_dataset = ""
 url_pdf = "//arxiv.org/abs/2110.03095"
 url_project = ""
 url_video = ""
-url_bibtex = "//coallaoh.github.io/data/scimeca2022iclr.txt"
 
 [[authors]]
     name = "Luca Scimeca*"

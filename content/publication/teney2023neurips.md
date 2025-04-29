@@ -14,7 +14,6 @@ url_dataset = ""
 url_pdf = "//arxiv.org/abs/2209.00613"
 url_project = ""
 url_video = ""
-url_bibtex = "//coallaoh.github.io/data/teney2023neurips.txt"
 
 [[authors]]
     name = "Damien Teney"

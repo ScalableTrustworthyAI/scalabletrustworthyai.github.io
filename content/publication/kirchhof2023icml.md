@@ -12,7 +12,6 @@ url_dataset = ""
 url_pdf = "//arxiv.org/abs/2302.02865"
 url_project = ""
 url_video = ""
-url_bibtex = "//coallaoh.github.io/data/kirchhof2023icml.txt"
 
 [[authors]]
     name = "Michael Kirchhof"

@@ -13,7 +13,6 @@ url_dataset = ""
 url_pdf = "//openreview.net/forum?id=ByCV9xWfNK"
 url_project = ""
 url_video = ""
-url_bibtex = "//coallaoh.github.io/data/arnas2025iclr.txt"
 
 [[authors]]
     name = "Arnas Uselis"

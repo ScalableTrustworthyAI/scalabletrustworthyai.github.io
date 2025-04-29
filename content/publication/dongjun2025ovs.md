@@ -13,7 +13,6 @@ url_dataset = ""
 url_pdf = "//arxiv.org/abs/2410.11536"
 url_project = ""
 url_video = ""
-url_bibtex = "//coallaoh.github.io/data/dongjun2025ovs.txt"
 
 [[authors]]
     name = "Dongjun Hwang"

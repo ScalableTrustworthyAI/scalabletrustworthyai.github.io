@@ -13,7 +13,6 @@ url_dataset = ""
 url_pdf = "//arxiv.org/abs/2310.20477"
 url_project = ""
 url_video = ""
-url_bibtex = "//coallaoh.github.io/data/elisa2023neuripsxaiw.txt"
 
 
 [[authors]]

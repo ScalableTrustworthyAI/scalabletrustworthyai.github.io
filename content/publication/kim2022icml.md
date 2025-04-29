@@ -12,7 +12,6 @@ url_dataset = ""
 url_pdf = "//arxiv.org/abs/2205.14959"
 url_project = ""
 url_poster = ""
-url_bibtex = "//coallaoh.github.io/data/kim2022icml.txt"
 
 [[authors]]
     name = "Jang-Hyun Kim"

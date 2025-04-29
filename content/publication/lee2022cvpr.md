@@ -12,7 +12,6 @@ url_dataset = ""
 url_pdf = "//arxiv.org/abs/2203.03860"
 url_project = ""
 url_poster = ""
-url_bibtex = "//coallaoh.github.io/data/lee2022cvpr.txt"
 
 [[authors]]
     name = "Jungbeom Lee"

@@ -13,7 +13,6 @@ url_dataset = ""
 url_pdf = "//arxiv.org/abs/2210.08457"
 url_project = ""
 url_video = ""
-url_bibtex = "//coallaoh.github.io/data/nam2023iccv.txt"
 
 [[authors]]
     name = "Hyeon-Woo Nam"

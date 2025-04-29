@@ -12,7 +12,6 @@ url_dataset = ""
 url_pdf = "//arxiv.org/abs/2305.16867"
 url_project = ""
 url_video = ""
-url_bibtex = "//coallaoh.github.io/data/elif2025naturehumanbehaviour.txt"
 
 
 [[authors]]

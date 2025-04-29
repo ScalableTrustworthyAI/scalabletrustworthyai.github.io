@@ -14,7 +14,6 @@ url_dataset = ""
 url_pdf = "//arxiv.org/abs/2310.08215"
 url_project = "https://trustworthyml.io/"
 url_video = ""
-url_bibtex = "//coallaoh.github.io/data/balint2023tml.txt"
 
 [[authors]]
     name = "Bálint Mucsányi"

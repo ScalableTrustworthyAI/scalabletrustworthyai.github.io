@@ -13,7 +13,6 @@ url_dataset = ""
 url_pdf = "//arxiv.org/abs/2402.19460"
 url_project = ""
 url_video = ""
-url_bibtex = "//coallaoh.github.io/data/balint2024disentanglement.txt"
 
 [[authors]]
     name = "Bálint Mucsányi"
