@@ -1,7 +1,9 @@
 {{ $is_list := .is_list }}
 {{ $ := .content }}
 
+{{ with $.Params.url_arxiv }}<a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ . | absURL }}">arXiv</a>{{ end }}
 {{ with $.Params.url_pdf }}<a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ . | absURL }}">PDF</a>{{ end }}
+{{ with $.Params.url_rtai }}<a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ . | absURL }}">RTAI</a>{{ end }}
 {{ with $.Params.url_slides }}<a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ . | absURL }}">Slides</a>{{ end }}
 {{ with $.Params.url_video }}<a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ . | absURL }}">Video</a>{{ end }}
 {{ with $.Params.url_code }}<a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ . | absURL }}">Code</a>{{ end }}
@@ -9,7 +11,6 @@
 {{ with $.Params.url_dataset2 }}<a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ . | absURL }}">Dataset</a>{{ end }}
 {{ with $.Params.url_project }}<a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ . | absURL }}">Project</a>{{ end }}
 {{ with $.Params.url_poster }}<a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ . | absURL }}">Poster</a>{{ end }}
-{{ with $.Params.url_rtai }}<a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ . | absURL }}">RTAI</a>{{ end }}
 
 {{ range $.Params.url_custom }}
 <a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ .url | absURL }}">{{ .name }}</a>
