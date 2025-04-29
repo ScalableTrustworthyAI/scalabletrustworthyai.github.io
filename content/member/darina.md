@@ -5,9 +5,9 @@ id = "darina"
 interests = ["OOD Generalization", "Representation Learning", "Trustworthy Machine Learning"]
 name = "Darina Koishigarina"
 portrait = "/portraits/darina.jpg"
-short_bio = "MSc student interested in generalization"
+short_bio = "PhD student interested in generalization"
 short_name = "Darina"
-title = "MSc Student"
+title = "PhD Student"
 sort_position = 14
 
 [[social]]
