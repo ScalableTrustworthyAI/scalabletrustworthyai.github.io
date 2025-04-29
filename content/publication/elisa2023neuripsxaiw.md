@@ -10,10 +10,11 @@ selected = false
 title = "Exploring Practitioner Perspectives On Training Data Attribution Explanations"
 url_code = ""
 url_dataset = ""
-url_pdf = "//arxiv.org/abs/2310.20477"
+url_arxiv = "//arxiv.org/abs/2310.20477"
+url_pdf = "//arxiv.org/pdf/2310.20477"
 url_project = ""
 url_video = ""
-url_bibtex = "//coallaoh.github.io/data/elisa2023neuripsxaiw.txt"
+url_rtai = "//researchtrend.ai/papers/2310.20477"
 
 
 [[authors]]

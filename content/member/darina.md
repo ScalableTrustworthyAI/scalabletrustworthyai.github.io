@@ -5,10 +5,10 @@ id = "darina"
 interests = ["OOD Generalization", "Representation Learning", "Trustworthy Machine Learning"]
 name = "Darina Koishigarina"
 portrait = "/portraits/darina.jpg"
-short_bio = "MSc student interested in generalization"
+short_bio = "PhD student interested in generalization"
 short_name = "Darina"
-title = "MSc Student"
-sort_position = 14
+title = "PhD Student"
+sort_position = 12
 
 [[social]]
     icon = "envelope"
@@ -33,7 +33,7 @@ sort_position = 14
 
 [[organizations]]
     name = "University of Tübingen"
-    role = "MSc Student"
+    role = "PhD Student"
 
 +++
 I am pursuing Master's degree in Machine Learning at the [University of Tübingen](https://uni-tuebingen.de/en/), supervised by Seong Joon Oh and Arnas Uselis. 

@@ -11,10 +11,11 @@ selected = false
 title = "ID and OOD Performance Are Sometimes Inversely Correlated on Real-world Datasets"
 url_code = ""
 url_dataset = ""
-url_pdf = "//arxiv.org/abs/2209.00613"
+url_arxiv = "//arxiv.org/abs/2209.00613"
+url_pdf = "//arxiv.org/pdf/2209.00613"
 url_project = ""
 url_video = ""
-url_bibtex = "//coallaoh.github.io/data/teney2023neurips.txt"
+url_rtai = "//researchtrend.ai/papers/2209.00613"
 
 [[authors]]
     name = "Damien Teney"

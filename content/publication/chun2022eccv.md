@@ -10,10 +10,11 @@ selected = false
 title = "ECCV Caption: Correcting False Negatives by Collecting Machine-and-Human-verified Image-Caption Associations for MS-COCO"
 url_code = "//github.com/naver-ai/eccv-caption"
 url_dataset = ""
-url_pdf = "//arxiv.org/abs/2204.03359"
+url_arxiv = "//arxiv.org/abs/2204.03359"
+url_pdf = "//arxiv.org/pdf/2204.03359"
 url_project = ""
 url_poster = ""
-url_bibtex = "//coallaoh.github.io/data/chun2022eccv.txt"
+url_rtai = "//researchtrend.ai/papers/2204.03359"
 
 [[authors]]
     name = "Shanghyuk Chun"

@@ -11,10 +11,11 @@ selected = false
 title = "Trustworthy Machine Learning"
 url_code = ""
 url_dataset = ""
-url_pdf = "//arxiv.org/abs/2310.08215"
+url_arxiv = "//arxiv.org/abs/2310.08215"
+url_pdf = "//arxiv.org/pdf/2310.08215"
 url_project = "https://trustworthyml.io/"
 url_video = ""
-url_bibtex = "//coallaoh.github.io/data/balint2023tml.txt"
+url_rtai = "//researchtrend.ai/papers/2310.08215"
 
 [[authors]]
     name = "Bálint Mucsányi"

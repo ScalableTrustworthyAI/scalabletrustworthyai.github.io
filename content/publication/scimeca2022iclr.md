@@ -9,10 +9,11 @@ selected = false
 title = "Which Shortcut Cues Will DNNs Choose? A Study from the Parameter-Space Perspective"
 url_code = ""
 url_dataset = ""
-url_pdf = "//arxiv.org/abs/2110.03095"
+url_arxiv = "//arxiv.org/abs/2110.03095"
+url_pdf = "//arxiv.org/pdf/2110.03095"
 url_project = ""
 url_video = ""
-url_bibtex = "//coallaoh.github.io/data/scimeca2022iclr.txt"
+url_rtai = "//researchtrend.ai/papers/2110.03095"
 
 [[authors]]
     name = "Luca Scimeca*"

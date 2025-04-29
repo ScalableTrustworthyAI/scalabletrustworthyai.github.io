@@ -9,10 +9,11 @@ selected = false
 title = "Probabilistic Contrastive Learning Recovers the Correct Aleatoric Uncertainty of Ambiguous Inputs"
 url_code = "https://github.com/mkirchhof/Probabilistic_Contrastive_Learning"
 url_dataset = ""
-url_pdf = "//arxiv.org/abs/2302.02865"
+url_arxiv = "//arxiv.org/abs/2302.02865"
+url_pdf = "//arxiv.org/pdf/2302.02865"
 url_project = ""
 url_video = ""
-url_bibtex = "//coallaoh.github.io/data/kirchhof2023icml.txt"
+url_rtai = "//researchtrend.ai/papers/2302.02865"
 
 [[authors]]
     name = "Michael Kirchhof"

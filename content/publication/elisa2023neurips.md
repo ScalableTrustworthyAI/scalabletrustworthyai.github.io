@@ -10,10 +10,11 @@ selected = false
 title = "A Bayesian Perspective On Training Data Attribution"
 url_code = "https://github.com/elisanguyen/bayesian-tda"
 url_dataset = ""
-url_pdf = "//arxiv.org/abs/2305.19765"
+url_arxiv = "//arxiv.org/abs/2305.19765"
+url_pdf = "//arxiv.org/pdf/2305.19765"
 url_project = ""
 url_video = ""
-url_bibtex = "//coallaoh.github.io/data/elisa2023neurips.txt"
+url_rtai = "//researchtrend.ai/papers/2305.19765"
 
 
 [[authors]]

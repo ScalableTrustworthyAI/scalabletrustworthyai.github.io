@@ -9,6 +9,7 @@ short_bio = "MSc student"
 short_name = "Albert"
 title = "MSc student"
 sort_position = 12
+is_former_member = true
 
 [[social]]
     icon = "envelope"

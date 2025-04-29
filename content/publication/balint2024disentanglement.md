@@ -10,10 +10,11 @@ selected = false
 title = "Benchmarking Uncertainty Disentanglement: Specialized Uncertainties for Specialized Tasks"
 url_code = "//github.com/bmucsanyi/bud"
 url_dataset = ""
-url_pdf = "//arxiv.org/abs/2402.19460"
+url_arxiv = "//arxiv.org/abs/2402.19460"
+url_pdf = "//arxiv.org/pdf/2402.19460"
 url_project = ""
 url_video = ""
-url_bibtex = "//coallaoh.github.io/data/balint2024disentanglement.txt"
+url_rtai = "//researchtrend.ai/papers/2402.19460"
 
 [[authors]]
     name = "Bálint Mucsányi"
