@@ -3,23 +3,22 @@ name: github pages
 on:
   push:
     branches:
-      - master  # Set a branch to deploy
+      - master
   pull_request:
 
 jobs:
   deploy:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         with:
-          submodules: true  # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+          submodules: true
+          fetch-depth: 0
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v2.6.0
         with:
           hugo-version: 'latest'
-          # extended: true
 
       - name: Build
         run: hugo --minify
