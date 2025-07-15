@@ -13,22 +13,27 @@ sort_position = 3
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:rubinshteyn.ar@phystech.edu"
+    link = "mailto:rubalex14@gmail.com"
+
+[[social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "https://x.com/a_rubique"
+
+[[social]]
+    icon = "google-scholar"
+    icon_pack = "ai"
+    link = "https://scholar.google.com/citations?user=upi0cDcAAAAJ&hl=en"
 
 [[social]]
     icon = "github"
     icon_pack = "fa"
-    link = "https://github.com/AlexanderRubinstein"
+    link = "https://github.com/arubique"
 
 [[social]]
     icon = "linkedin"
     icon_pack = "fa"
     link = "https://www.linkedin.com/in/alexander-rubinstein-043564116/"
-
-[[social]]
-    icon = "whatsapp"
-    icon_pack = "fa"
-    link = "https://wa.me/79652404357"
 
 [[education]]
     course = "MSc in Data Science"
@@ -50,6 +55,7 @@ sort_position = 3
     role = "PhD Student"
 
 +++
+My personal page is at [arubique.github.io](https://arubique.github.io/).
 
 I am a PhD Student at the [Tübingen AI Center](https://tuebingen.ai/) at the [University of Tübingen](https://uni-tuebingen.de/en/) and the International Max Planck Research School for Intelligent Systems ([IMPRS-IS](https://imprs.is.mpg.de/)), where I work in the group on Scalable Trustworthy AI (STAI). I am interested in researching the ways of making models not only perfectly classify MNIST but also not fail too much on real world tasks. In case possibilities of some models are limited to academic datasets, I want to understand why that is the case.
 
