@@ -3,19 +3,19 @@ abstract = "Compositional generalization is crucial for human intelligence, yet 
 date = "2025-05-01T00:00:00+00:00"
 publication_date = "2025-07-01T00:00:00+00:00"
 to_be_published = true
-image = "arnas2025icml.png"
+image = "arnas2025scaling.png"
 math = false
 publication = "International Conference on Machine Learning"
 publication_short = "ICML"
 selected = false
 title = "Does Data Scaling Lead to Visual Compositional Generalization?"
-url_code = ""
+url_code = "//github.com/oshapio/visual-compositional-generalization"
 url_dataset = ""
-url_arxiv = ""
-url_pdf = "//openreview.net/forum?id=M2WMUuwoh5"
+url_arxiv = "//arxiv.org/abs/2507.07102"
+url_pdf = "//arxiv.org/pdf/2507.07102"
 url_project = ""
 url_video = ""
-url_rtai = ""
+url_rtai = "//researchtrend.ai/papers/2507.07102"
 
 [[authors]]
     name = "Arnas Uselis"
