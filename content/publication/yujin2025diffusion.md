@@ -19,11 +19,13 @@ url_rtai = "//researchtrend.ai/papers/2505.17955"
 
 [[authors]]
     name = "Yujin Jeong"
+    star = true
     is_member = false
 [[authors]]
     name = "Arnas Uselis"
     is_member = true
     id = "arnas"
+    star = true
 [[authors]]
     name = "Seong Joon Oh"
     is_member = true
