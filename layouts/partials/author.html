@@ -3,7 +3,7 @@
 {{$name := .context.name}}
 {{if isset $current_author "star"}}
   {{if $current_author.star }}
-    {{$suffix := print "*" $suffix}}
+    {{$suffix = print "*" $suffix}}
   {{end}}
 {{end}}
 <span class="author-name">
