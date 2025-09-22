@@ -19,11 +19,11 @@ url_rtai = "//researchtrend.ai/papers/2303.17595"
 
 
 [[authors]]
-    name = "Dongyoon Han*"
+    name = "Dongyoon Han"
     is_member = false
     star = true
 [[authors]]
-    name = "Junsuk Choe*"
+    name = "Junsuk Choe"
     is_member = false
     star = true
 [[authors]]
