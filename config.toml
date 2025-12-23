@@ -17,7 +17,7 @@ tag = "tags"
 [params]
   # author = "Seong Joon Oh"
   email = "coallaoh@gmail.com"
-  address = "Maria-von-Linden-Straße 6, 72076 Tübingen, Germany"
+  address = "Seoul AI Hub, 108 Taebong-ro, Seocho-gu, Seoul 06764, South Korea<br>서울 AI 허브, 서울특별시 서초구 태봉로 108"
 
   slogan = "Scalable Trustworthy AI"
   slogan_text = "Creating scalable and trustworthy AI with human guidance"
