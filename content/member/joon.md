@@ -51,15 +51,15 @@ sort_position = 1
     year = 2013
 
 [[organizations]]
-    name = "University of Tübingen"
-    role = "Group Leader"
+    name = "KAIST AI"
+    role = "Associate Professor"
 
 +++
 
 My personal page is at [seongjoonoh.com](https://coallaoh.github.io/).
 
-I am an independent group leader at the [Tübingen AI Center](https://tuebingen.ai/) at the University of Tübingen, where I lead the group on Scalable Trustworthy AI (STAI). I am interested in training reliable models (e.g. explainable, robust, and probabilistic models) and obtaining the necessary human supervision and guidance in a cost-effective way.
+I am an associate professor at [KAIST AI](https://gsai.kaist.ac.kr/), where I lead the group on Scalable Trustworthy AI (STAI). I am interested in training reliable models (e.g. explainable, robust, and probabilistic models) and obtaining the necessary human supervision and guidance in a cost-effective way.
 
-I have been a research scientist at [NAVER AI Lab](https://github.com/naver-ai) for 3.5 years. I received my PhD in computer vision and machine learning at [Max-Planck Institute for Informatics](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning) in 2018, under the supervision of [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele) and [Mario Fritz](https://cispa.saarland/group/fritz/). My PhD thesis focused on the privacy and security implications of CV and ML ([link](https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/27146)). I received the Master of Mathematics with [Distinction](https://en.wikipedia.org/wiki/Part_III_of_the_Mathematical_Tripos) in 2014 and Bachelor of Arts in Mathematics as a [Wrangler](https://en.wikipedia.org/wiki/Wrangler_(University_of_Cambridge)) in 2013, both from the University of Cambridge.
+Previously, I was a W2 professor at the [Tübingen AI Center](https://tuebingen.ai/) & the University of Tübingen for 4 years. Before that, I was a research scientist at [NAVER AI Lab](https://github.com/naver-ai) for 3.5 years. I received my PhD in computer vision and machine learning at [Max-Planck Institute for Informatics](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning) in 2018, under the supervision of [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele) and [Mario Fritz](https://cispa.saarland/group/fritz/). My PhD thesis focused on the privacy and security implications of CV and ML ([link](https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/27146)). I received the Master of Mathematics with [Distinction](https://en.wikipedia.org/wiki/Part_III_of_the_Mathematical_Tripos) in 2014 and Bachelor of Arts in Mathematics as a [Wrangler](https://en.wikipedia.org/wiki/Wrangler_(University_of_Cambridge)) in 2013, both from the University of Cambridge.
 
 I have started compiling the [principles for life and research](https://github.com/coallaoh/Principles).
