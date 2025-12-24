@@ -2,7 +2,7 @@ publishdir = "public"
 static = "/static"
 builddrafts = false
 # Replace this with your website URL
-baseurl = "https://ScalableTrustworthyAI.github.io"
+baseurl = "https://s-t-a-i.github.io/scalabletrustworthyai.github.io/"
 canonifyurls = true
 title = "Scalable Trustworthy AI"
 math = true
