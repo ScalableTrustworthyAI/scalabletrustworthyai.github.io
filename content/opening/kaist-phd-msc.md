@@ -5,7 +5,7 @@ short_description = ""
 status = "Open"
 +++
 
-1. Contact [Seong Joon Oh](mailto:coallaoh@gmail.com)
+1. Send an email to [Seong Joon Oh](mailto:coallaoh@gmail.com) with your CV and research statement attached
 2. Coffee chat with Seong Joon & lab members to figure out fit
 3. Interview: The interview structure is 30 min + 30 min.
    - *First half*: You'll present your prior work. Typically, applicants aim for a 10-minute talk to present one or two relevant past work. This leaves ample time (20 minutes) for discussion.
