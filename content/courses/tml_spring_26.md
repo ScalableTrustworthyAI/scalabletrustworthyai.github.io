@@ -4,7 +4,7 @@ semester = "Spring Semester 2026"
 university = "KAIST AI"
 image = "tml-compass.jpg"
 sort_position = 7
-description = "As machine learning technology gets applied to actual products and solutions, new challenges have emerged. Models unexpectedly fail to generalise well to small changes in the distribution; some models are found to utilise sensitive features that could treat certain demographic user groups unfairly; models tend to be confident on novel types of data; models cannot communicate the rationale behind their decisions effectively with the end users like medical staff to maximise the human-machine synergies. Collectively, we face a trustworthiness issue with the current machine learning technology. A large fraction of the machine learning research nowadays is dedicated to expanding the frontier of Trustworthy Machine Learning (TML). The course covers a theoretical and technical background for key topics in TML. We conduct a critical review of important classical and contemporary research papers on related topics and provide hands-on practicals to implement TML techniques."
+description = "Trustworthy machine learning is one of the remaining hurdles for AI deployment. Without trust, AI cannot transform our means of production. Trustworthy AI is the key to AI-led productivity boosts. As machine learning technology gets applied to actual products and solutions, new challenges have emerged. Foundation models struggle to generalise compositionally to novel combinations of concepts. Models tend to be overconfident on novel types of data. Models cannot communicate the rationale behind their decisions effectively to end users like medical staff. Collectively, we face a trustworthiness issue with current machine learning technology. A large fraction of machine learning research today is dedicated to Trustworthy Machine Learning (TML). This course covers theoretical and technical background for key topics in TML. We conduct a critical review of important classical and contemporary research papers and provide hands-on practicals to implement TML techniques."
 +++
 
 ## Overview
@@ -33,7 +33,25 @@ Note: The course materials are updated yearly to stay aligned with the latest re
 
 ## Policies
 
-TBD
+### Grading
+
+- Participation: 20%
+- Assignments: 40%
+- Final presentation: 40%
+
+### Use of language models
+
+Students may use language models. However, you are solely responsible for all outputs you submit. We will apply heavy penalties for:
+- Hallucinated or factually incorrect outputs.
+- Unsound or fabricated citations.
+- Plagiarised materials.
+- AI slop (low-effort, generic AI-generated content).
+
+Severe cases may be reported to the university for disciplinary action.
+
+You must be ready to answer clarification requests from the lecturer or tutors at any point. Inability to explain your own work will be treated as evidence of academic misconduct.
+
+We do not tolerate very similar creative work among class members. AI tends to produce similar outputs across sessions and model families. Diversify your answers, especially for creative work. Suspicion of copied work will be penalised.
 
 ## Communication
 
@@ -63,30 +81,30 @@ For those who're registered for the course, ask the lecturer or tutors to add yo
 
 ## When & where
 
-TBD
+**Lecture**: 양재산학캠퍼스 대강의실 (or Zoom)
 
-### Exam dates and locations
-
-TBD
+- Fridays 13:00-16:00
 
 ## Schedule & exercises
 
 {{<table "table table-striped table-bordered">}}
-|   #   |   Date    |   Lecture content     |   Exercises   | Tutorial session |
-|---    |---    |---    |---    |---    |
-|    -      |      |         |     |   |
-|   L1      |      |         |     |   |
-|   L2      |      |         |     |   |
-|   L3      |      |         |     |   |
-|   L4      |      |         |     |   |
-|   L5      |      |         |     |   |
-|   L6      |      |         |     |   |
-|   L7      |      |         |     |   |
-|   L8      |      |         |     |   |
-|   L9      |      |         |     |   |
-|   L10     |      |         |     |   |
-|   L11     |      |         |     |   |
-|   L12     |      |         |     |   |
-|      ...    |      |         |     |   |
+|   #   |   Date    |   Lecture content     |   Exercises   |
+|---    |---    |---    |---    |
+|   L1      |      |   Introduction   |     |
+|   L2      |      |   Generalisation I   |     |
+|   L3      |      |   Generalisation II   |     |
+|   L4      |      |   Generalisation III   |     |
+|   L5      |      |   Explainability I   |     |
+|   L6      |      |   Explainability II   |     |
+|   L7      |      |   Explainability III   |     |
+|   L8      |      |   Midterm period   |     |
+|   L9      |      |   Uncertainty I   |     |
+|   L10     |      |   Uncertainty II   |     |
+|   L11     |      |   Uncertainty III   |     |
+|   L12     |      |   Uncertainty IV   |     |
+|   L13     |      |   Advanced topics   |     |
+|   L14     |      |   Review and conclusion   |     |
+|   L15     |      |   Project presentations   |     |
+|   L16     |      |   Final period   |     |
 {{</table>}}
 
