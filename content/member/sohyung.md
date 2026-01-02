@@ -14,8 +14,8 @@
 
 +++
 
-I am a PhD student in the International Max-Planck Research School for Intelligent Systems (IMPRS-IS), supervised by Christian Baumgartner and co-supervised by Seong Joon Oh at the University of Tübingen.
+I am a PhD student supervised by Seong Joon Oh at KAIST.
 
-I work on few-shot learning and domain generalisation for medical image analysis. I am passionate about developing more “human-like” machine learning methods, which mimic our ability to make predictions based on a limited number of training examples and to generalise to unsee tasks.
+I work on efficient architectures driven by bio-plausible learning. By combining mechanistic interpretability with human-centric benchmarking, I aim to build AI systems that understand and align with human intention and emotion.
 
-Before joining the University of Tübingen, I obtained my Bachelor’s degree in Computer Science from University of Konstanz and my Master’s degree in Computer Science from ETH Zürich, focusing mainly on Machine Leanring and on Computer Vision.
+Before joining the KAIST, I obtained my Bachelor’s degree in Biotechnology/Artificial Intelligence from Korea University and my Master’s degree in Artificial Intelligence from Seoul National University, advised by MyungJoo Kang, department of mathematical science, focusing on reinforcement learning and Out-of-distrribution learning and contrastive learning. During internship, I've worked as student researcher in IBS, in South Korea, supervised by C.Justin Lee.
