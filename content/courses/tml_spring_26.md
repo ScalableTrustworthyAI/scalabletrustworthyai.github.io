@@ -57,11 +57,12 @@ We do not tolerate very similar creative work among class members. AI tends to p
 
 ### Lecturer
 
-- [Joon](../../member/joon/)
+- [Seong Joon Oh](../../member/joon/)
 
 ### Tutors
 
-TBD
+- [Bryan Truong](../../member/bryan)
+- [Seokwon Jung](../../member/seokwonjung)
 
 ### Central email
 
